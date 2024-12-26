@@ -1,60 +1,95 @@
 = Wyrmhunt
 
-== What’s new in 2024
-
-Nothing
-
 == SzHb’s Notes
 
-. Get normal quality *_T10_* Fallen Sky Hood / Helmet from Arisen Quetzacoatl, headpiece that gives 1.1x view distance.
-. *[Heretic]* Get Ornate *_T10_* Fallen Sky Shoes from Arisen Quetzacoatl, a Heretic’s Robe for your feet.
-. Get *_T6/T10_* (Ymir) Vritra Charm, accessory that gives an immunity to Stun, Paralyze, Petrify, and an extra 8% status protection. Ymir version gives +HP and +Mana so try to get Ornate quality.
-. *[Summoner]* Get Ornate *_T8/10_* (Ymir) Beithir’s Staff, 18% / 33% Summon Stats , ward and a 2H summon ability.
-. Get some Superior or higher *_T10_* Jewel of Creation from Ymir, armor adorn that give 2% ward and some stats.
-. Get Normal quality *_T10_* Trialing Bow / Axe / Staff for memory and quest bonus.
+=== Goodies
+
+. Fallen Sky Hood / Helmet
+* 1.1x view distance
+* From Arisen Quetzalcoatl
+* VD head piece. Quality doesn't matter
+. Fallen Sky Shoes
+* 512 magic (200% Godforged)
+* From Arisen Quetzalcoatl
+* For magic-relying builds
+. (Ymir) Vritra Charm
+* Immunity to Stun, Paralyze, Petrify, and an extra 8% status protection
+* From Vritra / Ymir
+* For classes without Steadfast
+. Ymir Beithir’s Staff
+* 33% Summon Stats, summon 2 Beithir which can replicate
+* From Ymir
+* For BP party play
+. Jewel of Creation
+* 2% ward (superior+) and overall stat boost
+* From Ymir
+* Very good armor adorn
+. Trialing Bow / Axe / Staff
+* 1.1x memory / quest reward
+* From Gorynych
+* For memory / quest hunt. Quality doesn't matter
+. Lotan
+* 15% debuff rate fot blight
+* From Bestiary and Monumental Guild
+* Good Ultima pet
+
+=== Tips
+
+. Run more boss horde for godforge.
 
 == Event Checklist (mostly from community)
 
 === Followers
 
-Only available after you codex their boss version.
+The following pets are only available after you codex their boss version.
 
-* *_T5_* Lotan
-* *_T6_* Vritra
-* *_T7_* Agathodaemon
-* *_T7_* Zaltys
-* *_T8_* Illuyanka
-* *_T9_* Bashe
-* *_T9_* Quetzalcoatl
-* *_T10_* Gorynych
-* *_T10_* Ymir
+[options="header"]
+|===
+|★ |Name
+|5 |https://codex.fqegg.top/#/codex/followers/lotan-coiled-one/[Lotan]
+|6 |https://codex.fqegg.top/#/codex/followers/vritra-the-steadfast/[Vritra]
+|7 |https://codex.fqegg.top/#/codex/followers/agathodaemon/[Agathodaemon]
+|7 |https://codex.fqegg.top/#/codex/followers/zaltys-friendly-one/[Zaltys]
+|8 |https://codex.fqegg.top/#/codex/followers/illuyanka-made-of-stone/[Illuyanka]
+|9 |https://codex.fqegg.top/#/codex/followers/bashe-hungry-one/[Bashe]
+|9 |https://codex.fqegg.top/#/codex/followers/quetzalcoatl-feathered-one/[Quetzalcoatl]
+|10 |https://codex.fqegg.top/#/codex/followers/gorynych-son-of-mountains/[Gorynych]
+|10 |https://codex.fqegg.top/#/codex/followers/ymir-amphiptere/[Ymir]
+|===
 
 They all have longer names in game.
 
 === Bosses
 
-Can be found in Regular Dungeon, Dragon Roost and world.
+The following bosses can be found in Regular Dungeon, Dragon Roost and world. Ymir can be found in VOTG.
 
 In order to see the next boss, you’ll have to codex the previous one, starting at T5. Check Codex site for codex entries.
 
-* *_T5_* Lotan ^*GF^ ^Aura^
-* *_T6_* Vritra ^*GF^ ^Aura^
-* *_T7_* Agathodaemon ^*GF^ ^Aura^
-* *_T7_* Zaltys ^*GF^ ^Aura^
-* *_T8_* Illuyanka ^*GF^ ^Aura^
-* *_T8_* Beithir ^*GF^ ^Aura^
-* *_T9_* Bashe ^*GF^ ^Aura^
-* *_T9_* Quetzalcoatl ^*GF^ ^Aura^
-* *_T10_* Gorynych ^*GF^ ^Aura^
-* *_T10_* Ymir ^*GF^ ^Aura^
+[options="header"]
+|===
+|★ |Name
+|5 |https://codex.fqegg.top/#/codex/bosses/lotan-coiled-one/[Lotan] ^*GF^ ^Aura^
+|6 |https://codex.fqegg.top/#/codex/bosses/vritra-the-steadfast/[Vritra] ^*GF^ ^Aura^
+|7 |https://codex.fqegg.top/#/codex/bosses/agathodaemon/[Agathodaemon] ^*GF^ ^Aura^
+|7 |https://codex.fqegg.top/#/codex/bosses/zaltys-friendly-one/[Zaltys] ^*GF^ ^Aura^
+|8 |https://codex.fqegg.top/#/codex/bosses/illuyanka-made-of-stone/[Illuyanka] ^*GF^ ^Aura^
+|8 |https://codex.fqegg.top/#/codex/bosses/beithir/[Beithir] ^*GF^ ^Aura^
+|9 |https://codex.fqegg.top/#/codex/bosses/bashe-hungry-one/[Bashe] ^*GF^ ^Aura^
+|9 |https://codex.fqegg.top/#/codex/bosses/quetzalcoatl-feathered-one/[Quetzalcoatl] ^*GF^ ^Aura^
+|10 |https://codex.fqegg.top/#/codex/bosses/gorynych-son-of-mountains/[Gorynych] ^*GF^ ^Aura^
+|10 |https://codex.fqegg.top/#/codex/bosses/ymir-amphiptere/[Ymir] ^*GF^ ^Aura^
+|===
 
-They all have longer names in game.
+=== Raids
 
-=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
-
-* *[K]* *_T5_* Tatzelwurms
-* *[K]* *_T8_* Orochi
-* *[K/W]* *_T10_* Arisen Quetzalcoatl
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|5 |K |https://codex.fqegg.top/#/codex/raids/tatzelwurms/[Tatzelwurms]
+|8 |K |https://codex.fqegg.top/#/codex/raids/orochi/[Orochi]
+|10 |K W |https://codex.fqegg.top/#/codex/raids/arisen-quetzalcoatl/[Arisen Quetzalcoatl]
+|===
+[.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll)#
 
 '''''
 
