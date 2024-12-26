@@ -80,6 +80,8 @@ In order to see the next boss, you’ll have to codex the previous one, starting
 |10 |https://codex.fqegg.top/#/codex/bosses/ymir-amphiptere/[Ymir] ^*GF^ ^Aura^
 |===
 
+They all have longer names in game.
+
 === Raids
 
 [options="header"]
