@@ -4,6 +4,7 @@ antora:
 site:
   title: SzHb's Orna Notes
   start_page: SzHb's Orna Notes::index.adoc
+  url: /
 content:
   sources:
   - url: .
