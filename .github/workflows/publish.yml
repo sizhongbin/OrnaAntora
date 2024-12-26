@@ -30,6 +30,8 @@ jobs:
         run: npx antora antora-playbook.yml
       - name: Create CNAME file
         run: echo orna-notes.zsi.us.kg > build/site/CNAME
+      - name: Add .nojekyll file
+        run: touch build/site/.nojekyll
       - name: Deploy to GitHub Pages
         id: deployment
         uses: crazy-max/ghaction-github-pages@v4
