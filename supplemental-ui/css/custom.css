@@ -2,3 +2,11 @@
   width: 100%;
   overflow-x: auto;
 }
+
+tr:nth-child(even) {
+  background-color: #F7F7F7;
+}
+
+td {
+  white-space: nowrap;
+}
