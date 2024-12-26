@@ -21,8 +21,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
       - name: Install Node.js
         uses: actions/setup-node@v4
         with:
@@ -33,10 +31,11 @@ jobs:
         run: npx antora antora-playbook.yml
       - name: Create CNAME file
         run: echo orna-notes.zsi.us.kg > build/site/CNAME
-      - name: Upload Artifacts
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: build/site
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: gh-pages
+          build_dir: build/site
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
