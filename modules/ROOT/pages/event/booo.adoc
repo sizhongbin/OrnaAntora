@@ -1,0 +1,28 @@
+= BoooOOOOooooOOOooo
+
+== SzHb’s Notes
+
+[arabic]
+. No quests.
+. Get *_T6_* Scary Skeleton or *_T9_* Very Scary Skeleton pet, which can cause Lulled, T.Def↓↓ and T.Res↓↓.
+. Get *_T4_* Ectoplasm from the Bosses, which has physical resistance but high chance that you’ll fall asleep.
+
+== Event Checklist (mostly from community)
+
+=== Followers
+
+* *_T6_* Scary Skeleton
+* *_T7_* Spooky Ghost
+* *_T9_* Very Scary Skeleton
+
+=== Bosses
+
+* *_T4_* Spooky Ghost
+* *_T8_* Terrifying Ghost
+
+=== Monsters
+
+* *_T1_* Scary Skeleton
+* *_T4_* Frightening Skeleton
+* *_T8_* Very Scary Skeleton
+* *_T8_* Onryo

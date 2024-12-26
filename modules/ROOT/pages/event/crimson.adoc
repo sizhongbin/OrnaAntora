@@ -1,0 +1,84 @@
+= The Crimson Festival
+
+== SzHb’s Notes
+
+=== Goodies
+
+. Ferocious Bull’s Eye
+* 4% crit weapon adorn with some stats
+* From Ferocious Cerus
+* Good adorn for non-celestial crit weapon
+. Gorgon’s Eye
+* 4% crit weapon adorn with status protection
+* From Noble Perseus
+* Good adorn for non-celestial crit weapon
+. Goat’s Hood
+* -600 foresight
+* From Tricky Aries
+* For summoner in party play
+
+=== Tips
+
+. All Perseus gears can be dismantled for ancient stone.
+
+== Event Checklist (mostly from community)
+
+=== Followers
+
+[options="header"]
+|===
+|★ |Name
+|7 |https://codex.fqegg.top/#/codex/followers/cerus/[Cerus]
+|9 |https://codex.fqegg.top/#/codex/followers/raging-cerus/[Raging Cerus]
+|9 |https://codex.fqegg.top/#/codex/followers/untamed-cerus/[Untamed Cerus]
+|10 |https://codex.fqegg.top/#/codex/followers/medusa/[Medusa]
+|===
+
+=== Raids
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|6 |K A |https://codex.fqegg.top/#/codex/raids/aries/[Aries]
+|9 |A |https://codex.fqegg.top/#/codex/raids/aloof-aries/[Aloof Aries]
+|9 |K |https://codex.fqegg.top/#/codex/raids/tricky-aries/[Tricky Aries]
+|6 |K C |https://codex.fqegg.top/#/codex/raids/cerus/[Cerus]
+|9 |C |https://codex.fqegg.top/#/codex/raids/ferocious-cerus/[Ferocious Cerus]
+|9 |K |https://codex.fqegg.top/#/codex/raids/furious-cerus/[Furious Cerus]
+|6 |K P |https://codex.fqegg.top/#/codex/raids/perseus/[Perseus]
+|9 |P |https://codex.fqegg.top/#/codex/raids/noble-perseus/[Noble Perseus]
+|9 |K |https://codex.fqegg.top/#/codex/raids/untarnished-perseus/[Untarnished Perseus]
+|===
+[.small]#*Spawn: K = Kingdom, C = Crimson Summoning Scroll (Cerus), A = Crimson Summoning Scroll (Aries), P = Crimson Summoning Scroll (Perseus)#
+
+=== Boss
+
+[options="header"]
+|===
+|★ |Name
+|10 |https://codex.fqegg.top/#/codex/bosses/medusa/[Medusa] ^*GF^ ^Aura^
+|===
+
+=== Monsters
+
+Event monsters have the same name but 3 different tiers.
+
+[options="header"]
+|===
+|★ |Name
+|7 |https://codex.fqegg.top/#/codex/monsters/aries-acolyte/[Aries Acolyte]
+|7 |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte-73d59be2/[Cerus Acolyte]
+|7 |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte-f1d8afb3/[Perseus Acolyte]
+|9 |https://codex.fqegg.top/#/codex/monsters/aries-acolyte-a1881496/[Aries Acolyte]
+|9 |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte-5965f9aa/[Cerus Acolyte]
+|9 |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte/[Perseus Acolyte]
+|10 |https://codex.fqegg.top/#/codex/monsters/aries-acolyte-738a517f/[Aries Acolyte]
+|10 |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte/[Cerus Acolyte]
+|10 |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte-ff80be87/[Perseus Acolyte]
+|===
+
+'''''
+
+_Red is the most popular color in China. You can find it everywhere during festivals and weddings. It symbolizes fortune, happiness and prosperity._
+
+_by SzHb_

@@ -1,0 +1,59 @@
+= The Plight of Apollyon
+
+== What’s new in 2024
+
+. Add X mobs and raids.
+. A new event raid respawn mechanism.
+
+== SzHb’s Notes
+
+. Get Normal *_T5_* / *_T8_* / *_T10_* Elemental Books (X) of your faction element and dragon, which are useful for proccing a specific alignment.
+. Get Ornate *_T10_* Beguiled Mystic Katar X, very useful for classes without steadfast.
+. Get Ornate *_T10_* Beguiled weapon X if you need, give you 1.3x damage for 4 faction elements with 0.5x damage for 4 secondary elements.
+
+== SzHb’s Tips
+
+. Book of Fire/Water/Lightning/Earth/Dragon/Arcane have 15% proc rate, while X version have 30%. Book of Holy/Dark have 20% proc rate, while X version have 50%.
+. Alignments are buffs you can give to yourself that give you 1.5x damage and immune for that element. But is the case for the four faction elements, you get a weakness to another element (Earth is weak to Fire, which is weak to Water, which is weak to Lightning, which is weak to Earth).
+
+== Event Checklist (mostly from community)
+
+=== Followers
+
+* *_T5_* Apollyon’s Pupil (Lightning)
+* *_T5_* Apollyon’s Pupil (Earth)
+* *_T5_* Apollyon’s Pupil (Water)
+* *_T5_* Apollyon’s Pupil (Fire)
+* *_T10_* Apollyon’s Apprentice (Lightning)
+* *_T10_* Apollyon’s Apprentice (Earth)
+* *_T10_* Apollyon’s Apprentice (Water)
+* *_T10_* Apollyon’s Apprentice (Fire)
+
+=== Monsters
+
+*_T5_* and *_T8_* mobs can be found in Regular Dungeon. *_T10_* mobs can be found in Balor by using *_T10_* Balor Mnemonic crafted in Monumental Guild.
+
+* *_T5_* Apollyon’s Pupil (Lightning)
+* *_T5_* Apollyon’s Pupil (Earth)
+* *_T5_* Apollyon’s Pupil (Water)
+* *_T5_* Apollyon’s Pupil (Fire)
+* *_T8_* Apollyon’s Apprentice
+* *_T10_* Apollyon’s Pupil X (Lightning) *(NEW)*
+* *_T10_* Apollyon’s Pupil X (Earth) *(NEW)*
+* *_T10_* Apollyon’s Pupil X (Water) *(NEW)*
+* *_T10_* Apollyon’s Pupil X (Fire) *(NEW)*
+* *_T10_* Apollyon’s Apprentice X *(NEW)*
+
+=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+
+*_T10_* Beguiled Apollyon X can be found in Balor by using *_T10_* Balor Mnemonic crafted in Monumental Guild.
+
+* *[K/W]* *_T5_* Young Apollyon
+* *[K/W]* *_T10_* Beguiled Apollyon
+* *[O]* *_T10_* Beguiled Apollyon X *(NEW)*
+
+'''''
+
+_Elemental Books are mostly used in endless run._
+
+_by SzHb_

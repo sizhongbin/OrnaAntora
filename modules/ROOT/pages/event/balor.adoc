@@ -1,0 +1,38 @@
+= Balor Invades
+
+== SzHb’s Notes
+
+[arabic]
+. Get 2 *_T7_* Lugus Gauntlets (any quality) from raid.
+. All Dagda gears can be dismantled for Twilightstone, which is hard to get normally.
+
+== Event Checklist (mostly from community)
+
+=== Followers
+
+* *_T6_* Balor Flame
+* *_T6_* Balor Worm
+* *_T6_* Cruel Banshee
+
+=== Monsters
+
+Can be found in Underworld Portal and World. Some of them can be also found in Regular Dungeon or Mystic Cave.
+
+* *_T5_* Elite Balor Guardian
+* *_T9_* Elite Balor Assassin
+* *_T9_* Elite Balor Flame
+* *_T9_* Elite Balor Marauder
+* *_T9_* Elite Balor Warlock
+
+=== Bosses
+
+Can be found in Underworld Portal. T5 and T6 can be also found in Regular Dungeon.
+
+* *_T5_* Elite Balor Worm
+* *_T6_* Dagda
+* *_T10_* Arisen Balor King ^*GF^ ^Aura^
+* *_T10_* Arisen ^*GF^ ^Aura^
+
+=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+
+* *[K]* *_T7_* Grand Knight Lugus

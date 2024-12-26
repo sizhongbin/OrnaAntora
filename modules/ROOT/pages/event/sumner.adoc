@@ -1,0 +1,73 @@
+= Paths of Fomoria - House of Sumner
+
+== SzHb’s Notes
+
+. Gears from different house have different specific effect.
+* Nocturna: Less damage from opponents’ followers/summons.
+* Autumna: Better debuff application. More debuff damage on opponents.
+* Sumner: More AoE damage. Sometimes single target skills will hit a second target.
+* Wintara: Buffs sometimes also apply to party mates. Positive status effects last longer.
+. All gears from House of Sumner event bosses except the ones summoned by crest have Sumner effect. All gears from Paths of Fomoria event bosses summoned by crest have all weakened house effects.
+. Get Summon Buggane if you are summoner (attuner) classline.
+. Get the following immune gears if you need. Useable by warrior only.
+* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Bormana’s Mantle: Frozen
+* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Gobannos’ Heavy Boots: Petrified
+* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Eostre’s Circlet: Stunned
+* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Goibhniu Armguard: Burning
+* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Caticatona Cuirass: Bleeding
+. *[Swash build]* Get Broken *_T4_* gears for chain damage.
+
+== Event Checklist (mostly from community)
+
+=== Bosses
+
+The following bosses will spawn in world when its sunny (or during scroll of chaos), as well as in Chaos Portal. They can be only damaged by melee skills.
+
+* *_T4_* Bormana of Fomoria
+* *_T4_* Caticatona of Fomoria ^*GF^ ^Aura^
+* *_T4_* Gobannos of Fomoria
+* *_T4_* Goibhniu of Fomoria
+* *_T4_* Eostre of Fomoria
+* *_T8_* Cursed Bormana of Fomoria
+* *_T8_* Cursed Caticatona of Fomoria ^*GF^ ^Aura^
+* *_T8_* Cursed Gobannos of Fomoria
+* *_T8_* Cursed Goibhniu of Fomoria
+* *_T8_* Cursed Eostre of Fomoria
+* *_T10_* Arisen Cursed Bormana of Fomoria
+* *_T10_* Arisen Cursed Caticatona of Fomoria ^*GF^ ^Aura^
+* *_T10_* Arisen Cursed Gobannos of Fomoria
+* *_T10_* Arisen Cursed Goibhniu of Fomoria
+* *_T10_* Arisen Cursed Eostre of Fomoria
+
+The following bosses are summoned by Crest of Sumner.
+
+* *_T4_* King Fomor, Sumner ^*GF^ ^Aura^
+* *_T8_* Cursed King Fomor, Sumner ^*GF^ ^Aura^
+* *_T10_* Arisen Cursed King Fomor, Sumner ^*GF^ ^Aura^
+
+=== Monsters
+
+The following mobs will spawn in Regular Dungeon and Beast Den.
+
+* *_T7_* Cernunnos
+* *_T8_* Buggane
+* *_T10_* Glashtyn
+
+=== Followers
+
+* *_T7_* Cernunnos
+* *_T7_* Glashtyn
+* *_T10_* Arisen Cernunnos
+* *_T10_* Arisen Glashtyn
+
+=== Summons
+
+* *_T7_* Summon Cernunnos
+* *_T8_* Summon Buggane
+* *_T10_* Summon Glashtyn
+
+'''''
+
+_The weather is too hot these days._
+
+_by SzHb_

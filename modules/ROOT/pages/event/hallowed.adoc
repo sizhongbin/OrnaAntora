@@ -1,0 +1,108 @@
+= The Hallowed!
+
+== SzHb’s Notes
+
+=== Goodies
+
+. Hallowed Candle
+* 1.05x XP boost item
+* From (Arisen) Pumpkinhead
+* For XP farming
+. Arisen Pumpkinless Gears
+* Low def, high HP, 2H bonus
+* From Arisen Pumpkinless
+* BIS BoF Gears
+. Summon Very Scary Skeleton
+* T8, cause t.Def↓↓ and t.Res↓↓
+* From Arcanist and Monumental Guild
+* Good summon for raid
+
+=== Tips
+
+. You can find event mobs in:
+* World, except Skeleton/Witch/Ghost/Pumpkin Spider
+* Dungeon, except Undead/Mummy/Vampire/Pumpkin Spider
+* Monument
+* Tower, except Pumpkin Spider
+* Rift, except Pumpkin Spider/Spooky Ghost/Terrifying Ghost
+. You can find event materials from:
+* Dried Oak: Skeleton
+* Rotten Leaves: Undead
+* Refined Sugar: Witch
+* Tattered Clothwrap: Mummy
+* Chiroptera Remains: Vampire
+* Fragment of the Planet’s Core: Ghost
+
+== Event Checklist (mostly from community)
+
+=== Followers
+
+[options="header"]
+|===
+|★ |Name
+|6 |https://codex.fqegg.top/#/codex/followers/scarecrow/[Scarecrow]
+|6 |https://codex.fqegg.top/#/codex/followers/scary-skeleton/[Scary Skeleton]
+|7 |https://codex.fqegg.top/#/codex/followers/spooky-ghost/[Spooky Ghost]
+|8 |https://codex.fqegg.top/#/codex/followers/pumpkinhead/[Pumpkinhead]
+|9 |https://codex.fqegg.top/#/codex/followers/onryo/[Onryo]
+|9 |https://codex.fqegg.top/#/codex/followers/very-scary-skeleton/[Very Scary Skeleton]
+|===
+
+=== Raids
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|4 |K |https://codex.fqegg.top/#/codex/raids/pumpkin-spider/[Pumpkin Spider]
+|8 |K W |https://codex.fqegg.top/#/codex/raids/pumpkinhead/[Pumpkinhead]
+|8 |H |https://codex.fqegg.top/#/codex/raids/pumpkinless/[Pumpkinless]
+|10 |K W |https://codex.fqegg.top/#/codex/raids/arisen-pumpkinhead/[Arisen Pumpkinhead]
+|10 |A |https://codex.fqegg.top/#/codex/raids/arisen-pumpkinless/[Arisen Pumpkinless]
+|===
+[.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll), H = Hallowed Summoning Scroll, A = Arisen Hallowed Summoning Scroll#
+
+=== Bosses
+
+[options="header"]
+|===
+|★ |Name
+|4 |https://codex.fqegg.top/#/codex/bosses/spooky-ghost/[Spooky Ghost]
+|8 |https://codex.fqegg.top/#/codex/bosses/terrifying-ghost/[Terrifying Ghost]
+|===
+
+=== Monsters
+
+[options="header"]
+|===
+|★ |Name
+|1 |https://codex.fqegg.top/#/codex/monsters/frightening-skeleton/[Frightening Skeleton]
+|3 |https://codex.fqegg.top/#/codex/monsters/vampire-6bb40b71/[Vampire]
+|4 |https://codex.fqegg.top/#/codex/monsters/ghost-6719abf3/[Ghost]
+|4 |https://codex.fqegg.top/#/codex/monsters/witch/[Witch]
+|4 |https://codex.fqegg.top/#/codex/monsters/scary-skeleton/[Scary Skeleton]
+|5 |https://codex.fqegg.top/#/codex/monsters/mummy/[Mummy]
+|5 |https://codex.fqegg.top/#/codex/monsters/skeleton-96a555cc/[Skeleton]
+|5 |https://codex.fqegg.top/#/codex/monsters/undead/[Undead]
+|8 |https://codex.fqegg.top/#/codex/monsters/pumpkin-spider/[Pumpkin Spider]
+|8 |https://codex.fqegg.top/#/codex/monsters/onryo/[Onryo]
+|8 |https://codex.fqegg.top/#/codex/monsters/very-scary-skeleton/[Very Scary Skeleton]
+|10 |https://codex.fqegg.top/#/codex/monsters/scarecrow/[Scarecrow]
+|===
+
+=== Summons
+
+[options="header"]
+|===
+|★ |Name
+|8 |https://codex.fqegg.top/#/codex/spells/summon-onryo/[Onryo]
+|8 |https://codex.fqegg.top/#/codex/spells/summon-very-scary-skeleton/[Very Scary Skeleton]
+|9 |https://codex.fqegg.top/#/codex/spells/summon-hati/[Hati]
+|9 |https://codex.fqegg.top/#/codex/spells/summon-spooky-ghost/[Spooky Ghost]
+|10 |https://codex.fqegg.top/#/codex/spells/summon-scarecrow/[Scarecrow]
+|===
+
+'''''
+
+_When I was a child, I didn’t like to eat pumpkin, not even a bite._
+
+_by SzHb_

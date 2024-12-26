@@ -1,0 +1,72 @@
+= Paths of Fomoria - House of Nocturna
+
+== SzHb’s Notes
+
+. Gears from different house have different specific effect.
+* Nocturna: Less damage from opponents’ followers/summons.
+* Autumna: Better debuff application. More debuff damage on opponents.
+* Sumner: More AoE damage. Sometimes single target skills will hit a second target.
+* Wintara: Buffs sometimes also apply to party mates. Positive status effects last longer.
+. All gears from House of Nocturna event bosses except the ones summoned by crest have Nocturna effect. All gears from Paths of Fomoria event bosses summoned by crest have all weakened house effects.
+. *[Summoner]* Get Summon Buggane skill, one of the best summon skill.
+. Get the following immune gears if you need. Useable by Valhallan / Summoner only.
+* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Mullo’s Blinders: Blind
+* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Artio’s Hide: Paralyzed
+* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Aengus Og’s Lute: Lulled and Asleep
+* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Belenus’s Boots: Bleeding and Blight
+* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Atepomarus’s Mail: Doom and Confused
+
+== Event Checklist (mostly from community)
+
+=== Bosses
+
+The following bosses will spawn in world at night (or during scroll of chaos), as well as in Chaos Portal. They can be only damaged by Summons / Pets.
+
+* *_T4_* Aengus Og of Fomoria
+* *_T4_* Artio of Fomoria
+* *_T4_* Atepomarus of Fomoria ^*GF^ ^Aura^
+* *_T4_* Belenus of Fomoria
+* *_T4_* Mullo of Fomoria
+* *_T8_* Cursed Aengus Og of Fomoria
+* *_T8_* Cursed Artio of Fomoria
+* *_T8_* Cursed Atepomarus of Fomoria ^*GF^ ^Aura^
+* *_T8_* Cursed Belenus of Fomoria
+* *_T8_* Cursed Mullo of Fomoria
+* *_T10_* Arisen Cursed Aengus Og of Fomoria
+* *_T10_* Arisen Cursed Artio of Fomoria
+* *_T10_* Arisen Cursed Atepomarus of Fomoria ^*GF^ ^Aura^
+* *_T10_* Arisen Cursed Belenus of Fomoria
+* *_T10_* Arisen Cursed Mullo of Fomoria
+
+The following bosses are summoned by Crest of Nocturna.
+
+* *_T4_* King Fomor, Nocturna ^*GF^ ^Aura^
+* *_T8_* Cursed King Fomor, Nocturna ^*GF^ ^Aura^
+* *_T10_* Arisen Cursed King Fomor, Nocturna ^*GF^ ^Aura^
+
+=== Monsters
+
+The following mobs will spawn in Regular Dungeon and Beast Den.
+
+* *_T7_* Cernunnos
+* *_T8_* Buggane
+* *_T10_* Glashtyn
+
+=== Followers
+
+* *_T7_* Cernunnos
+* *_T7_* Glashtyn
+* *_T10_* Arisen Cernunnos
+* *_T10_* Arisen Glashtyn
+
+=== Summons
+
+* *_T7_* Summon Cernunnos
+* *_T8_* Summon Buggane
+* *_T10_* Summon Glashtyn
+
+'''''
+
+_All Nocturna gears have Summon / Pet stats, but maybe only useful for Summon / Pet deep endless build._
+
+_by SzHb_

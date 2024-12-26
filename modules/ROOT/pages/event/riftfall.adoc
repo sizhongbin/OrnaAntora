@@ -1,0 +1,60 @@
+= Riftfall
+
+== SzHb’s Notes
+
+. *[Ultima Build]* Get at least 12 *_T9_* Soul of Achlys from (Arisen) Shade of Achlys, a weapon adorn that provides 1.02x Holy & Dark damage.
+. Get some Superior+ *_T9_* Soul of Rhada from (Arisen) Shade of Rhada if you need, an armor adorn that provides 2% ward, Def/Res and 2% Holy & Dark resistance.
+. *[Summoner]* Get *_T10_* Charon’s Grimoire from Arisen Shade of Charon, provides off-hand skill that can summon Fey Gaze which is very good for endless.
+. *[Thief Crit Build]* Get Ornate *_T10_* Arisen Riftrogue Gears from Arisen Achlys. It’s one of the best crit build gear.
+. *[SS/CS Build]* Get Ornate *_T10_* Spiked Greatshield from Arisen Rhada, provides 1.2x SS/CS damage.
+. *[Summoner]* Finish The questline for *_T6_* Omega Riftlock, provides 25% chance (50% with 2) instant summon.
+. Theta Riftlocks from Shades and Shadows can be used to craft Distortion event summoning scrolls.
+
+== Event Checklist (mostly from community)
+
+=== Followers
+
+* *_T7_* Shadow of Achlys
+* *_T8_* Shadow of Rhada
+* *_T10_* Shade of Achlys
+* *_T10_* Shade of Rhada
+
+=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+
+* *[K/W]* *_T6_* Fallen Achlys
+* *[K/W]* *_T7_* Fallen Rhada
+* *[K/W]* *_T8_* Fallen Charon
+* *[K/W]* *_T10_* Arisen Achlys
+* *[K/W]* *_T10_* Arisen Rhada
+* *[K/W]* *_T10_* Arisen Charon
+
+=== Bosses
+
+Can be found in World and Regular Dungeon last floor.
+
+* *_T5_* Shadow of Achlys
+* *_T6_* Shadow of Rhada
+* *_T7_* Shadow of Charon
+* *_T7_* Shade of Achlys
+* *_T8_* Shade of Rhada
+* *_T9_* Shade of Charon
+
+=== Monsters
+
+Can be found in World and Regular Dungeon.
+
+* *_T5_* Rift Rogue
+* *_T8_* Elite Rift Rogue
+* *_T6_* Riftguard
+* *_T8_* Elite Riftguard
+* *_T7_* Rift Summoner
+* *_T9_* Elite Rift Summoner
+* *_T10_* Arisen Shade of Achlys
+* *_T10_* Arisen Shade of Rhada
+* *_T10_* Arisen Shade of Charon
+
+'''''
+
+_One of The best event. Most classes / builds can get something important during this event._
+
+_by SzHb_

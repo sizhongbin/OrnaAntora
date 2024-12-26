@@ -1,0 +1,46 @@
+= Sisters of Morrigan
+
+== SzHb’s Notes
+
+=== Goodies
+
+. Fey Chimera
+* T10 pet. Direct upgrade from Chimera
+* From Bestiary and Monumental Guild
+* Good pet for berserk build.
+
+=== Tips
+
+. You will get increased rates for Arisen Morrigan in summoning scroll.
+. All Arisen Morrigan gears can be dismantled for Greater Souls.
+
+== Event Checklist (mostly from community)
+
+=== Followers
+
+[options="header"]
+|===
+|★ |Name
+|6 |https://codex.fqegg.top/#/codex/followers/fey-gazer/[Fey Gazer]
+|7 |https://codex.fqegg.top/#/codex/followers/fey-dragon/[Fey Dragon]
+|9 |https://codex.fqegg.top/#/codex/followers/fey-yeti/[Fey Yeti]
+|10 |https://codex.fqegg.top/#/codex/followers/fey-chimera/[Fey Chimera]
+|===
+
+=== Raids
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|6 |K W | https://codex.fqegg.top/#/codex/raids/sister-neman/[Sister Neman]
+|7 |K W | https://codex.fqegg.top/#/codex/raids/sister-badb/[Sister Badb]
+|8 |K W | https://codex.fqegg.top/#/codex/raids/sister-macha/[Sister Macha]
+|10 |K W | https://codex.fqegg.top/#/codex/raids/arisen-morrigan/[Arisen Morrigan]
+|===
+[.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll)#
+
+'''''
+
+_Without a doubt, there is also a war goddess in Chinese Taoist mythology. Her name is Jiutian Xuannu, Mysterious Maiden of the Nine Heaven._
+
+_by SzHb_

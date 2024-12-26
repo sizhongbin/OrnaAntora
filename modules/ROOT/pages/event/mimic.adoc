@@ -1,0 +1,81 @@
+= The Mimics are Loose!
+
+== SzHb’s Notes
+
+=== Goodies
+
+. The Mightiest Mimic
+* T10 pet with 100% buff rate
+* From Bestiary and Monumental Guild
+* Use Mimic’s Mischief at turn 1 guaranteed. Good for quick raid and pvp
+. Mightiest Mimic Head
+* T9. 1.53x XP + 1.875x gold + 1.875x luck + 1.56x orns when godforged
+* From The Mightiest Mimic
+* The best farming head
+. Carl’s Ring
+* T10. Overall stat boosting accessory
+* From The Mightiest Mimic
+* Good for Spiked/Chained Shield build
+. Fey Yeti Coat
+* T9 chest with high ward, HP and mana
+* From The Mightiest Mimic
+* Good generic chest
+. Vulcan’s Brew
+* Consumable that gives 1.2x gold/orns/XP for an hour
+* From Mimic King of Kings and The Mightiest Mimic
+* For farming
+. Summon Very Scary Skeleton
+* T8. Cause t.Def↓↓ and t.Res↓↓
+* From Arcanist and Monumental Guild
+* Good summon for raid
+. Summon Buggane
+* T8. High damage
+* From Arcanist and Monumental Guild
+* Good summon for PVE
+
+=== Tips
+
+. Take a look at the drops from the raids. There might be other things you need.
+
+== Event Checklist (mostly from community)
+
+=== Followers
+
+[options="header"]
+|===
+|★ |Name
+|5 |https://codex.fqegg.top/#/codex/followers/age-old-mimic/[Age-Old Mimic]
+|10 |https://codex.fqegg.top/#/codex/followers/the-mightiest-mimic/[The Mightiest Mimic]
+|===
+
+=== Summons
+
+[options="header"]
+|===
+|★ |Name
+|7 |https://codex.fqegg.top/#/codex/spells/summon-cernunnos/[Cernunnos]
+|8 |https://codex.fqegg.top/#/codex/spells/summon-buggane/[Buggane]
+|8 |https://codex.fqegg.top/#/codex/spells/summon-onryo/[Onryo]
+|8 |https://codex.fqegg.top/#/codex/spells/summon-very-scary-skeleton/[Very Scary Skeleton]
+|9 |https://codex.fqegg.top/#/codex/spells/summon-hati/[Hati]
+|9 |https://codex.fqegg.top/#/codex/spells/summon-spooky-ghost/[Spooky Ghost]
+|10 |https://codex.fqegg.top/#/codex/spells/summon-glashtyn/[Glashtyn]
+|10 |https://codex.fqegg.top/#/codex/spells/summon-scarecrow/[Scarecrow]
+|===
+
+=== Raids
+
+[width="100%",cols="34%,33%,33%",options="header",]
+|===
+|★ |Spawn |Name
+|5 |K |https://codex.fqegg.top/#/codex/raids/age-old-mimic/[Age-Old Mimic]
+|8 |K |https://codex.fqegg.top/#/codex/raids/mimic-king-of-kings/[Mimic King of Kings]
+|9 |W |https://codex.fqegg.top/#/codex/raids/the-mightiest-mimic/[The Mightiest Mimic]
+|===
+[.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll)#
+
+'''''
+
+_The mimic made its first appearance in the original Monster Manual (1977), by Gary Gygax. This book described mimics as "`subterranean creatures which cannot stand the light of the sun. They are able to perfectly mimic stone or wood.`"_
+
+_by SzHb_

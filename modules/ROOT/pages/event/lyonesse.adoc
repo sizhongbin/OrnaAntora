@@ -1,0 +1,17 @@
+= Lyonesse Legends
+
+== SzHb’s Notes
+
+. *[Beowulf]* Get *_T6_* Lindworm, one of the best raid damage pet.
+. *[Two-handed build]* Get 2 *_T9_* Arisen Trevelyan’s Charm (Any quality) from *_T9_* Arisen Warlock Trevelyan, gives a 15% stat boost when wielding a two-handed weapon.
+
+== Event Checklist (mostly from community)
+
+=== Followers
+
+* *_T6_* Lindworm
+
+=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+
+* *[K/W]* *_T6_* Fallen Warlock Trevelyan
+* *[K/W]* *_T9_* Arisen Warlock Trevelyan

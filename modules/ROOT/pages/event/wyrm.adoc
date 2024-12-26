@@ -1,0 +1,63 @@
+= Wyrmhunt
+
+== What’s new in 2024
+
+Nothing
+
+== SzHb’s Notes
+
+. Get normal quality *_T10_* Fallen Sky Hood / Helmet from Arisen Quetzacoatl, headpiece that gives 1.1x view distance.
+. *[Heretic]* Get Ornate *_T10_* Fallen Sky Shoes from Arisen Quetzacoatl, a Heretic’s Robe for your feet.
+. Get *_T6/T10_* (Ymir) Vritra Charm, accessory that gives an immunity to Stun, Paralyze, Petrify, and an extra 8% status protection. Ymir version gives +HP and +Mana so try to get Ornate quality.
+. *[Summoner]* Get Ornate *_T8/10_* (Ymir) Beithir’s Staff, 18% / 33% Summon Stats , ward and a 2H summon ability.
+. Get some Superior or higher *_T10_* Jewel of Creation from Ymir, armor adorn that give 2% ward and some stats.
+. Get Normal quality *_T10_* Trialing Bow / Axe / Staff for memory and quest bonus.
+
+== Event Checklist (mostly from community)
+
+=== Followers
+
+Only available after you codex their boss version.
+
+* *_T5_* Lotan
+* *_T6_* Vritra
+* *_T7_* Agathodaemon
+* *_T7_* Zaltys
+* *_T8_* Illuyanka
+* *_T9_* Bashe
+* *_T9_* Quetzalcoatl
+* *_T10_* Gorynych
+* *_T10_* Ymir
+
+They all have longer names in game.
+
+=== Bosses
+
+Can be found in Regular Dungeon, Dragon Roost and world.
+
+In order to see the next boss, you’ll have to codex the previous one, starting at T5. Check Codex site for codex entries.
+
+* *_T5_* Lotan ^*GF^ ^Aura^
+* *_T6_* Vritra ^*GF^ ^Aura^
+* *_T7_* Agathodaemon ^*GF^ ^Aura^
+* *_T7_* Zaltys ^*GF^ ^Aura^
+* *_T8_* Illuyanka ^*GF^ ^Aura^
+* *_T8_* Beithir ^*GF^ ^Aura^
+* *_T9_* Bashe ^*GF^ ^Aura^
+* *_T9_* Quetzalcoatl ^*GF^ ^Aura^
+* *_T10_* Gorynych ^*GF^ ^Aura^
+* *_T10_* Ymir ^*GF^ ^Aura^
+
+They all have longer names in game.
+
+=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+
+* *[K]* *_T5_* Tatzelwurms
+* *[K]* *_T8_* Orochi
+* *[K/W]* *_T10_* Arisen Quetzalcoatl
+
+'''''
+
+_Do you know? Dragon in China, which should be translated as Loong, are not the same as dragon in the West. It symbolizes strength, bravery, invincibility, virtue, unity, intelligence, triumph, integrity, and auspiciousness._
+
+_by SzHb_

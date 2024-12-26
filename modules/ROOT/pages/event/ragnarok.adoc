@@ -1,0 +1,60 @@
+= Nothren Legends: Ragnarok
+
+== What’s new in 2024
+
+Nothing
+
+== SzHb’s Notes
+
+. *[Except Thief]* Get Normal *_T10_* / *_T5_* (Fey / Arisen) Surtr’s Sword, the best view distance weapon in the game for anyone who can’t equip thief items.
+. *[Thief]* Get Normal *_T10_* (Fey / Arisen) Helhest, the best view distance weapon in the game for thieves.
+. *[SS/CS build]* Get Ornate *_T10_* Fey Surtr’s Cuirass, chest with very high ward.
+. *[Swash endless build]* Get Ornage *_T10_* Fey Hel’s Feathers, Volley III off-hand skill.
+. Get *_T10_* Arisen Stonewarg, good ward pet.
+. *[Beowulf]* Get *_T10_* Arisen Spiritgarm, good damage pet.
+
+== Event Checklist (mostly from community)
+
+=== Monsters
+
+* *_T8_* Bloodwarg
+* *_T8_* Stonewarg
+* *_T8_* Spiritgarm
+* *_T10_* Arisen Bloodwarg
+* *_T10_* Arisen Stonewarg
+* *_T10_* Arisen Spiritgarm
+
+=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+
+(Arisen) Jormungandr can be summoned with crafted scrolls.
+
+* *[K]* *_T5_* Surtr
+* *[K]* *_T5_* Hel
+* *[W]* *_T7_* Menja
+* *[W]* *_T8_* Fenja
+* *[W]* *_T8_* Gerd
+* *[O]* *_T8_* Jormungandr
+* *[W]* *_T10_* Arisen Fenja
+* *[W]* *_T10_* Arisen Gerd
+* *[K]* *_T10_* Arisen Hel
+* *[W]* *_T10_* Arisen Menja
+* *[K]* *_T10_* Arisen Surtr
+* *[O]* *_T10_* Fey Jormungandr
+
+=== Followers
+
+* *_T4_* Surtr’s Flame
+* *_T7_* Gullinkambi
+* *_T7_* Surtr’s Mighty Flame
+* *_T8_* Bloodwarg
+* *_T8_* Stonewarg
+* *_T8_* Spiritgarm
+* *_T10_* Arisen Bloodwarg
+* *_T10_* Arisen Stonewarg
+* *_T10_* Arisen Spiritgarm
+
+'''''
+
+_Ragnarok Online is the game I love the most!_
+
+_by SzHb_

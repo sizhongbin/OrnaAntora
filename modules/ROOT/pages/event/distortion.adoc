@@ -1,0 +1,23 @@
+= Rift Distortion
+
+== SzHb’s Notes
+
+. Theta Riftlocks are from Shades and Shadows in Riftfall event, can be used to craft Scroll of (Arisen) Rift Distortion.
+. *[Heretic]* Get Ornate *_T10_* Arisen Rift Cowl from Arisen Rift Judgement, an Achlys head for mages.
+. *[Gilgamesh]* Get Ornate *_T10_* Arisen Rift Chestplate from Arisen Rift Judgement, a mix of Achlys and Rhada chestplate.
+. Get Ornate *_T10_* Arisen Rift Armor from Arisen Rift Judgement if you need, a good piece with high ward + HP / Mana recovery.
+
+== Event Checklist (mostly from community)
+
+=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+
+Can be summoned by event summoning scrolls from Herbalist.
+
+* *[O]* *_T8_* Rift Judgement (Scroll of Rift Distortion)
+* *[O]* *_T10_* Arisen Rift Judgement (Scroll of Arisen Rift Distortion)
+
+'''''
+
+_Most of the gears are too distorted to use._
+
+_by SzHb_

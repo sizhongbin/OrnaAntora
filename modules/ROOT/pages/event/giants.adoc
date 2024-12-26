@@ -1,0 +1,108 @@
+= Of Giants and Titans
+
+== SzHb’s Notes
+
+=== Goodies
+
+. Solarite Mortar
+* +2% two-handed damage, weapon adorn
+* From Ophion
+* For two-handed non-crit build
+. Mountain Acorn
+* Regen 0.5% of max mana, armor adorn
+* From Aegir
+* For dungeon/endless run
+. Tree Nut
+* +3% collateral damage chance, armor adorn
+* From Gymir
+* For collateral build
+. Atlas of Olympia
+* A follower with Berserk and ward skills.
+* From Olympia Mnemonic
+* Another choice of Berserk pet
+
+=== Tips
+
+. Get Stardrop and Moondrop as much as possible from regular dungeon.
+. Keep Stardrop till T10 for Godforge. Spare no Moondrop for leveling.
+
+== Event Checklist (mostly from community)
+
+=== Monsters
+
+The following mobs are only available after starting the Stardrop quest, and will drop Stardrop.
+
+[options="header"]
+|===
+|★ |Name
+|6 |https://codex.fqegg.top/#/codex/monsters/fallen-starseeker/[Fallen Starseeker]
+|7 |https://codex.fqegg.top/#/codex/monsters/fallen-zwei-caster/[Fallen Zwei-Caster]
+|7 |https://codex.fqegg.top/#/codex/monsters/fallen-zwei-fencer/[Fallen Zwei-Fencer]
+|===
+
+The following mobs are only available after starting the Moondrop quest, and will drop Moondrop.
+
+[options="header"]
+|===
+|★ |Name
+|8 |https://codex.fqegg.top/#/codex/monsters/fallen-moonchaser/[Fallen Moonchaser]
+|10 |https://codex.fqegg.top/#/codex/monsters/fallen-crescent-fencer/[Fallen Crescent-Fencer]
+|===
+
+=== Raids
+
+[options="header"]
+|===
+|★ |Spawn |Name
+|8 |M |https://codex.fqegg.top/#/codex/raids/asteria-of-olympia/[Asteria of Olympia]
+|8 |M |https://codex.fqegg.top/#/codex/raids/atlas-of-olympia/[Atlas of Olympia]
+|8 |M |https://codex.fqegg.top/#/codex/raids/ophion-of-olympia/[Ophion of Olympia]
+|9 |K |https://codex.fqegg.top/#/codex/raids/zeus/[Zeus]
+|10 |M |https://codex.fqegg.top/#/codex/raids/arisen-asteria-of-olympia/[Arisen Asteria of Olympia]
+|10 |M |https://codex.fqegg.top/#/codex/raids/arisen-atlas-of-olympia/[Arisen Atlas of Olympia]
+|10 |M |https://codex.fqegg.top/#/codex/raids/arisen-ophion-of-olympia/[Arisen Ophion of Olympia]
+|===
+[.small]#*Spawn: K = Kingdom, M = Moondrop#
+
+=== Bosses
+
+The following bosses can be summoned by Stardrop.
+
+[options="header"]
+|===
+|★ |Name
+|6 |https://codex.fqegg.top/#/codex/bosses/aegir/[Aegir]
+|8 |https://codex.fqegg.top/#/codex/bosses/eistla/[Eistla]
+|8 |https://codex.fqegg.top/#/codex/bosses/gymir/[Gymir]
+|10 |https://codex.fqegg.top/#/codex/bosses/arisen-aegir/[Arisen Aegir] ^*GF^ ^Aura^
+|10 |https://codex.fqegg.top/#/codex/bosses/arisen-eistla/[Arisen Eistla] ^*GF^ ^Aura^
+|10 |https://codex.fqegg.top/#/codex/bosses/arisen-gymir/[Arisen Gymir] ^*GF^ ^Aura^
+|===
+
+=== Followers
+
+The following followers are obtained via Jotunheim Mnemonic.
+
+[options="header"]
+|===
+|★ |Name
+|6 |https://codex.fqegg.top/#/codex/followers/aegir/[Aegir]
+|7 |https://codex.fqegg.top/#/codex/followers/gymir/[Gymir]
+|8 |https://codex.fqegg.top/#/codex/followers/eistla/[Eistla]
+|===
+
+The following followers are obtained via Olympia Mnemonic.
+
+[options="header"]
+|===
+|★ |Name
+|10 |https://codex.fqegg.top/#/codex/followers/asteria-of-olympia/[Asteria of Olympia]
+|10 |https://codex.fqegg.top/#/codex/followers/atlas-of-olympia/[Atlas of Olympia]
+|10 |https://codex.fqegg.top/#/codex/followers/ophion-of-olympia/[Ophion of Olympia]
+|===
+
+'''''
+
+_According to Chinese legend, in the beginning of the world, the sky and the earth were not separated. Our ancestor Pangu, a giant, wielded an axe with an effort and split the chaos. See? Its quite the same with Ymir in Norse Mythology._
+
+_by SzHb_

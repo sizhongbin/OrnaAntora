@@ -1,0 +1,43 @@
+= Thronemakers
+
+== What’s new in 2024
+
+Brand new event.
+
+== SzHb’s Notes
+
+. *_T8_* Tail of a Sphinx from event questline, an accessory which allow items of higher quality to be found more often.
+. *[Thief]* *_T10_* Arisen Aaru Boots from *_T10_* Arisen Thronemaker Sekhmet, a Legs piece with Crit, high Ward, high Dex and Cursed immunity.
+. *[Warrior]* *_T10_* Arisen Aaru Leggings from *_T10_* Arisen Thronemaker Neith, a Legs piece with highest Ward and start Ward.
+. *[Mage]* *_T10_* Arisen Aaru Robe from *_T10_* Arisen Thronemaker Ptah, a Torso piece that gives your follower Great Meditation skill.
+. *[Mage/Warrior]* *_T10_* Any Mage/Warrior piece of Dynasty from *_T10_* Great Sphinx, gives you access to "`Gods/Walls of Aaru`", which is a 2 turn DC/DB.
+
+== Event Checklist (mostly from community)
+
+=== Monsters
+
+* *_T3_* Sphinx Cub
+* *_T10_* Sphinx Kit
+
+=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+
+Great Sphinx can be summoned with crafted scrolls.
+
+* *[K/W]* *_T6_* Thronemaker Neith
+* *[K/W]* *_T7_* Thronemaker Sekhmet
+* *[K/W]* *_T8_* Thronemaker Ptah
+* *[K/W]* *_T10_* Arisen Thronemaker Neith
+* *[K/W]* *_T10_* Arisen Thronemaker Sekhmet
+* *[K/W]* *_T10_* Arisen Thronemaker Ptah
+* *[O]* *_T10_* Great Sphinx
+
+=== Followers
+
+* *_T7_* Aaru Cobra
+* *_T10_* Aaru Viper
+* *_T3_* Sphinx Cub
+* *_T10_* Sphinx Kit
+
+=== Summons
+
+* *_T10_* Summon Sphinx Kit

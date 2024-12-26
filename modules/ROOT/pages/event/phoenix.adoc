@@ -1,0 +1,56 @@
+= Phoenixrise
+
+== What’s new in 2024
+
+. New Mobs and Bosses.
+. New event currency for Monument Guild dropped by event mobs and bossed.
+. New Summon Skills
+
+== SzHb’s Notes
+
+. Get Ornate *_T9_* Great Phoenician Shield from *_T9_* Arisen Phoenix that provides immunity to burn and blind.
+. Get some *_T5_* Red Pinion (superior or better) from event raids, armor adorn that give 2% ward and some stats.
+. Get some *_T5_* Ruby / *_T9_* Ashen Ruby from event bosses, weapon adorns that have 50% chance to recover 1% / 2% of damage dealt PER ADORN.
+. Get *_T8_* Phoenix / *_T10_* Ashen phpenix pet for Deific Channel without cast turns.
+. All gears from mobs and bosses can be dismantled for silk, which is hard to get normally.
+
+== Event Checklist (mostly from community)
+
+=== Followers
+
+* *_T8_* Phoenix
+* *_T10_* Ashen Phoenix
+
+=== Summons(NEW)
+
+* *_T9_* Summon Great Phoenix Pledge
+* *_T10_* Summon Failed Phoenix
+
+Phoenixrise Ritual only deals damage to targets marked by the Phoenix’s Pledge. Strikes = Target’s Tier. M2 = Target’s Tier × 1.2.
+
+e.g. T10 target will take 10 strikes, and the total M2 is 1.2 × 10 = 12.
+
+=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+
+* *[K/W]* *_T7_* Phoenix
+* *[K/W]* *_T9_* Arisen Phoenix
+
+=== Monsters
+
+* *_T2_* Phoenix Pledgeling (NEW)
+* *_T5_* Phoenix Halfling (NEW)
+* *_T9_* Great Phoenix Pledge (NEW)
+* *_T10_* Failed Phoenix (NEW)
+
+=== Bosses
+
+* *_T5_* Ascended Pledge (NEW)
+* *_T9_* Fallen Ashen Phoenix (*Godforged Aura)
+
+'''''
+
+_Ashen Phoenix is one of the most important pet in Orna. Do not miss it._
+
+_Great Phoenician Shield may be one of the best shield for BeoH. You will need the immunity._
+
+_by SzHb_

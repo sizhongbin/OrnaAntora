@@ -1,0 +1,96 @@
+= Paths of Fomoria - House of Autumna
+
+== SzHb’s Notes
+
+=== Goodies
+
+. Summon Buggane
+* T8. High damage
+* From Arcanist and Monumental Guild
+* Good summon for PVE
+. T10 Autumna Gears
+* 1.2x debuff chance. 2x(3x for Sequana’s) debuff damage on opponents
+* From T10 event bosses
+* Assassin debuff build for PVP
+
+=== Tips
+
+. Gears from different house have different specific effect:
+* Nocturna: Less damage from opponents’ followers/summons.
+* Autumna: Better debuff application. More debuff damage on opponents.
+* Sumner: More AoE damage. Sometimes single target skills will hit a second target.
+* Wintara: Buffs sometimes also apply to party mates. Positive status effects last longer.
+. Gears from Crest of Nocturna/Autumna/Sumner/Wintara have all the weakened house effects.
+
+== Event Checklist (mostly from community)
+
+=== Bosses
+
+The following bosses will spawn in world when its rainy (or during scroll of chaos), as well as in Chaos Portal. They can be only damaged by status effect.
+
+[options="header"]
+|===
+|★ |Name
+|4 |https://codex.fqegg.top/#/codex/bosses/sabrina-of-fomoria/[Sabrina of Fomoria]
+|4 |https://codex.fqegg.top/#/codex/bosses/sequana-of-fomoria/[Sequana of Fomoria] ^*GF^ ^Aura^
+|4 |https://codex.fqegg.top/#/codex/bosses/niskus-of-fomoria/[Niskus of Fomoria]
+|4 |https://codex.fqegg.top/#/codex/bosses/damona-of-fomoria/[Damona of Fomoria]
+|4 |https://codex.fqegg.top/#/codex/bosses/clota-of-fomoria/[Clota of Fomoria]
+|8 |https://codex.fqegg.top/#/codex/bosses/cursed-sabrina-of-fomoria/[Cursed Sabrina of Fomoria]
+|8 |https://codex.fqegg.top/#/codex/bosses/cursed-sequana-of-fomoria/[Cursed Sequana of Fomoria] ^*GF^ ^Aura^
+|8 |https://codex.fqegg.top/#/codex/bosses/cursed-niskus-of-fomoria/[Cursed Niskus of Fomoria]
+|8 |https://codex.fqegg.top/#/codex/bosses/cursed-damona-of-fomoria/[Cursed Damona of Fomoria]
+|8 |https://codex.fqegg.top/#/codex/bosses/cursed-clota-of-fomoria/[Cursed Clota of Fomoria]
+|10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-sabrina-of-fomoria/[Arisen Cursed Sabrina of Fomoria]
+|10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-sequana-of-fomoria/[Arisen Cursed Sequana of Fomoria] ^*GF^ ^Aura^
+|10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-niskus-of-fomoria/[Arisen Cursed Niskus of Fomoria]
+|10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-damona-of-fomoria/[Arisen Cursed Damona of Fomoria]
+|10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-clota-of-fomoria/[Arisen Cursed Clota of Fomoria]
+|===
+
+The following bosses are summoned by Crest of Autumna.
+
+[options="header"]
+|===
+|★ |Name
+|4 |https://codex.fqegg.top/#/codex/bosses/king-fomor-autumna/[King Fomor, Autumna] ^*GF^ ^Aura^
+|8 |https://codex.fqegg.top/#/codex/bosses/cursed-king-fomor-autumna/[Cursed King Fomor, Autumna] ^*GF^ ^Aura^
+|10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-king-fomor-autumna/[Arisen Cursed King Fomor, Autumna] ^*GF^ ^Aura^
+|===
+
+=== Monsters
+
+[options="header"]
+|===
+|★ |Name
+|7 |https://codex.fqegg.top/#/codex/monsters/cernunnos/[Cernunnos]
+|8 |https://codex.fqegg.top/#/codex/monsters/buggane/[Buggane]
+|10 |https://codex.fqegg.top/#/codex/monsters/glashtyn/[Glashtyn]
+|===
+
+=== Followers
+
+[options="header"]
+|===
+|★ |Name
+|7 |https://codex.fqegg.top/#/codex/followers/cernunnos/[Cernunnos]
+|7 |https://codex.fqegg.top/#/codex/followers/glashtyn/[Glashtyn]
+|10 |https://codex.fqegg.top/#/codex/followers/arisen-cernunnos/[Arisen Cernunnos]
+|10 |https://codex.fqegg.top/#/codex/followers/arisen-glashtyn/[Arisen Glashtyn]
+|===
+
+=== Summons
+
+[options="header"]
+|===
+|★ |Name
+|7 |https://codex.fqegg.top/#/codex/spells/summon-cernunnos/[Cernunnos]
+|8 |https://codex.fqegg.top/#/codex/spells/summon-buggane/[Buggane]
+|10 |https://codex.fqegg.top/#/codex/spells/summon-glashtyn/[Glashtyn]
+|===
+
+'''''
+
+_I love mooncake with double salted yolks and lotus seed paste._
+
+_by SzHb_

@@ -1,0 +1,65 @@
+= Beastfelled
+
+== What’s new in 2024
+
+. Event name changed from Return of Kerberos to Beastfelled.
+. New bosses, mobs, raid, followers, summons, items.
+
+== SzHb’s Notes
+
+. *[Heretic]* Get *_T10_* Arisen Feral Archistaff from Arisen Kerberos, a solid mage weapon that provides good Mag and 7% follower act.
+. Get *_T10_* Arisen Wolven Tower Shield from Arisen Kerberosa if you prefer high Def/Res and don’t care much about the Att/Mag penalty.
+. Get at least 5 superior or higher *_T9_* Blackened Eye of Kerberos from Kin of Kerberos (with Godforged Aura), a 2% follower act weapon adorn, plus foresight and 2% ward and bonus stats.
+. Get superior or higher *_T5_* Dark Eye of Kerberos from Kin of Kerberos (without Godforged Aura) instead of blackened eyes if your tier is lower than T9.
+. Get Ornate *_T10_* Beastfelled Garb if you need, a thief chestpiece that gives your pet the ability to use Berserk.
+. Get Ornate *_T10_* Beastfelled Legwear if you need. All pants allow your pet to use Ward of Ortanite.
+
+== Event Checklist (mostly from community)
+
+=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+
+Lyncus can be summoned with crafted scrolls. Find the three materials: Monoceros Horn, Manticore Heart, and Kerberos Fur.
+
+* *[K/W]* *_T8_* Kerberos
+* *[K/W]* *_T10_* Arisen Kerberos
+* *[O]* *_T10_* Turned King Lyncus (NEW)
+
+=== Followers
+
+* *_T3_* Monoceros (NEW)
+* *_T5_* Kin of Kerberos
+* *_T8_* Kerberos
+* *_T10_* Great Monoceros (NEW)
+
+=== Bosses
+
+Can be found in Beast Den. Manticore can also be found in Regular Dungeon.
+
+* *_T5_* Kin of Kerberos
+* *_T8_* Manticore (NEW)
+* *_T9_* Kin of Kerberos ^*GF^ ^Aura^
+
+=== Monsters
+
+Can be found in Beast Den. Monoceros can also be found in Regular Dungeon. All of the Kerberos mobs are actually named "`Follower of Kerberos`" in game.
+
+* *_T3_* Monoceros (NEW)
+* *_T5_* Warlock of Kerberos
+* *_T5_* Witch of Kerberos
+* *_T5_* Warrior of Kerberos
+* *_T5_* Paladin of Kerberos
+* *_T8_* Great Monoceros (NEW)
+* *_T9_* Warlock of Kerberos
+* *_T9_* Witch of Kerberos
+* *_T9_* Warrior of Kerberos
+* *_T9_* Paladin of Kerberos
+
+=== Summons
+
+* *_T8_* Summon Monoceros (NEW)
+
+'''''
+
+_Blackened Eye is one of the best weapon adorn._
+
+_by SzHb_

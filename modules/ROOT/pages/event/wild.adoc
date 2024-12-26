@@ -1,0 +1,21 @@
+= The Winter Wild Hunts
+
+== SzHb’s Notes
+
+. Just try to get what you have missed in past event.
+
+== Event Checklist (mostly from community)
+
+The following event raids can be summoned by using Festive Summoning Scroll during the corresponding day.
+
+* Dec 4-Jan 2: xref:event/scruug.adoc[Stop Scruug]
+* Dec 3-5: xref:event/mimic.adoc[The Mimics are Loose]
+* Dec 5-8: xref:event/ragnarok.adoc[Nothren Legends: Ragnarok]
+* Dec 8-12: xref:event/kerberos.adoc[Beastfelled]
+* Dec 12-14: xref:event/avalon.adoc[Fallen Heroes of Avalon]
+* Dec 14-16: xref:event/wyrm.adoc[Wyrmhunt]
+* Dec 16-18: xref:event/riftfall.adoc[Riftfall]
+* Dec 18-20: xref:event/giants.adoc[Of Giants and Titans]
+* Dec 20-23: xref:event/morrigan.adoc[Sisters of Morrigan]
+* Dec 23-26: xref:event/crimson.adoc[The Crimson Festival]
+* Dec 27-Jan 2: xref:event/thronemakers.adoc[Thronemakers]

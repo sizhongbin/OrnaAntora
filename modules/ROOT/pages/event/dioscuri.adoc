@@ -1,0 +1,29 @@
+= The Dioscuri
+
+== SzHb’s Notes
+
+. Get some *_T3_* Dioscuri Mead from event bosses if you need, a consumable that provides Crit++.
+
+== Event Checklist (mostly from community)
+
+=== Bosses
+
+Can be found in Regular Dungeon.
+
+* *_T5_* Castor
+* *_T8_* Pollux
+
+=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+
+* *[K/W]* *_T9_* The Dioscuri
+
+=== Followers
+
+* *_T6_* Castor
+* *_T9_* Pollux
+
+'''''
+
+_Just an event for codexer._
+
+_by SzHb_
