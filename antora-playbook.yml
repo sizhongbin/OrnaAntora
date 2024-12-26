@@ -3,8 +3,8 @@ antora:
   - '@antora/lunr-extension'
 site:
   title: SzHb's Orna Notes
-  start_page: SzHb's Orna Notes::index.adoc
-  url: /
+  start_page: notes::index.adoc
+  url: https://orna.szhb.us.kg
 content:
   sources:
   - url: .
