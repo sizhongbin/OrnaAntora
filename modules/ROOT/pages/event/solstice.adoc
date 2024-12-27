@@ -1,0 +1,39 @@
+= Solstice
+:page-role: -toc
+
+[quote,The Prose Edda]
+____
+There is one place that is called Alfheim. There live the folk called light-elves (Ljósálfar), but dark-elves (Dökkálfar) live down in the ground, and they are unlike them in appearance, and even more unlike them in nature. Light-elves are fairer than the sun to look at, but dark-elves are blacker than pitch.
+____
+
+== SzHb’s Notes
+
+=== Goodies
+
+. ★5 - Ring of Day
+* Def / Res debuff immune
+* From King of Ljosalfar
+* Only if you don't have Arisen Arch-Gadget yet
+
+=== Tips
+
+. Summer Solstice and Winter Solstice have totally the same contents.
+
+== Event Checklist (mostly from community)
+
+=== Bosses
+
+[options="header"]
+|===
+|★ |Name
+|8 |https://codex.fqegg.top/#/codex/bosses/queen-of-dokkalfar/[Queen of Dokkalfar]
+|===
+
+=== Raids
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|5 |K |https://codex.fqegg.top/#/codex/raids/king-of-ljosalfar/[King of Ljosalfar]
+|===
+[.small]#*Spawn: K = Kingdom

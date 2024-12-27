@@ -3,7 +3,7 @@
 ** xref:event/wild.adoc[Winter Wild Hunt]
 ** xref:event/friends.adoc[Friends & Family]
 ** xref:event/balor.adoc[Balor Invades]
-** Winter Solstice(todo)
+** xref:event/solstice.adoc[Winter Solstice]
 * Basic Info
 ** xref:basic/battle.adoc[Battle]
 ** xref:basic/class.adoc[Class]
@@ -30,7 +30,7 @@
 ** xref:event/distortion.adoc[Rift Distortion]
 ** xref:event/riftfall.adoc[Riftfall]
 ** xref:event/morrigan.adoc[Sisters of Morrigan]
-** Summer Solstice(todo)
+** xref:event/solstice.adoc[Summer Solstice]
 ** Sumner Games(todo)
 ** xref:event/crimson.adoc[The Crimson Festival]
 ** xref:event/dioscuri.adoc[The Dioscuri]
