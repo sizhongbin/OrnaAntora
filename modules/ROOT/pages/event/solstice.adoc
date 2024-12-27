@@ -10,7 +10,7 @@ ____
 
 === Goodies
 
-. ★5 - Ring of Day
+. **★5 - Ring of Day**
 * Def / Res debuff immune
 * From King of Ljosalfar
 * Only if you don't have Arisen Arch-Gadget yet

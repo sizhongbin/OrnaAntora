@@ -19,40 +19,40 @@ ____
 . **★10 - Fallen Sky Hood / Helmet**
 * 1.1x view distance
 * From Arisen Quetzalcoatl
-* VD head piece. Quality doesn't matter
+* For VD. Quality doesn't matter
 . **★10 - Fallen Sky Shoes**
 * 512 magic (200% Godforged)
 * From Arisen Quetzalcoatl
 * For magic-relying builds
-. Fallen Sky Armor
+. **★10 - Fallen Sky Armor**
 * 1.1x ward absorption (85% * 1.1 = 94% with WoO)
 * From Arisen Quetzalcoatl
 * For tower
-. Fallen Sky Legging
+. **★10 - Fallen Sky Legging**
 * Infinite ward turns
 * From Arisen Quetzalcoatl
-* For summon build
-. Fallen Sky Cowl
+* For summon raid build
+. **★10 - Fallen Sky Cowl**
 * 1.05x crit damage
 * From Arisen Quetzalcoatl
 * For crit build
-. (Ymir) Vritra Charm
+. **★6/10 - (Ymir) Vritra Charm**
 * Immunity to Stun, Paralyze, Petrify, and an extra 8% status protection
 * From Vritra / Ymir
 * For classes without Steadfast
-. Ymir Beithir’s Staff
+. **★10 - Ymir Beithir’s Staff**
 * 33% Summon Stats, summon 2 Beithir which can replicate
 * From Ymir
 * For BP party play
-. Jewel of Creation
+. **★10 - Jewel of Creation**
 * 2% ward (superior+) and overall stat boost
 * From Ymir
 * Very good armor adorn
-. Trialing Bow / Axe / Staff
+. **★10 - Trialing Bow / Axe / Staff**
 * 1.1x memory / quest reward
 * From Gorynych
 * For memory / quest hunt. Quality doesn't matter
-. Lotan
+. **★5 - Lotan**
 * 15% debuff rate fot blight
 * From Bestiary and Monumental Guild
 * Good Ultima pet
