@@ -1,4 +1,16 @@
 = Wyrmhunt
+:page-role: -toc
+
+[quote,The Poetic Edda]
+____
+Of old was the age when Ymir lived;
+
+Sea nor cool waves nor sand there were;
+
+Earth had not been, nor heaven above,
+
+But a yawning gap, and grass nowhere.
+____
 
 == SzHb’s Notes
 
@@ -105,15 +117,3 @@ They all have longer names in game.
 |10 |K W |https://codex.fqegg.top/#/codex/raids/arisen-quetzalcoatl/[Arisen Quetzalcoatl]
 |===
 [.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll)#
-
-'''''
-[.small]
-_The Poetic Edda:_
-[.small]
-"Of old was the age when Ymir lived;
-[.small]
-Sea nor cool waves nor sand there were;
-[.small]
-Earth had not been, nor heaven above,
-[.small]
-But a yawning gap, and grass nowhere."

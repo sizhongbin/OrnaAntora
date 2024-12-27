@@ -1,4 +1,5 @@
 = Friends & Family
+:page-role: -toc
 
 == SzHb’s Notes
 

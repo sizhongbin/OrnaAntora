@@ -1,4 +1,5 @@
 = Thronemakers
+:page-role: -toc
 
 == What’s new in 2024
 

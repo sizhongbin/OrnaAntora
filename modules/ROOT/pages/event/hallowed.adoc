@@ -1,4 +1,5 @@
 = The Hallowed!
+:page-role: -toc
 
 == SzHb’s Notes
 

@@ -1,4 +1,5 @@
 = Lyonesse Legends
+:page-role: -toc
 
 == SzHb’s Notes
 

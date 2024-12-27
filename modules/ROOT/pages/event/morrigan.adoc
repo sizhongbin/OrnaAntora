@@ -1,4 +1,5 @@
 = Sisters of Morrigan
+:page-role: -toc
 
 == SzHb’s Notes
 

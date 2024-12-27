@@ -1,4 +1,5 @@
 = Fallen Heroes of Avalon
+:page-role: -toc
 
 == What’s new in 2024
 

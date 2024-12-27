@@ -1,4 +1,5 @@
 = The Mischievous Clurichauns
+:page-role: -toc
 
 == SzHb’s Notes
 

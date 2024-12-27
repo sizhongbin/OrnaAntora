@@ -1,6 +1,7 @@
 = The Crimson Festival
 
 == SzHb’s Notes
+:page-role: -toc
 
 === Goodies
 
