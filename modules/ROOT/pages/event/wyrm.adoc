@@ -108,13 +108,12 @@ They all have longer names in game.
 
 '''''
 [.small]
-`Of old was the age when Ymir lived;`
+_The Poetic Edda:_
 [.small]
-`Sea nor cool waves nor sand there were;`
+"Of old was the age when Ymir lived;
 [.small]
-`Earth had not been, nor heaven above,`
+Sea nor cool waves nor sand there were;
 [.small]
-`But a yawning gap, and grass nowhere.`
-[.text-right]
+Earth had not been, nor heaven above,
 [.small]
-_-- The Poetic Edda: The Mythological Poems_
+But a yawning gap, and grass nowhere."
