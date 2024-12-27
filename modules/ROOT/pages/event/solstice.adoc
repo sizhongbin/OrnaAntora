@@ -36,4 +36,4 @@ ____
 |★ |Spawn^*^ |Name
 |5 |K |https://codex.fqegg.top/#/codex/raids/king-of-ljosalfar/[King of Ljosalfar]
 |===
-[.small]#*Spawn: K = Kingdom
+[.small]#*Spawn: K = Kingdom#
