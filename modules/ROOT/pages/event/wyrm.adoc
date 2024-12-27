@@ -16,11 +16,11 @@ ____
 
 === Goodies
 
-**. ★10 - Fallen Sky Hood / Helmet**
+. **★10 - Fallen Sky Hood / Helmet**
 * 1.1x view distance
 * From Arisen Quetzalcoatl
 * VD head piece. Quality doesn't matter
-**. ★10 - Fallen Sky Shoes**
+. **★10 - Fallen Sky Shoes**
 * 512 magic (200% Godforged)
 * From Arisen Quetzalcoatl
 * For magic-relying builds
