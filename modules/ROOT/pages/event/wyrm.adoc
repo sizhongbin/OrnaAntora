@@ -12,6 +12,18 @@
 * 512 magic (200% Godforged)
 * From Arisen Quetzalcoatl
 * For magic-relying builds
+. Fallen Sky Armor
+* 1.1x ward absorption (85% * 1.1 = 94% with WoO)
+* From Arisen Quetzalcoatl
+* For tower
+. Fallen Sky Legging
+* Infinite ward turns
+* From Arisen Quetzalcoatl
+* For summon build
+. Fallen Sky Cowl
+* 1.05x crit damage
+* From Arisen Quetzalcoatl
+* For crit build
 . (Ymir) Vritra Charm
 * Immunity to Stun, Paralyze, Petrify, and an extra 8% status protection
 * From Vritra / Ymir
@@ -35,7 +47,8 @@
 
 === Tips
 
-. Run more boss horde for godforge.
+. Time for Godforge.
+. You will need at lest 30 superior+ JoC.
 
 == Event Checklist (mostly from community)
 
@@ -94,7 +107,14 @@ They all have longer names in game.
 [.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll)#
 
 '''''
-
-_Do you know? Dragon in China, which should be translated as Loong, are not the same as dragon in the West. It symbolizes strength, bravery, invincibility, virtue, unity, intelligence, triumph, integrity, and auspiciousness._
-
-_by SzHb_
+[.small]
+`Of old was the age when Ymir lived;`
+[.small]
+`Sea nor cool waves nor sand there were;`
+[.small]
+`Earth had not been, nor heaven above,`
+[.small]
+`But a yawning gap, and grass nowhere.`
+[.text-right]
+[.small]
+_-- The Poetic Edda: The Mythological Poems_

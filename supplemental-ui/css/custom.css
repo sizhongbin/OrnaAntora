@@ -10,3 +10,7 @@ tr:nth-child(even) {
 td {
   white-space: nowrap;
 }
+
+code {
+  background: inherit !important
+}
