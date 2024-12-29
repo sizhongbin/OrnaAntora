@@ -16,43 +16,47 @@ ____
 
 === Goodies
 
-. **★10 - Fallen Sky Hood / Helmet**
+. **★10 Head - Fallen Sky Hood / Helmet**
 * 1.1x view distance
-* From Arisen Quetzalcoatl
+* From ★10 raid Arisen Quetzalcoatl
 * For VD. Quality doesn't matter
-. **★10 - Fallen Sky Shoes**
+. **★10 Leg - Fallen Sky Shoes**
 * 512 magic (200% Godforged)
-* From Arisen Quetzalcoatl
+* From ★10 raid Arisen Quetzalcoatl
 * For magic-relying builds
-. **★10 - Fallen Sky Armor**
+. **★10 Armor - Fallen Sky Armor**
 * 1.1x ward absorption (85% * 1.1 = 94% with WoO)
-* From Arisen Quetzalcoatl
+* From ★10 raid Arisen Quetzalcoatl
 * For tower
-. **★10 - Fallen Sky Legging**
+. **★10 Leg - Fallen Sky Legging**
 * Infinite ward turns
-* From Arisen Quetzalcoatl
+* From ★10 raid Arisen Quetzalcoatl
 * For summon raid build
-. **★10 - Fallen Sky Cowl**
+. **★10 Head - Fallen Sky Cowl**
 * 1.05x crit damage
-* From Arisen Quetzalcoatl
+* From ★10 raid Arisen Quetzalcoatl
 * For crit build
-. **★6/10 - (Ymir) Vritra Charm**
+. **★6/10 Accessory - (Ymir) Vritra Charm**
 * Immunity to Stun, Paralyze, Petrify, and an extra 8% status protection
-* From Vritra / Ymir
+* From ★6/10 boss Vritra / Ymir
 * For classes without Steadfast
-. **★10 - Ymir Beithir’s Staff**
+. **★10 Weapon - Ymir Beithir’s Staff**
 * 33% Summon Stats, summon 2 Beithir which can replicate
-* From Ymir
+* From ★10 boss Ymir
 * For BP party play
-. **★10 - Jewel of Creation**
+. **★10 Armor Adorn - Jewel of Creation**
 * 2% ward (superior+) and overall stat boost
-* From Ymir
+* From ★10 boss Ymir
 * Very good armor adorn
-. **★10 - Trialing Bow / Axe / Staff**
+. **★10 Armor - Ymir Cliffside Cuirass**
+* 25% protect you from hits that take 100% of your maximum HP
+* From ★10 boss Ymir
+* For pvp
+. **★10 Weapon - Trialing Bow / Axe / Staff**
 * 1.1x memory / quest reward
-* From Gorynych
+* From ★10 boss Gorynych
 * For memory / quest hunt. Quality doesn't matter
-. **★5 - Lotan**
+. **★5 Follower - Lotan**
 * 15% debuff rate fot blight
 * From Bestiary and Monumental Guild
 * Good Ultima pet
@@ -62,7 +66,7 @@ ____
 . Time for Godforge.
 . You will need at lest 30 superior+ JoC.
 
-== Event Checklist (mostly from community)
+== Event Checklist
 
 === Followers
 

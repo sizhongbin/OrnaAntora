@@ -3,52 +3,85 @@
 
 [quote,Precepts of Chiron]
 ____
-A chattering crow lives out nine generations of aged men, but a stag's life is four times a crow's and a raven's life makes three stags old, while the Phoinix (Phoenix) outlives nine raves, but we, the rich-haired Nymphai (Nymphs), daughters of Zeus the aigis-holder, outlive ten Phoinixes.
+A chattering crow lives out nine generations of aged men, but a stag's life is four times a crow's and a raven's life makes three stags old, while the Phoinix (Phoenix) outlives nine raves.
 ____
-
-== What’s new in 2024
-
-. New Mobs and Bosses.
-. New event currency for Monument Guild dropped by event mobs and bossed.
-. New Summon Skills
 
 == SzHb’s Notes
 
-. Get Ornate *_T9_* Great Phoenician Shield from *_T9_* Arisen Phoenix that provides immunity to burn and blind.
-. Get some *_T5_* Red Pinion (superior or better) from event raids, armor adorn that give 2% ward and some stats.
-. Get some *_T5_* Ruby / *_T9_* Ashen Ruby from event bosses, weapon adorns that have 50% chance to recover 1% / 2% of damage dealt PER ADORN.
-. Get *_T8_* Phoenix / *_T10_* Ashen phpenix pet for Deific Channel without cast turns.
-. All gears from mobs and bosses can be dismantled for silk, which is hard to get normally.
+=== Goodies
 
-== Event Checklist (mostly from community)
+. **★9 Shield - Great Phoenician Shield**
+* Burn and Blind immune
+* From ★9 raid Arisen Phoenix
+* For classes without Steadfast
+. **★5 Armor adorn - Red Pinion**
+* 2% ward (superior+) and overall stat boost
+* From ★7/9 raid (Arisen) Phoenix
+* Only if you don't have enough JoC
+. **★5/9 Weapon adorn - (Ashen) Ruby**
+* 50% chance to recover 1%/2% of damage dealt per adorn
+* From ★5/9 boss Ascended Pledge / Fallen Ashen Phoenix
+* Good for horde
+. **★8/10 Follower - (Ashen) phpenix**
+* Deific Channel without cast turns
+* From Bestiary and Monumental Guild
+* Good buff pet
+
+=== Tips
+
+. All gears from event monsters, bosses and raids can be dismantled for silk.
+. Phoenixrise Ritual only deals damage to targets marked by the Phoenix’s Pledge. Strikes = Target’s Tier. Total M2 = Strikes × 1.2.
+
+== Event Checklist
 
 === Followers
 
-* *_T8_* Phoenix
-* *_T10_* Ashen Phoenix
+[options="header"]
+|===
+|★ |Name
+|8 |https://codex.fqegg.top/#/codex/followers/phoenix/[Phoenix]
+|10 |https://codex.fqegg.top/#/codex/followers/ashen-phoenix-46c214e1/[Ashen Phoenix]
+|===
 
-=== Summons(NEW)
+=== Summons
 
-* *_T9_* Summon Great Phoenix Pledge
-* *_T10_* Summon Failed Phoenix
+[options="header"]
+|===
+|★ |Name
+|9 |https://codex.fqegg.top/#/codex/spells/summon-great-phoenix-pledge/[Summon Great Phoenix Pledge]
+|10 |https://codex.fqegg.top/#/codex/spells/summon-failed-phoenix/[Summon Failed Phoenix]
+|===
 
-Phoenixrise Ritual only deals damage to targets marked by the Phoenix’s Pledge. Strikes = Target’s Tier. M2 = Target’s Tier × 1.2.
+=== Raids
 
-e.g. T10 target will take 10 strikes, and the total M2 is 1.2 × 10 = 12.
-
-=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
-
-* *[K/W]* *_T7_* Phoenix
-* *[K/W]* *_T9_* Arisen Phoenix
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|7 |K W |https://codex.fqegg.top/#/codex/raids/phoenix/[Phoenix]
+|9 |K W |https://codex.fqegg.top/#/codex/raids/arisen-phoenix/[Arisen Phoenix]
+|===
+[.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll)#
 
 === Monsters
 
-* *_T2_* Phoenix Pledgeling (NEW)
-* *_T5_* Phoenix Halfling (NEW)
-* *_T9_* Great Phoenix Pledge (NEW)
-* *_T10_* Failed Phoenix (NEW)
+[options="header"]
+|===
+|★ |Name
+|2 |https://codex.fqegg.top/#/codex/monsters/phoenix-pledgeling/[Phoenix Pledgeling]
+|2 |https://codex.fqegg.top/#/codex/monsters/phoenix-pledgeling-b6ac4a97/[Phoenix Pledgeling]
+|5 |https://codex.fqegg.top/#/codex/monsters/phoenix-halfling/[Phoenix Halfling]
+|5 |https://codex.fqegg.top/#/codex/monsters/phoenix-halfling-805cc50e/[Phoenix Halfling]
+|9 |https://codex.fqegg.top/#/codex/monsters/great-phoenix-pledge/[Great Phoenix Pledge]
+|9 |https://codex.fqegg.top/#/codex/monsters/great-phoenix-pledge-19c34e4d/[Great Phoenix Pledge]
+|10 |https://codex.fqegg.top/#/codex/monsters/failed-phoenix/[Failed Phoenix]
+|10 |https://codex.fqegg.top/#/codex/monsters/failed-phoenix-40f6a0b6/[Failed Phoenix]
+|===
 
 === Bosses
 
-* *_T5_* Ascended Pledge (NEW)
-* *_T9_* Fallen Ashen Phoenix ^*GF^ ^Aura^
+[options="header"]
+|===
+|★ |Name
+|5 |https://codex.fqegg.top/#/codex/bosses/ascended-pledge/[Ascended Pledge]
+|9 |https://codex.fqegg.top/#/codex/bosses/fallen-ashen-phoenix/[Fallen Ashen Phoenix] ^*GF^ ^Aura^
+|===
