@@ -32,7 +32,7 @@
 . Summon Buggane
 * T8. High damage
 * From Arcanist and Monumental Guild
-* Good summon for PVE
+* Good summon for PvE contents
 
 === Tips
 

@@ -16,26 +16,26 @@ ____
 
 === Goodies
 
-. **★10 Head - Fallen Sky Hood / Helmet**
+. **★10 Head - Fallen Sky Hood / ★10 Head - Fallen Sky Helmet**
 * 1.1x view distance
 * From ★10 raid Arisen Quetzalcoatl
-* For VD. Quality doesn't matter
+* (Magic Users / Warrior) For VD. Quality doesn't matter
 . **★10 Leg - Fallen Sky Shoes**
 * 512 magic (200% Godforged)
 * From ★10 raid Arisen Quetzalcoatl
-* For magic-relying builds
-. **★10 Armor - Fallen Sky Armor**
+* (Magic Users) For magic-relying builds
+. **★10 Torso - Fallen Sky Armor**
 * 1.1x ward absorption (85% * 1.1 = 94% with WoO)
 * From ★10 raid Arisen Quetzalcoatl
-* For tower
+* (Warrior) For tower
 . **★10 Leg - Fallen Sky Legging**
 * Infinite ward turns
 * From ★10 raid Arisen Quetzalcoatl
-* For summon raid build
+* (Warrior) For summon raid build
 . **★10 Head - Fallen Sky Cowl**
 * 1.05x crit damage
 * From ★10 raid Arisen Quetzalcoatl
-* For crit build
+* (Thief) For crit build
 . **★6/10 Accessory - (Ymir) Vritra Charm**
 * Immunity to Stun, Paralyze, Petrify, and an extra 8% status protection
 * From ★6/10 boss Vritra / Ymir
@@ -43,15 +43,15 @@ ____
 . **★10 Weapon - Ymir Beithir’s Staff**
 * 33% Summon Stats, summon 2 Beithir which can replicate
 * From ★10 boss Ymir
-* For BP party play
+* (Valhallan / Summoner) For BP party play
 . **★10 Armor Adorn - Jewel of Creation**
 * 2% ward (superior+) and overall stat boost
 * From ★10 boss Ymir
 * Very good armor adorn
-. **★10 Armor - Ymir Cliffside Cuirass**
+. **★10 Torso - Ymir Cliffside Cuirass**
 * 25% protect you from hits that take 100% of your maximum HP
 * From ★10 boss Ymir
-* For pvp
+* (Warrior) For pvp
 . **★10 Weapon - Trialing Bow / Axe / Staff**
 * 1.1x memory / quest reward
 * From ★10 boss Gorynych
