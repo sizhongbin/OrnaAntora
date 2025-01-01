@@ -15,29 +15,29 @@ ____
 * From Arcanist and Monumental Guild
 * (Summoner) Good summon for PvE contents
 . **★10 Head - Arisen Cursed Fomor's Crown / ★10 Leg - Arisen Cursed Fomoria Plated Boots / ★10 Torso - Arisen Cursed Fomoria Plated Robe / ★10 Shield - Arisen Cursed Wintara Crested Shield**
-* Multiple good effects. Especially 1.21x debuff application
+* Multiple house effects. Especially 1.21x debuff application
 * From ★10 Boss Arisen Cursed King Fomor, Wintara
 * (Magic Users / Valhallan / Summoner) Too hard to obtain ornate ones. Try to buy them out for ur classline if they show up in monument
 . **★10 Torso - Arisen Cursed Ogmios’ Satin Robe**
-. Confused immune
-. From ★10 Boss Arisen Cursed Ogmios of Fomoria
-. (Magic User) In case you often die from confused
+* Confused immune
+* From ★10 Boss Arisen Cursed Ogmios of Fomoria
+* (Magic User) In case you often die from confused
 . **★10 Leg - Arisen Cursed Imona’s Slippers**
-. Drenched & Asleep immune
-. From ★10 Boss Arisen Cursed Imona of Fomoria
-. (Magic User) In case you often die from Asleep
+* Drenched & Asleep immune
+* From ★10 Boss Arisen Cursed Imona of Fomoria
+* (Magic User) In case you often die from Asleep
 . **★10 Torso - Arisen Cursed Caturix’s Robe**
-. Doom immune
-. From ★10 Boss Arisen Cursed Caturix of Fomoria
-. (Magic User) In case you often die from Doom
+* Doom immune
+* From ★10 Boss Arisen Cursed Caturix of Fomoria
+* (Magic User) In case you often die from Doom
 
 === Tips
-. Gears from different house have different specific effect.
+. Gears from different house have different house effect.
 * Nocturna: Less damage from opponents’ followers/summons.
 * Autumna: Better debuff application. More debuff damage on opponents.
 * Sumner: More AoE damage. Sometimes single target skills will hit a second target.
 * Wintara: Buffs sometimes also apply to party mates. Positive status effects last longer.
-. All gears from House of Nocturna/Autumna/Sumner/Wintara event bosses except King Fomor have Nocturna/Autumna/Sumner/Wintara effect.
+. All gears from House of Nocturna/Autumna/Sumner/Wintara event bosses except King Fomor have Nocturna/Autumna/Sumner/Wintara house effect.
 . All gears from King Fomor in all Paths of Fomoria events have all weakened house effects except a better debuff application.
 
 == Event Checklist
