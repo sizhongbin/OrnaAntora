@@ -1,9 +1,8 @@
 * xref:index.adoc[Welcome]
-* Current Event (Dec 2024)
-** xref:event/wild.adoc[Winter Wild Hunt]
-** xref:event/friends.adoc[Friends & Family]
-** xref:event/balor.adoc[Balor Invades]
-** xref:event/solstice.adoc[Winter Solstice]
+* Current Event (Jan 2025)
+** xref:event/wintara.adoc[Paths of Fomoria - House of Wintara]
+** xref:event/phoenix.adoc[Phoenixrise]
+** xref:event/wyrm.adoc[Wyrmhunt]
 * Basic Info
 ** xref:basic/battle.adoc[Battle]
 ** xref:basic/class.adoc[Class]
