@@ -1,6 +1,11 @@
 = Rift Distortion
 :page-role: -toc
 
+[quote,Alcestis]
+____
+I see him there at the oars of his little boat in the lake, the ferryman of the dead, Kharon (Charon), with his hand upon the oar and he calls me now.
+____
+
 == SzHb’s Notes
 
 . Theta Riftlocks are from Shades and Shadows in Riftfall event, can be used to craft Scroll of (Arisen) Rift Distortion.

@@ -1,6 +1,11 @@
 = Riftfall
 :page-role: -toc
 
+[quote,Shield of Heracles]
+____
+And beside them was standing Akhlys (Achlys), dismal and dejected, green and pale, dirty-dry, fallen in on herself with hunger, knee-swollen, and the nails were grown long on her hands, and from her nostrils the drip kept running, and off her cheeks the blood dribbled to the ground, and she stood there, grinning forever, and the dust that had gathered and lay in heaps on her shoulders was muddy with tears.
+____
+
 == SzHb’s Notes
 
 . *[Ultima Build]* Get at least 12 *_T9_* Soul of Achlys from (Arisen) Shade of Achlys, a weapon adorn that provides 1.02x Holy & Dark damage.
@@ -9,7 +14,7 @@
 . *[Thief Crit Build]* Get Ornate *_T10_* Arisen Riftrogue Gears from Arisen Achlys. It’s one of the best crit build gear.
 . *[SS/CS Build]* Get Ornate *_T10_* Spiked Greatshield from Arisen Rhada, provides 1.2x SS/CS damage.
 . *[Summoner]* Finish The questline for *_T6_* Omega Riftlock, provides 25% chance (50% with 2) instant summon.
-. Theta Riftlocks from Shades and Shadows can be used to craft Distortion event summoning scrolls.
+. Theta Riftlocks from Shades and Shadows can be used to craft Distortion event summoning scrhffolls.
 
 == Event Checklist (mostly from community)
 

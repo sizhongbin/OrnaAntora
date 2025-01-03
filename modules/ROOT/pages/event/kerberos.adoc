@@ -1,6 +1,11 @@
 = Beastfelled
 :page-role: -toc
 
+[quote,Theogony]
+____
+Typhaon … was joined in love to her Ekhidna … And next again she bore the unspeakable, unmanageable Kerberos, the savage, the bronze-barking dog of Haides, fifty-headed, and powerful, and without pity.
+____
+
 == What’s new in 2024
 
 . Event name changed from Return of Kerberos to Beastfelled.

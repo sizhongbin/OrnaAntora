@@ -85,3 +85,7 @@ ____
 |5 |https://codex.fqegg.top/#/codex/bosses/ascended-pledge/[Ascended Pledge]
 |9 |https://codex.fqegg.top/#/codex/bosses/fallen-ashen-phoenix/[Fallen Ashen Phoenix] ^*GF^ ^Aura^
 |===
+
+=== Quests
+. Acquire Lost Ember (10)
+Reward: 150,000 gold, 5,000 orns
