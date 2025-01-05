@@ -1,9 +1,9 @@
 = Paths of Fomoria - House of Wintara
 :page-role: -toc
 
-[quote,The Book of Invasions]
+[quote]
 ____
-In the third year thereafter, the first battle of Ireland, which Partholon won in Slemna of Mag Itha against Cichol Clapperlag of the Fomoraig(Fomorian). Men with single arms and single legs they were, who joined the battle with him.
+In Paths of Fomoria, we meet the Lords of Fomoria's four houses. For players of classes that practice magic, an Epitaph will appear.
 ____
 
 == SzHb’s Notes
@@ -13,23 +13,23 @@ ____
 . **★8 Skill - Summon Buggane**
 * High damage
 * From Arcanist and Monumental Guild
-* (Summoner) Good summon for PvE contents
-. **★10 Head - Arisen Cursed Fomor's Crown / ★10 Leg - Arisen Cursed Fomoria Plated Boots / ★10 Torso - Arisen Cursed Fomoria Plated Robe / ★10 Shield - Arisen Cursed Wintara Crested Shield**
-* Multiple house effects. Especially 1.21x debuff application
+* Good summon for PvE contents
+. **★10 Head - Arisen Cursed Fomor's Crown / ★10 Leg - Arisen Cursed Fomoria Plated Boots / ★10 Torso - Arisen Cursed Fomoria Plated Robe / ★10 Off-hand - Arisen Cursed Wintara Crested Shield**
+* (Magic Users/Valhallan/Summoner) Multiple house effects. Especially 1.21x debuff application
 * From ★10 Boss Arisen Cursed King Fomor, Wintara
-* (Magic Users / Valhallan / Summoner) Too hard to obtain ornate ones. Try to buy them out for ur classline if they show up in monument
+* Too hard to obtain ornate ones. Try to buy them out for ur classline if they show up in monument
 . **★10 Torso - Arisen Cursed Ogmios’ Satin Robe**
-* Confused immune
+* (Magic User) Confused immune
 * From ★10 Boss Arisen Cursed Ogmios of Fomoria
-* (Magic User) In case you often die from confused
+* In case you often die from confused
 . **★10 Leg - Arisen Cursed Imona’s Slippers**
-* Drenched & Asleep immune
+* (Magic User) Drenched & Asleep immune
 * From ★10 Boss Arisen Cursed Imona of Fomoria
-* (Magic User) In case you often die from Asleep
+* In case you often die from Asleep
 . **★10 Torso - Arisen Cursed Caturix’s Robe**
-* Doom immune
+* (Magic User) Doom immune
 * From ★10 Boss Arisen Cursed Caturix of Fomoria
-* (Magic User) In case you often die from Doom
+* In case you often die from Doom
 
 === Tips
 . Gears from different house have different house effect.
@@ -76,6 +76,17 @@ The following bosses are summoned by Crest of Wintara.
 |10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-king-fomor-wintara/[Arisen Cursed King Fomor, Wintara] ^*GF^ ^Aura^
 |===
 
+=== Followers
+
+[options="header"]
+|===
+|★ |Name
+|7 |https://codex.fqegg.top/#/codex/followers/cernunnos/[Cernunnos]
+|7 |https://codex.fqegg.top/#/codex/followers/glashtyn/[Glashtyn]
+|10 |https://codex.fqegg.top/#/codex/followers/arisen-cernunnos/[Arisen Cernunnos]
+|10 |https://codex.fqegg.top/#/codex/followers/arisen-glashtyn/[Arisen Glashtyn]
+|===
+
 === Monsters
 
 The following mobs will spawn in Regular Dungeon and Beast Den.
@@ -88,18 +99,15 @@ The following mobs will spawn in Regular Dungeon and Beast Den.
 |10 |https://codex.fqegg.top/#/codex/monsters/glashtyn/[Glashtyn]
 |===
 
-=== Followers
+=== Quests
 
-[options="header"]
-|===
-|★ |Name
-|7 |https://codex.fqegg.top/#/codex/followers/cernunnos/[Cernunnos]
-|7 |https://codex.fqegg.top/#/codex/followers/glashtyn/[Glashtyn]
-|10 |https://codex.fqegg.top/#/codex/followers/arisen-cernunnos/[Arisen Cernunnos]
-|10 |https://codex.fqegg.top/#/codex/followers/arisen-glashtyn/[Arisen Glashtyn]
-|===
+WIP
 
-=== Summons
+=== Raids
+
+No
+
+=== Skills
 
 [options="header"]
 |===

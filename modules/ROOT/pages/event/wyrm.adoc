@@ -1,15 +1,9 @@
 = Wyrmhunt
 :page-role: -toc
 
-[quote,The Poetic Edda]
+[quote]
 ____
-Of old was the age when Ymir lived;
-
-Sea nor cool waves nor sand there were;
-
-Earth had not been, nor heaven above,
-
-But a yawning gap, and grass nowhere.
+Long ago, this land was created by the Great Dragons. Twice a year, they return to see it.
 ____
 
 == SzHb’s Notes
@@ -17,41 +11,45 @@ ____
 === Goodies
 
 . **★10 Head - Fallen Sky Hood / ★10 Head - Fallen Sky Helmet**
-* 1.1x view distance
+* (Magic Users / Warrior) 1.1x view distance
 * From ★10 raid Arisen Quetzalcoatl
-* (Magic Users / Warrior) For VD. Quality doesn't matter
+* For VD. Quality doesn't matter
 . **★10 Leg - Fallen Sky Shoes**
-* 512 magic (200% Godforged)
+* (Magic Users) 512 magic (200% Godforged)
 * From ★10 raid Arisen Quetzalcoatl
-* (Magic Users) For magic-relying builds
+* For magic-relying builds
 . **★10 Torso - Fallen Sky Armor**
-* 1.1x ward absorption (85% * 1.1 = 94% with WoO)
+* (Warrior) 1.1x ward absorption (85% * 1.1 = 94% with WoO)
 * From ★10 raid Arisen Quetzalcoatl
-* (Warrior) For tower
+* For tower
 . **★10 Leg - Fallen Sky Legging**
-* Infinite ward turns
+* (Warrior) Infinite ward turns
 * From ★10 raid Arisen Quetzalcoatl
-* (Warrior) For summon raid build
+* For summon raid build
 . **★10 Head - Fallen Sky Cowl**
-* 1.05x crit damage
+* (Thief) 1.05x crit damage
 * From ★10 raid Arisen Quetzalcoatl
-* (Thief) For crit build
+* For crit build
 . **★6/10 Accessory - (Ymir) Vritra Charm**
 * Immunity to Stun, Paralyze, Petrify, and an extra 8% status protection
 * From ★6/10 boss Vritra / Ymir
 * For classes without Steadfast
 . **★10 Weapon - Ymir Beithir’s Staff**
-* 33% Summon Stats, summon 2 Beithir which can replicate
+* (Valhallan/Summoner) 33% Summon Stats, summon 2 Beithir which can replicate
 * From ★10 boss Ymir
-* (Valhallan / Summoner) For BP party play
+* For BP party play
 . **★10 Armor Adorn - Jewel of Creation**
 * 2% ward (superior+) and overall stat boost
 * From ★10 boss Ymir
 * Very good armor adorn
 . **★10 Torso - Ymir Cliffside Cuirass**
-* 25% protect you from hits that take 100% of your maximum HP
+* (Warrior) 25% protect you from hits that take 100% of your maximum HP
 * From ★10 boss Ymir
-* (Warrior) For pvp
+* For pvp
+. **★10 Off-hand - Ymir Coiled Shield**
+* Defending in battle will reduce an additional 150% damage
+* From ★10 boss Ymir
+* For turtle build
 . **★10 Weapon - Trialing Bow / Axe / Staff**
 * 1.1x memory / quest reward
 * From ★10 boss Gorynych
@@ -67,26 +65,6 @@ ____
 . You will need at lest 30 superior+ JoC.
 
 == Event Checklist
-
-=== Followers
-
-The following pets are only available after you codex their boss version.
-
-[options="header"]
-|===
-|★ |Name
-|5 |https://codex.fqegg.top/#/codex/followers/lotan-coiled-one/[Lotan]
-|6 |https://codex.fqegg.top/#/codex/followers/vritra-the-steadfast/[Vritra]
-|7 |https://codex.fqegg.top/#/codex/followers/agathodaemon/[Agathodaemon]
-|7 |https://codex.fqegg.top/#/codex/followers/zaltys-friendly-one/[Zaltys]
-|8 |https://codex.fqegg.top/#/codex/followers/illuyanka-made-of-stone/[Illuyanka]
-|9 |https://codex.fqegg.top/#/codex/followers/bashe-hungry-one/[Bashe]
-|9 |https://codex.fqegg.top/#/codex/followers/quetzalcoatl-feathered-one/[Quetzalcoatl]
-|10 |https://codex.fqegg.top/#/codex/followers/gorynych-son-of-mountains/[Gorynych]
-|10 |https://codex.fqegg.top/#/codex/followers/ymir-amphiptere/[Ymir]
-|===
-
-They all have longer names in game.
 
 === Bosses
 
@@ -111,6 +89,34 @@ In order to see the next boss, you’ll have to codex the previous one, starting
 
 They all have longer names in game.
 
+=== Followers
+
+The following pets are only available after you codex their boss version.
+
+[options="header"]
+|===
+|★ |Name
+|5 |https://codex.fqegg.top/#/codex/followers/lotan-coiled-one/[Lotan]
+|6 |https://codex.fqegg.top/#/codex/followers/vritra-the-steadfast/[Vritra]
+|7 |https://codex.fqegg.top/#/codex/followers/agathodaemon/[Agathodaemon]
+|7 |https://codex.fqegg.top/#/codex/followers/zaltys-friendly-one/[Zaltys]
+|8 |https://codex.fqegg.top/#/codex/followers/illuyanka-made-of-stone/[Illuyanka]
+|9 |https://codex.fqegg.top/#/codex/followers/bashe-hungry-one/[Bashe]
+|9 |https://codex.fqegg.top/#/codex/followers/quetzalcoatl-feathered-one/[Quetzalcoatl]
+|10 |https://codex.fqegg.top/#/codex/followers/gorynych-son-of-mountains/[Gorynych]
+|10 |https://codex.fqegg.top/#/codex/followers/ymir-amphiptere/[Ymir]
+|===
+
+They all have longer names in game.
+
+=== Monsters
+
+No
+
+=== Quests
+
+WIP
+
 === Raids
 
 [options="header"]
@@ -121,3 +127,7 @@ They all have longer names in game.
 |10 |K W |https://codex.fqegg.top/#/codex/raids/arisen-quetzalcoatl/[Arisen Quetzalcoatl]
 |===
 [.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll)#
+
+=== Skills
+
+No

@@ -1,16 +1,16 @@
 = Phoenixrise
 :page-role: -toc
 
-[quote,Precepts of Chiron]
+[quote]
 ____
-A chattering crow lives out nine generations of aged men, but a stag's life is four times a crow's and a raven's life makes three stags old, while the Phoinix (Phoenix) outlives nine raves.
+Phoenixrise has returned. Help Asherah in her undying pledge to stop the ritual of old.
 ____
 
 == SzHb’s Notes
 
 === Goodies
 
-. **★9 Shield - Great Phoenician Shield**
+. **★9 Off-hand - Great Phoenician Shield**
 * Burn and Blind immune
 * From ★9 raid Arisen Phoenix
 * For classes without Steadfast
@@ -34,6 +34,24 @@ ____
 
 == Event Checklist
 
+=== Bosses
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|5 |R |https://codex.fqegg.top/#/codex/bosses/ascended-pledge/[Ascended Pledge]
+|9 |R |https://codex.fqegg.top/#/codex/bosses/fallen-ashen-phoenix/[Fallen Ashen Phoenix] ^*GF^ ^Aura^
+|===
+[.small]#*Spawn: R = Dragon Roost#
+
+=== Crafting
+
+|===
+|★ |Name |Cost
+|9 |Shrine of Asherah^*^ |Lost Ember(30)
+|===
+[.small]#*Shrine of Asherah: 1.05x Tower Shards, 1.25x Godforge, 1.15x Memory Hunting, 1.25x Quest Rewards, 1.15x Line Catches#
+
 === Followers
 
 [options="header"]
@@ -43,14 +61,26 @@ ____
 |10 |https://codex.fqegg.top/#/codex/followers/ashen-phoenix-46c214e1/[Ashen Phoenix]
 |===
 
-=== Summons
+=== Monsters
 
 [options="header"]
 |===
-|★ |Name
-|9 |https://codex.fqegg.top/#/codex/spells/summon-great-phoenix-pledge/[Summon Great Phoenix Pledge]
-|10 |https://codex.fqegg.top/#/codex/spells/summon-failed-phoenix/[Summon Failed Phoenix]
+|★ |Spawn^*^ |Name
+|2 |W R |https://codex.fqegg.top/#/codex/monsters/phoenix-pledgeling/[Phoenix Pledgeling]
+|2 |W R |https://codex.fqegg.top/#/codex/monsters/phoenix-pledgeling-b6ac4a97/[Phoenix Pledgeling]
+|5 |W R |https://codex.fqegg.top/#/codex/monsters/phoenix-halfling/[Phoenix Halfling]
+|5 |W R |https://codex.fqegg.top/#/codex/monsters/phoenix-halfling-805cc50e/[Phoenix Halfling]
+|9 |W R |https://codex.fqegg.top/#/codex/monsters/great-phoenix-pledge/[Great Phoenix Pledge]
+|9 |W R |https://codex.fqegg.top/#/codex/monsters/great-phoenix-pledge-19c34e4d/[Great Phoenix Pledge]
+|10 |W R |https://codex.fqegg.top/#/codex/monsters/failed-phoenix/[Failed Phoenix]
+|10 |W R |https://codex.fqegg.top/#/codex/monsters/failed-phoenix-40f6a0b6/[Failed Phoenix]
 |===
+[.small]#*Spawn: W = World, R = Dragon Roost#
+
+=== Quests
+
+. Acquire Lost Ember (10)
+* Reward: 150,000 gold, 5,000 orns
 
 === Raids
 
@@ -62,30 +92,11 @@ ____
 |===
 [.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll)#
 
-=== Monsters
+=== Skills
 
 [options="header"]
 |===
 |★ |Name
-|2 |https://codex.fqegg.top/#/codex/monsters/phoenix-pledgeling/[Phoenix Pledgeling]
-|2 |https://codex.fqegg.top/#/codex/monsters/phoenix-pledgeling-b6ac4a97/[Phoenix Pledgeling]
-|5 |https://codex.fqegg.top/#/codex/monsters/phoenix-halfling/[Phoenix Halfling]
-|5 |https://codex.fqegg.top/#/codex/monsters/phoenix-halfling-805cc50e/[Phoenix Halfling]
-|9 |https://codex.fqegg.top/#/codex/monsters/great-phoenix-pledge/[Great Phoenix Pledge]
-|9 |https://codex.fqegg.top/#/codex/monsters/great-phoenix-pledge-19c34e4d/[Great Phoenix Pledge]
-|10 |https://codex.fqegg.top/#/codex/monsters/failed-phoenix/[Failed Phoenix]
-|10 |https://codex.fqegg.top/#/codex/monsters/failed-phoenix-40f6a0b6/[Failed Phoenix]
+|9 |https://codex.fqegg.top/#/codex/spells/summon-great-phoenix-pledge/[Summon Great Phoenix Pledge]
+|10 |https://codex.fqegg.top/#/codex/spells/summon-failed-phoenix/[Summon Failed Phoenix]
 |===
-
-=== Bosses
-
-[options="header"]
-|===
-|★ |Name
-|5 |https://codex.fqegg.top/#/codex/bosses/ascended-pledge/[Ascended Pledge]
-|9 |https://codex.fqegg.top/#/codex/bosses/fallen-ashen-phoenix/[Fallen Ashen Phoenix] ^*GF^ ^Aura^
-|===
-
-=== Quests
-. Acquire Lost Ember (10)
-Reward: 150,000 gold, 5,000 orns

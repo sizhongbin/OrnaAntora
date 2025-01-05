@@ -6,12 +6,19 @@ ____
 Typhaon … was joined in love to her Ekhidna … And next again she bore the unspeakable, unmanageable Kerberos, the savage, the bronze-barking dog of Haides, fifty-headed, and powerful, and without pity.
 ____
 
-== What’s new in 2024
-
-. Event name changed from Return of Kerberos to Beastfelled.
-. New bosses, mobs, raid, followers, summons, items.
-
 == SzHb’s Notes
+
+=== Goodies
+
+. **★10 Weapon - Arisen Feral Archistaff**
+* (Magic users) High Mag, 7% follower act
+* From ★10 raid Arisen Kerberos
+* For horde or dual-wielding.
+. **★10 Off-hand - Arisen Wolven Tower Shield**
+* High Def/Res
+* From ★10 raid Arisen Kerberos
+* For turtle build
+
 
 . *[Heretic]* Get *_T10_* Arisen Feral Archistaff from Arisen Kerberos, a solid mage weapon that provides good Mag and 7% follower act.
 . Get *_T10_* Arisen Wolven Tower Shield from Arisen Kerberosa if you prefer high Def/Res and don’t care much about the Att/Mag penalty.
