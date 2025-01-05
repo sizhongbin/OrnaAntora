@@ -50,7 +50,7 @@ ____
 |★ |Name |Cost
 |9 |Shrine of Asherah^*^ |Lost Ember(30)
 |===
-[.small]#*Shrine of Asherah: 1.05x Tower Shards, 1.25x Godforge, 1.15x Memory Hunting, 1.25x Quest Rewards, 1.15x Line Catches#
+[.small]#*Shrine of Asherah: 1.05x Tower Shards, 1.25x Godforge, 1.15x Memory Hunting, 1.25x Quest Rewards, 1.15x Line Catches in 1 hour#
 
 === Followers
 
@@ -80,7 +80,7 @@ ____
 === Quests
 
 . Acquire Lost Ember (10)
-* Reward: 150,000 gold, 5,000 orns
+* Reward: 150k gold, 5k orns
 
 === Raids
 
