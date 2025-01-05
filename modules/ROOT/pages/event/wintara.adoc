@@ -83,8 +83,7 @@ The following bosses are summoned by Crest of Wintara.
 |★ |Name |Cost
 | | |
 |===
-[.small]# #
-
+[.small]#WIP#
 
 === Followers
 

@@ -94,7 +94,7 @@ They all have longer names in game.
 |★ |Name |Cost
 | | |
 |===
-[.small]# #
+[.small]#WIP#
 
 === Followers
 
@@ -120,7 +120,7 @@ They all have longer names in game.
 
 No
 
-=== Quests (WIP
+=== Quests (WIP)
 
 WIP
 
