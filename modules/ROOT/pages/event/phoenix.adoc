@@ -39,10 +39,10 @@ ____
 [options="header"]
 |===
 |★ |Spawn^*^ |Name
-|5 |R |https://codex.fqegg.top/#/codex/bosses/ascended-pledge/[Ascended Pledge]
-|9 |R |https://codex.fqegg.top/#/codex/bosses/fallen-ashen-phoenix/[Fallen Ashen Phoenix] ^*GF^ ^Aura^
+|5 |M DR |https://codex.fqegg.top/#/codex/bosses/ascended-pledge/[Ascended Pledge]
+|9 |M DR |https://codex.fqegg.top/#/codex/bosses/fallen-ashen-phoenix/[Fallen Ashen Phoenix] ^*GF^ ^Aura^
 |===
-[.small]#*Spawn: R = Dragon Roost#
+[.small]#*Spawn: M = Monument, DR = Dragon Roost#
 
 === Crafting
 
@@ -66,16 +66,16 @@ ____
 [options="header"]
 |===
 |★ |Spawn^*^ |Name
-|2 |W R |https://codex.fqegg.top/#/codex/monsters/phoenix-pledgeling/[Phoenix Pledgeling]
-|2 |W R |https://codex.fqegg.top/#/codex/monsters/phoenix-pledgeling-b6ac4a97/[Phoenix Pledgeling]
-|5 |W R |https://codex.fqegg.top/#/codex/monsters/phoenix-halfling/[Phoenix Halfling]
-|5 |W R |https://codex.fqegg.top/#/codex/monsters/phoenix-halfling-805cc50e/[Phoenix Halfling]
-|9 |W R |https://codex.fqegg.top/#/codex/monsters/great-phoenix-pledge/[Great Phoenix Pledge]
-|9 |W R |https://codex.fqegg.top/#/codex/monsters/great-phoenix-pledge-19c34e4d/[Great Phoenix Pledge]
-|10 |W R |https://codex.fqegg.top/#/codex/monsters/failed-phoenix/[Failed Phoenix]
-|10 |W R |https://codex.fqegg.top/#/codex/monsters/failed-phoenix-40f6a0b6/[Failed Phoenix]
+|2 |W M DR |https://codex.fqegg.top/#/codex/monsters/phoenix-pledgeling/[Phoenix Pledgeling]
+|2 |W M DR |https://codex.fqegg.top/#/codex/monsters/phoenix-pledgeling-b6ac4a97/[Phoenix Pledgeling]
+|5 |W M DR |https://codex.fqegg.top/#/codex/monsters/phoenix-halfling/[Phoenix Halfling]
+|5 |W M DR |https://codex.fqegg.top/#/codex/monsters/phoenix-halfling-805cc50e/[Phoenix Halfling]
+|9 |W M DR |https://codex.fqegg.top/#/codex/monsters/great-phoenix-pledge/[Great Phoenix Pledge]
+|9 |W M DR |https://codex.fqegg.top/#/codex/monsters/great-phoenix-pledge-19c34e4d/[Great Phoenix Pledge]
+|10 |W M DR |https://codex.fqegg.top/#/codex/monsters/failed-phoenix/[Failed Phoenix]
+|10 |W M DR |https://codex.fqegg.top/#/codex/monsters/failed-phoenix-40f6a0b6/[Failed Phoenix]
 |===
-[.small]#*Spawn: W = World, R = Dragon Roost#
+[.small]#*Spawn: W = World, M = Monument, DR = Dragon Roost#
 
 === Quests
 

@@ -44,27 +44,28 @@ ____
 
 === Bosses
 
-The following bosses will spawn in world when it rains (or during scroll of chaos), as well as in Chaos Portal. They can be only damaged by magic.
+The following bosses can be only damaged by magic.
 
 [options="header"]
 |===
-|★ |Name
-|4 |https://codex.fqegg.top/#/codex/bosses/esus-of-fomoria/[Esus of Fomoria]
-|4 |https://codex.fqegg.top/#/codex/bosses/imona-of-fomoria/[Imona of Fomoria]
-|4 |https://codex.fqegg.top/#/codex/bosses/lero-of-fomoria/[Lero of Fomoria]
-|4 |https://codex.fqegg.top/#/codex/bosses/ogmios-of-fomoria/[Ogmios of Fomoria]
-|4 |https://codex.fqegg.top/#/codex/bosses/caturix-of-fomoria/[Caturix of Fomoria] ^*GF^ ^Aura^
-|8 |https://codex.fqegg.top/#/codex/bosses/cursed-esus-of-fomoria/[Cursed Esus of Fomoria]
-|8 |https://codex.fqegg.top/#/codex/bosses/cursed-imona-of-fomoria/[Cursed Imona of Fomoria]
-|8 |https://codex.fqegg.top/#/codex/bosses/cursed-lero-of-fomoria/[Cursed Lero of Fomoria]
-|8 |https://codex.fqegg.top/#/codex/bosses/cursed-ogmios-of-fomoria/[Cursed Ogmios of Fomoria]
-|8 |https://codex.fqegg.top/#/codex/bosses/cursed-caturix-of-fomoria/[Cursed Caturix of Fomoria] ^*GF^ ^Aura^
-|10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-esus-of-fomoria/[Arisen Cursed Esus of Fomoria]
-|10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-imona-of-fomoria/[Arisen Cursed Imona of Fomoria]
-|10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-lero-of-fomoria/[Arisen Cursed Lero of Fomoria]
-|10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-ogmios-of-fomoria/[Arisen Cursed Ogmios of Fomoria]
-|10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-caturix-of-fomoria/[Arisen Cursed Caturix of Fomoria] ^*GF^ ^Aura^
+|★ |Spawn^*^ |Name
+|4 |W M CP |https://codex.fqegg.top/#/codex/bosses/esus-of-fomoria/[Esus of Fomoria]
+|4 |W M CP |https://codex.fqegg.top/#/codex/bosses/imona-of-fomoria/[Imona of Fomoria]
+|4 |W M CP |https://codex.fqegg.top/#/codex/bosses/lero-of-fomoria/[Lero of Fomoria]
+|4 |W M CP |https://codex.fqegg.top/#/codex/bosses/ogmios-of-fomoria/[Ogmios of Fomoria]
+|4 |W M CP |https://codex.fqegg.top/#/codex/bosses/caturix-of-fomoria/[Caturix of Fomoria] ^*GF^ ^Aura^
+|8 |W M CP |https://codex.fqegg.top/#/codex/bosses/cursed-esus-of-fomoria/[Cursed Esus of Fomoria]
+|8 |W M CP |https://codex.fqegg.top/#/codex/bosses/cursed-imona-of-fomoria/[Cursed Imona of Fomoria]
+|8 |W M CP |https://codex.fqegg.top/#/codex/bosses/cursed-lero-of-fomoria/[Cursed Lero of Fomoria]
+|8 |W M CP |https://codex.fqegg.top/#/codex/bosses/cursed-ogmios-of-fomoria/[Cursed Ogmios of Fomoria]
+|8 |W M CP |https://codex.fqegg.top/#/codex/bosses/cursed-caturix-of-fomoria/[Cursed Caturix of Fomoria] ^*GF^ ^Aura^
+|10 |W M CP |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-esus-of-fomoria/[Arisen Cursed Esus of Fomoria]
+|10 |W M CP |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-imona-of-fomoria/[Arisen Cursed Imona of Fomoria]
+|10 |W M CP |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-lero-of-fomoria/[Arisen Cursed Lero of Fomoria]
+|10 |W M CP |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-ogmios-of-fomoria/[Arisen Cursed Ogmios of Fomoria]
+|10 |W M CP |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-caturix-of-fomoria/[Arisen Cursed Caturix of Fomoria] ^*GF^ ^Aura^
 |===
+[.small]#*Spawn: W = World (rainy or chaos scroll), M = Monument, CP = Chaos Portal#
 
 The following bosses are summoned by Crest of Wintara.
 
@@ -75,6 +76,15 @@ The following bosses are summoned by Crest of Wintara.
 |8 |https://codex.fqegg.top/#/codex/bosses/cursed-king-fomor-wintara/[Cursed King Fomor, Wintara] ^*GF^ ^Aura^
 |10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-king-fomor-wintara/[Arisen Cursed King Fomor, Wintara] ^*GF^ ^Aura^
 |===
+
+=== Crafting (WIP)
+
+|===
+|★ |Name |Cost
+| | |
+|===
+[.small]# #
+
 
 === Followers
 
@@ -89,17 +99,16 @@ The following bosses are summoned by Crest of Wintara.
 
 === Monsters
 
-The following mobs will spawn in Regular Dungeon and Beast Den.
-
 [options="header"]
 |===
-|★ |Name
-|7 |https://codex.fqegg.top/#/codex/monsters/cernunnos/[Cernunnos]
-|8 |https://codex.fqegg.top/#/codex/monsters/buggane/[Buggane]
-|10 |https://codex.fqegg.top/#/codex/monsters/glashtyn/[Glashtyn]
+|★ |Spawn^*^ |Name
+|7 |W M RD BD |https://codex.fqegg.top/#/codex/monsters/cernunnos/[Cernunnos]
+|8 |W M RD BD |https://codex.fqegg.top/#/codex/monsters/buggane/[Buggane]
+|10 |W M RD BD |https://codex.fqegg.top/#/codex/monsters/glashtyn/[Glashtyn]
 |===
+[.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon, BD = Beast Den#
 
-=== Quests
+=== Quests (WIP)
 
 WIP
 

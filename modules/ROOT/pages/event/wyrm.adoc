@@ -68,26 +68,33 @@ ____
 
 === Bosses
 
-The following bosses can be found in Regular Dungeon, Dragon Roost and world. Ymir can be found in VOTG.
-
 In order to see the next boss, you’ll have to codex the previous one, starting at T5. Check Codex site for codex entries.
+
+They all have longer names in game.
 
 [options="header"]
 |===
-|★ |Name
-|5 |https://codex.fqegg.top/#/codex/bosses/lotan-coiled-one/[Lotan] ^*GF^ ^Aura^
-|6 |https://codex.fqegg.top/#/codex/bosses/vritra-the-steadfast/[Vritra] ^*GF^ ^Aura^
-|7 |https://codex.fqegg.top/#/codex/bosses/agathodaemon/[Agathodaemon] ^*GF^ ^Aura^
-|7 |https://codex.fqegg.top/#/codex/bosses/zaltys-friendly-one/[Zaltys] ^*GF^ ^Aura^
-|8 |https://codex.fqegg.top/#/codex/bosses/illuyanka-made-of-stone/[Illuyanka] ^*GF^ ^Aura^
-|8 |https://codex.fqegg.top/#/codex/bosses/beithir/[Beithir] ^*GF^ ^Aura^
-|9 |https://codex.fqegg.top/#/codex/bosses/bashe-hungry-one/[Bashe] ^*GF^ ^Aura^
-|9 |https://codex.fqegg.top/#/codex/bosses/quetzalcoatl-feathered-one/[Quetzalcoatl] ^*GF^ ^Aura^
-|10 |https://codex.fqegg.top/#/codex/bosses/gorynych-son-of-mountains/[Gorynych] ^*GF^ ^Aura^
-|10 |https://codex.fqegg.top/#/codex/bosses/ymir-amphiptere/[Ymir] ^*GF^ ^Aura^
+|★ |Spawn^*^ |Name
+|5 |W M RD DR |https://codex.fqegg.top/#/codex/bosses/lotan-coiled-one/[Lotan] ^*GF^ ^Aura^
+|6 |W M RD DR |https://codex.fqegg.top/#/codex/bosses/vritra-the-steadfast/[Vritra] ^*GF^ ^Aura^
+|7 |W M RD DR |https://codex.fqegg.top/#/codex/bosses/agathodaemon/[Agathodaemon] ^*GF^ ^Aura^
+|7 |W M RD DR |https://codex.fqegg.top/#/codex/bosses/zaltys-friendly-one/[Zaltys] ^*GF^ ^Aura^
+|8 |W M RD DR |https://codex.fqegg.top/#/codex/bosses/illuyanka-made-of-stone/[Illuyanka] ^*GF^ ^Aura^
+|8 |W M RD DR |https://codex.fqegg.top/#/codex/bosses/beithir/[Beithir] ^*GF^ ^Aura^
+|9 |W M RD DR |https://codex.fqegg.top/#/codex/bosses/bashe-hungry-one/[Bashe] ^*GF^ ^Aura^
+|9 |W M RD DR |https://codex.fqegg.top/#/codex/bosses/quetzalcoatl-feathered-one/[Quetzalcoatl] ^*GF^ ^Aura^
+|10 |W M RD DR |https://codex.fqegg.top/#/codex/bosses/gorynych-son-of-mountains/[Gorynych] ^*GF^ ^Aura^
+|10 |W M RD DR VG |https://codex.fqegg.top/#/codex/bosses/ymir-amphiptere/[Ymir] ^*GF^ ^Aura^
 |===
+[.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon, DR = Dragon Roost, VG = Valley of the Gods#
 
-They all have longer names in game.
+=== Crafting (WIP)
+
+|===
+|★ |Name |Cost
+| | |
+|===
+[.small]# #
 
 === Followers
 
@@ -113,7 +120,7 @@ They all have longer names in game.
 
 No
 
-=== Quests
+=== Quests (WIP
 
 WIP
 
