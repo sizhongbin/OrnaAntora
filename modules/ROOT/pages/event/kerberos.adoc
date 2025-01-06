@@ -1,9 +1,9 @@
 = Beastfelled
 :page-role: -toc
 
-[quote,Theogony]
+[quote]
 ____
-Typhaon … was joined in love to her Ekhidna … And next again she bore the unspeakable, unmanageable Kerberos, the savage, the bronze-barking dog of Haides, fifty-headed, and powerful, and without pity.
+WIP
 ____
 
 == SzHb’s Notes
@@ -11,68 +11,103 @@ ____
 === Goodies
 
 . **★10 Weapon - Arisen Feral Archistaff**
-* (Magic users) High Mag, 7% follower act
+* (Magic users) 7% follower act
 * From ★10 raid Arisen Kerberos
-* For horde or dual-wielding.
+* For horde and dual-wielding.
 . **★10 Off-hand - Arisen Wolven Tower Shield**
 * High Def/Res
 * From ★10 raid Arisen Kerberos
 * For turtle build
+. **★9 Weapon Adorn - Blackened Eye of Kerberos / ★5 Weapon Adorn - Dark Eye of Kerberos**
+* 2% Follower Act, 2% ward (superior+), overall stats boost (blackened)
+* From ★9/5 boss Kin of Kerberos
+* For horde and endless
+. **★10 Torso - Beastfelled Garb**
+* Follower get Berserk skill
+* From ★10 raid Turned King Lyncus
+* For horde
+. **★10 Armor Adorn - Monoceros Essence**
+* Avidity + 1% (max 30%)
+* From ★8 monster Great Monoceros
+* For realm in tower and horde
+. **★5 Follower - Kin of Kerberos**
+* 4 faction elements Alignment
+* From Bestiary and Monumental Guild
+* Good Ultima pet
 
-
-. *[Heretic]* Get *_T10_* Arisen Feral Archistaff from Arisen Kerberos, a solid mage weapon that provides good Mag and 7% follower act.
-. Get *_T10_* Arisen Wolven Tower Shield from Arisen Kerberosa if you prefer high Def/Res and don’t care much about the Att/Mag penalty.
-. Get at least 5 superior or higher *_T9_* Blackened Eye of Kerberos from Kin of Kerberos (with Godforged Aura), a 2% follower act weapon adorn, plus foresight and 2% ward and bonus stats.
-. Get superior or higher *_T5_* Dark Eye of Kerberos from Kin of Kerberos (without Godforged Aura) instead of blackened eyes if your tier is lower than T9.
-. Get Ornate *_T10_* Beastfelled Garb if you need, a thief chestpiece that gives your pet the ability to use Berserk.
-. Get Ornate *_T10_* Beastfelled Legwear if you need. All pants allow your pet to use Ward of Ortanite.
-
-== Event Checklist (mostly from community)
-
-=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
-
-Lyncus can be summoned with crafted scrolls. Find the three materials: Monoceros Horn, Manticore Heart, and Kerberos Fur.
-
-* *[K/W]* *_T8_* Kerberos
-* *[K/W]* *_T10_* Arisen Kerberos
-* *[O]* *_T10_* Turned King Lyncus (NEW)
-
-=== Followers
-
-* *_T3_* Monoceros (NEW)
-* *_T5_* Kin of Kerberos
-* *_T8_* Kerberos
-* *_T10_* Great Monoceros (NEW)
+== Event Checklist
 
 === Bosses
 
 Can be found in Beast Den. Manticore can also be found in Regular Dungeon.
 
-* *_T5_* Kin of Kerberos
-* *_T8_* Manticore (NEW)
-* *_T9_* Kin of Kerberos ^*GF^ ^Aura^
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|5 |M BD |https://codex.fqegg.top/#/codex/bosses/kin-of-kerberos-762be157/[Kin of Kerberos]
+|8 |M RD BD |https://codex.fqegg.top/#/codex/bosses/manticore/[Manticore]
+|9 |M BD |https://codex.fqegg.top/#/codex/bosses/kin-of-kerberos/[Kin of Kerberos] ^*GF^ ^Aura^
+|===
+[.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon, BD = Beast Den#
+
+=== Crafting (WIP)
+
+|===
+|★ |Name |Cost
+|10 |Beastfelled Summoning Scroll |Monoceros Horn(7), Manticore Heart(7), Kerberos Fur(7)
+|===
+[.small]#WIP#
+
+=== Followers
+
+[options="header"]
+|===
+|★ |Name
+|3 |https://codex.fqegg.top/#/codex/followers/monoceros/[Monoceros]
+|5 |https://codex.fqegg.top/#/codex/followers/kin-of-kerberos/[Kin of Kerberos]
+|8 |https://codex.fqegg.top/#/codex/followers/kerberos/[Kerberos]
+|10 |https://codex.fqegg.top/#/codex/followers/great-monoceros/[Great Monoceros]
+|===
 
 === Monsters
 
 Can be found in Beast Den. Monoceros can also be found in Regular Dungeon. All of the Kerberos mobs are actually named "`Follower of Kerberos`" in game.
 
-* *_T3_* Monoceros (NEW)
-* *_T5_* Warlock of Kerberos
-* *_T5_* Witch of Kerberos
-* *_T5_* Warrior of Kerberos
-* *_T5_* Paladin of Kerberos
-* *_T8_* Great Monoceros (NEW)
-* *_T9_* Warlock of Kerberos
-* *_T9_* Witch of Kerberos
-* *_T9_* Warrior of Kerberos
-* *_T9_* Paladin of Kerberos
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|3 |W M RD BD |https://codex.fqegg.top/#/codex/monsters/monoceros/[Monoceros]
+|5 |M BD |https://codex.fqegg.top/#/codex/monsters/follower-of-kerberos/[Follower of Kerberos]
+|5 |M BD |https://codex.fqegg.top/#/codex/monsters/follower-of-kerberos-c2c56d32/[Follower of Kerberos]
+|5 |M BD |https://codex.fqegg.top/#/codex/monsters/follower-of-kerberos-ac5dc474/[Follower of Kerberos]
+|5 |M BD |https://codex.fqegg.top/#/codex/monsters/follower-of-kerberos-baef9151/[Follower of Kerberos]
+|8 |W M RD BD |https://codex.fqegg.top/#/codex/monsters/great-monoceros/[Great Monoceros]
+|9 |M BD |https://codex.fqegg.top/#/codex/monsters/follower-of-kerberos-a0c03351/[Follower of Kerberos]
+|9 |M BD |https://codex.fqegg.top/#/codex/monsters/follower-of-kerberos-eb83ccd1/[Follower of Kerberos]
+|9 |M BD |https://codex.fqegg.top/#/codex/monsters/follower-of-kerberos-ca288318/[Follower of Kerberos]
+|9 |M BD |https://codex.fqegg.top/#/codex/monsters/follower-of-kerberos-bd3f5aeb/[Follower of Kerberos]
+|===
+[.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon, BD = Beast Den#
 
-=== Summons
+=== Quests (WIP)
 
-* *_T8_* Summon Monoceros (NEW)
+WIP
 
-'''''
+=== Raids 
 
-_Blackened Eye is one of the best weapon adorn._
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|8 |K W |https://codex.fqegg.top/#/codex/raids/kerberos/[Kerberos]
+|10 |K W |https://codex.fqegg.top/#/codex/raids/arisen-kerberos/[Arisen Kerberos]
+|10 |B |https://codex.fqegg.top/#/codex/raids/turned-king-lyncus/[Turned King Lyncus]
+|===
+[.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll), B = Beastfelled Summoning Scroll#
 
-_by SzHb_
+=== Skills
+
+[options="header"]
+|===
+|★ |Name
+|8 |https://codex.fqegg.top/#/codex/spells/summon-great-monoceros/[Summon Great Monoceros]
+|===

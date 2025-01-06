@@ -100,6 +100,8 @@ They all have longer names in game.
 
 The following pets are only available after you codex their boss version.
 
+They all have longer names in game.
+
 [options="header"]
 |===
 |★ |Name
@@ -113,8 +115,6 @@ The following pets are only available after you codex their boss version.
 |10 |https://codex.fqegg.top/#/codex/followers/gorynych-son-of-mountains/[Gorynych]
 |10 |https://codex.fqegg.top/#/codex/followers/ymir-amphiptere/[Ymir]
 |===
-
-They all have longer names in game.
 
 === Monsters
 
