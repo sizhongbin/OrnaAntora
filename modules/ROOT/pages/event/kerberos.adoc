@@ -25,15 +25,19 @@ ____
 . **★10 Torso - Beastfelled Garb**
 * Follower get Berserk skill
 * From ★10 raid Turned King Lyncus
-* For horde
+* For horde and Realmshifter in raid
 . **★10 Armor Adorn - Monoceros Essence**
 * Avidity + 1% (max 30%)
 * From ★8 monster Great Monoceros
-* For realm in tower and horde
+* For Realmshifter in tower and horde
 . **★5 Follower - Kin of Kerberos**
 * 4 faction elements Alignment
 * From Bestiary and Monumental Guild
 * Good Ultima pet
+
+=== Tips
+
+. You will need at lest 10 superior+ Blackened eye.
 
 == Event Checklist
 
@@ -46,7 +50,7 @@ ____
 |8 |M RD BD |https://codex.fqegg.top/#/codex/bosses/manticore/[Manticore]
 |9 |M BD |https://codex.fqegg.top/#/codex/bosses/kin-of-kerberos/[Kin of Kerberos] ^*GF^ ^Aura^
 |===
-[.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon, BD = Beast Den#
+[.small]#*Spawn: M = Monument, RD = Regular Dungeon, BD = Beast Den#
 
 === Crafting (WIP)
 
