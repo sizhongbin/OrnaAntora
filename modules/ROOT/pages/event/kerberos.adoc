@@ -18,9 +18,9 @@ ____
 * High Def/Res
 * From ★10 raid Arisen Kerberos
 * For turtle build
-. **★9 Weapon Adorn - Blackened Eye of Kerberos / ★5 Weapon Adorn - Dark Eye of Kerberos**
+. **★5/9 Weapon Adorn - Dark / Blackened Eye of Kerberos**
 * 2% Follower Act, 2% ward (superior+), overall stats boost (blackened)
-* From ★9/5 boss Kin of Kerberos
+* From ★5/9 boss Kin of Kerberos
 * For horde and endless
 . **★10 Torso - Beastfelled Garb**
 * Follower get Berserk skill
@@ -38,8 +38,6 @@ ____
 == Event Checklist
 
 === Bosses
-
-Can be found in Beast Den. Manticore can also be found in Regular Dungeon.
 
 [options="header"]
 |===
@@ -70,8 +68,6 @@ Can be found in Beast Den. Manticore can also be found in Regular Dungeon.
 |===
 
 === Monsters
-
-Can be found in Beast Den. Monoceros can also be found in Regular Dungeon. All of the Kerberos mobs are actually named "`Follower of Kerberos`" in game.
 
 [options="header"]
 |===
