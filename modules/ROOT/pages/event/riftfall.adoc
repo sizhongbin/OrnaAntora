@@ -1,66 +1,114 @@
 = Riftfall
 :page-role: -toc
 
-[quote,Shield of Heracles]
+[quote]
 ____
-And beside them was standing Akhlys (Achlys), dismal and dejected, green and pale, dirty-dry, fallen in on herself with hunger, knee-swollen, and the nails were grown long on her hands, and from her nostrils the drip kept running, and off her cheeks the blood dribbled to the ground, and she stood there, grinning forever, and the dust that had gathered and lay in heaps on her shoulders was muddy with tears.
+WIP
 ____
 
 == SzHb’s Notes
 
-. *[Ultima Build]* Get at least 12 *_T9_* Soul of Achlys from (Arisen) Shade of Achlys, a weapon adorn that provides 1.02x Holy & Dark damage.
-. Get some Superior+ *_T9_* Soul of Rhada from (Arisen) Shade of Rhada if you need, an armor adorn that provides 2% ward, Def/Res and 2% Holy & Dark resistance.
-. *[Summoner]* Get *_T10_* Charon’s Grimoire from Arisen Shade of Charon, provides off-hand skill that can summon Fey Gaze which is very good for endless.
-. *[Thief Crit Build]* Get Ornate *_T10_* Arisen Riftrogue Gears from Arisen Achlys. It’s one of the best crit build gear.
-. *[SS/CS Build]* Get Ornate *_T10_* Spiked Greatshield from Arisen Rhada, provides 1.2x SS/CS damage.
-. *[Summoner]* Finish The questline for *_T6_* Omega Riftlock, provides 25% chance (50% with 2) instant summon.
-. Theta Riftlocks from Shades and Shadows can be used to craft Distortion event summoning scrhffolls.
+=== Goodies
 
-== Event Checklist (mostly from community)
+. **★10 Head / Torso / Leg - Arisen Riftrogue Helmet / Chestplate / Boots**
+* (Thief) 5% Crit, 5% Accuracy
+* From ★10 raid Arisen Judge Achlys
+* Good for crit build and SS/CS build
+. **★10 Off-hand - Spiked Greatshield**
+* 1.2x ward power
+* From ★10 raid Arisen Judge Rhada
+* Good for SS/CS build
+. **★10 Off-hand - Charon’s Grimoire**
+* May summon Great Gazer
+* From ★10 monster Shade of Charon, Grand Summoner
+* Good for endless
+. **★9 Weapon Adorn - Soul of Achlys**
+* 1.02x Holy & Dark damage
+* From ★10 monster Shade of Achlys, the Red Dagger
+* Ultima duel-wielding weapon adorn
+. **★9 Armor Adorn - Soul of Rhada**
+* 0.96x damage from Ultima, 2% ward (superior+)
+* From ★10 monster Shade of Rhada, the Great Shield
+* For PvP
+. **★9 Accessory - Omega Riftlock**
+* 25% Instant Summon
+* From Quest
+* For summon build
 
-=== Followers
+=== Tips
 
-* *_T7_* Shadow of Achlys
-* *_T8_* Shadow of Rhada
-* *_T10_* Shade of Achlys
-* *_T10_* Shade of Rhada
+. Theta Achlys / Rhada / Charon Riftlocks can be used to craft Rift Distortion event summoning scrolls.
 
-=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
-
-* *[K/W]* *_T6_* Fallen Achlys
-* *[K/W]* *_T7_* Fallen Rhada
-* *[K/W]* *_T8_* Fallen Charon
-* *[K/W]* *_T10_* Arisen Achlys
-* *[K/W]* *_T10_* Arisen Rhada
-* *[K/W]* *_T10_* Arisen Charon
+== Event Checklist
 
 === Bosses
 
-Can be found in World and Regular Dungeon last floor.
+The following bosses are unlocked by quests.
 
-* *_T5_* Shadow of Achlys
-* *_T6_* Shadow of Rhada
-* *_T7_* Shadow of Charon
-* *_T7_* Shade of Achlys
-* *_T8_* Shade of Rhada
-* *_T9_* Shade of Charon
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|5 |W M RD |https://codex.fqegg.top/#/codex/bosses/shadow-of-achlys-the-red-dagger/[Shadow of Achlys, the Red Dagger]
+|6 |W M RD |https://codex.fqegg.top/#/codex/bosses/shadow-of-rhada-the-great-shield/[Shadow of Rhada, the Great Shield]
+|7 |W M RD |https://codex.fqegg.top/#/codex/bosses/shadow-of-charon-grand-summoner/[Shadow of Charon, Grand Summoner]
+|7 |W M RD |https://codex.fqegg.top/#/codex/bosses/shade-of-achlys-the-red-dagger-88eec645/[Shade of Achlys, the Red Dagger]
+|8 |W M RD |https://codex.fqegg.top/#/codex/bosses/shade-of-rhada-the-great-shield/[Shade of Rhada, the Great Shield]
+|9 |W M RD |https://codex.fqegg.top/#/codex/bosses/shade-of-charon-grand-summoner-a33af9a0/[Shade of Charon, Grand Summoner]
+|===
+[.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon#
+
+=== Crafting (WIP)
+
+|===
+|★ |Name |Cost
+| | |
+|===
+[.small]#WIP#
+
+=== Followers
+
+|7 |https://codex.fqegg.top/#/codex/followers/shadow-of-achlys-the-red-dagger/[Shadow of Achlys, the Red Dagger]
+|8 |https://codex.fqegg.top/#/codex/followers/shadow-of-rhada-the-great-shield/[Shadow of Rhada, the Great Shield]
+|10 |https://codex.fqegg.top/#/codex/followers/shade-of-achlys-the-red-dagger/[Shade of Achlys, the Red Dagger]
+|10 |https://codex.fqegg.top/#/codex/followers/shade-of-rhada-the-great-shield/[Shade of Rhada, the Great Shield]
+|===
 
 === Monsters
 
-Can be found in World and Regular Dungeon.
+The following monsters (except ★10) are unlocked by quests.
 
-* *_T5_* Rift Rogue
-* *_T8_* Elite Rift Rogue
-* *_T6_* Riftguard
-* *_T8_* Elite Riftguard
-* *_T7_* Rift Summoner
-* *_T9_* Elite Rift Summoner
-* *_T10_* Arisen Shade of Achlys
-* *_T10_* Arisen Shade of Rhada
-* *_T10_* Arisen Shade of Charon
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|5 |W M RD |https://codex.fqegg.top/#/codex/monsters/rift-rogue/[Rift Rogue]
+|8 |W M RD |https://codex.fqegg.top/#/codex/monsters/elite-rift-rogue/[Elite Rift Rogue]
+|6 |W M RD |https://codex.fqegg.top/#/codex/monsters/riftguard/[Riftguard]
+|8 |W M RD |https://codex.fqegg.top/#/codex/monsters/elite-riftguard/[Elite Riftguard]
+|7 |W M RD |https://codex.fqegg.top/#/codex/monsters/rift-summoner/[Rift Summoner]
+|9 |W M RD |https://codex.fqegg.top/#/codex/monsters/elite-rift-summoner/[Elite Rift Summoner]
+|10 |W M RD VG |https://codex.fqegg.top/#/codex/monsters/shade-of-achlys-the-red-dagger/[Shade of Achlys, the Red Dagger]
+|10 |W M RD VG |https://codex.fqegg.top/#/codex/monsters/shade-of-rhada-the-great-shield-70e460f3/[Shade of Rhada, the Great Shield]
+|10 |W M RD VG |https://codex.fqegg.top/#/codex/monsters/shade-of-charon-grand-summoner/[Shade of Charon, Grand Summoner]
+|===
+[.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon, VG = Valley of the Gods#
 
-'''''
+=== Quests (WIP)
 
-_One of The best event. Most classes / builds can get something important during this event._
+WIP
 
-_by SzHb_
+=== Raids
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|6 |K W |https://codex.fqegg.top/#/codex/raids/fallen-judge-achlys/[Fallen Judge Achlys]
+|7 |K W |https://codex.fqegg.top/#/codex/raids/fallen-judge-rhada/[Fallen Judge Rhada]
+|8 |K W |https://codex.fqegg.top/#/codex/raids/fallen-judge-charon/[Fallen Judge Charon]
+|10 |K W |https://codex.fqegg.top/#/codex/raids/arisen-judge-achlys/[Arisen Judge Achlys]
+|10 |K W |https://codex.fqegg.top/#/codex/raids/arisen-judge-rhada/[Arisen Judge Rhada]
+|10 |K W |https://codex.fqegg.top/#/codex/raids/arisen-judge-charon/[Arisen Judge Charon]
+|===
+
+=== Skills (WIP)
+
+WIP
