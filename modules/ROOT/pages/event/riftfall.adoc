@@ -23,7 +23,7 @@ ____
 * From ★10 monster Shade of Charon, Grand Summoner
 * Good for endless
 . **★9 Weapon Adorn - Soul of Achlys**
-* 1.02x Holy & Dark damage
+* 1.04x Ultima damage
 * From ★10 monster Shade of Achlys, the Red Dagger
 * Ultima duel-wielding weapon adorn
 . **★9 Armor Adorn - Soul of Rhada**
@@ -67,6 +67,9 @@ The following bosses are unlocked by quests.
 
 === Followers
 
+[options="header"]
+|===
+|★ |Name
 |7 |https://codex.fqegg.top/#/codex/followers/shadow-of-achlys-the-red-dagger/[Shadow of Achlys, the Red Dagger]
 |8 |https://codex.fqegg.top/#/codex/followers/shadow-of-rhada-the-great-shield/[Shadow of Rhada, the Great Shield]
 |10 |https://codex.fqegg.top/#/codex/followers/shade-of-achlys-the-red-dagger/[Shade of Achlys, the Red Dagger]
