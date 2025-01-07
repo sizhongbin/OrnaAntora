@@ -111,7 +111,7 @@ WIP
 |10 |K W |https://codex.fqegg.top/#/codex/raids/arisen-judge-rhada/[Arisen Judge Rhada]
 |10 |K W |https://codex.fqegg.top/#/codex/raids/arisen-judge-charon/[Arisen Judge Charon]
 |===
-[.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll)
+[.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll)#
 
 === Skills (WIP)
 
