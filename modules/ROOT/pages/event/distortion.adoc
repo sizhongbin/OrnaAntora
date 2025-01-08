@@ -1,29 +1,67 @@
 = Rift Distortion
 :page-role: -toc
 
-[quote,Alcestis]
+[quote]
 ____
-I see him there at the oars of his little boat in the lake, the ferryman of the dead, Kharon (Charon), with his hand upon the oar and he calls me now.
+WIP
 ____
 
 == SzHb’s Notes
 
-. Theta Riftlocks are from Shades and Shadows in Riftfall event, can be used to craft Scroll of (Arisen) Rift Distortion.
-. *[Heretic]* Get Ornate *_T10_* Arisen Rift Cowl from Arisen Rift Judgement, an Achlys head for mages.
-. *[Gilgamesh]* Get Ornate *_T10_* Arisen Rift Chestplate from Arisen Rift Judgement, a mix of Achlys and Rhada chestplate.
-. Get Ornate *_T10_* Arisen Rift Armor from Arisen Rift Judgement if you need, a good piece with high ward + HP / Mana recovery.
+=== Goodies
 
-== Event Checklist (mostly from community)
+. **★10 Head - Arisen Rift Cowl**
+* (Magic users) 5% Crit, 5% Accuracy
+* From ★10 raid Arisen Rift Judgement
+* For crit build and SS/CS build
+. **★10 Torso - Arisen Rift Chestplate**
+* (Warrior) 5% Crit, 4% Accuracy, 3% HP/MP Recovery
+* From ★10 raid Arisen Rift Judgement
+* For crit build
 
-=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+=== Tips
 
-Can be summoned by event summoning scrolls from Herbalist.
+. Theta Achlys / Rhada / Charon Riftlocks are from Riftfall event.
+. All Head / Torso / Leg from event raids can be dismantled for Titanium and Fogstone.
 
-* *[O]* *_T8_* Rift Judgement (Scroll of Rift Distortion)
-* *[O]* *_T10_* Arisen Rift Judgement (Scroll of Arisen Rift Distortion)
+== Event Checklist
 
-'''''
+=== Bosses
 
-_Most of the gears are too distorted to use._
+No.
 
-_by SzHb_
+=== Crafting (WIP)
+
+[options="header"]
+|===
+|★ |Name |Cost
+|8 |Scroll of Rift Distortion |Theta Achlys & Rhada & Charon Riftlocks(7)
+|10 |Scroll of Arisen Rift Distortion |Theta Achlys & Rhada & Charon Riftlocks(15)
+|===
+
+=== Followers
+
+No.
+
+=== Monsters
+
+No.
+
+=== Quests (WIP)
+
+WIP
+
+=== Raids
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|8 |R |https://codex.fqegg.top/#/codex/raids/rift-judgement/[Rift Judgement]
+|10 |A |https://codex.fqegg.top/#/codex/raids/arisen-rift-judgement/[Arisen Rift Judgement]
+|===
+[.small]#*Spawn: R = Scroll of Rift Distortion, A = Scroll of Arisen Rift Distortion#
+
+
+=== Skills 
+
+No.
