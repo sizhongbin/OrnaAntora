@@ -1,44 +1,106 @@
 = Thronemakers
 :page-role: -toc
 
-== What’s new in 2024
 
-Brand new event.
+[quote]
+____
+WIP
+____
 
 == SzHb’s Notes
 
-. *_T8_* Tail of a Sphinx from event questline, an accessory which allow items of higher quality to be found more often.
-. *[Thief]* *_T10_* Arisen Aaru Boots from *_T10_* Arisen Thronemaker Sekhmet, a Legs piece with Crit, high Ward, high Dex and Cursed immunity.
-. *[Warrior]* *_T10_* Arisen Aaru Leggings from *_T10_* Arisen Thronemaker Neith, a Legs piece with highest Ward and start Ward.
-. *[Mage]* *_T10_* Arisen Aaru Robe from *_T10_* Arisen Thronemaker Ptah, a Torso piece that gives your follower Great Meditation skill.
-. *[Mage/Warrior]* *_T10_* Any Mage/Warrior piece of Dynasty from *_T10_* Great Sphinx, gives you access to "`Gods/Walls of Aaru`", which is a 2 turn DC/DB.
+=== Goodies
 
-== Event Checklist (mostly from community)
+. **★10 Head - Arisen Aaru Headwrap**
+* (Thief) High Att, negative Def, Curse immune
+* From ★10 raid Arisen Thronemaker Sekhmet
+* For BoF build
+. **★10 Torso - Arisen Aaru Robe**
+* (Magic users) Grant your follower or summons Great Meditation Skill, Curse immune
+* From ★10 raid Arisen Thronemaker Ptah
+* For most magic build
+. **★10 Leg - Arisen Aaru Leggings**
+* (Warrior) Ward Start +6 turns, high ward, Curse immune
+* Arisen Thronemaker Neith
+* For PvP / Tower build
+. **★10 Head/Torso/Leg - Cowl/Chestguard/Clogs of Dynasty**
+* (Thief) Granted access to Curse of Sekhmet (permanent Bloodshift) skill, Curse immune
+* From ★10 raid Great Sphinx
+* For raid / endless build
+. **★10 Head/Torso/Leg - Hood/Houserobe/Footpads of Dynasty**
+* (Magic user) Granted access to Gods of Aaru (2 turns Deific Channel) skill, Curse immune
+* From ★10 raid Great Sphinx
+* For raid / summon build
+. **★4 Skill - Sands of Aaru**
+* 100% Blind
+* From Arcanist and Monumental Guild
+* For PvP build
 
-=== Monsters
+=== Tips
 
-* *_T3_* Sphinx Cub
-* *_T10_* Sphinx Kit
+. Party with your alt will help you a lot with event quests.
+. All event monsters will drop Ancient Stone.
 
-=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+== Event Checklist
 
-Great Sphinx can be summoned with crafted scrolls.
+=== Bosses
 
-* *[K/W]* *_T6_* Thronemaker Neith
-* *[K/W]* *_T7_* Thronemaker Sekhmet
-* *[K/W]* *_T8_* Thronemaker Ptah
-* *[K/W]* *_T10_* Arisen Thronemaker Neith
-* *[K/W]* *_T10_* Arisen Thronemaker Sekhmet
-* *[K/W]* *_T10_* Arisen Thronemaker Ptah
-* *[O]* *_T10_* Great Sphinx
+No.
+
+=== Crafting
+
+[options="header"]
+|===
+|★ |Name |Cost
+|10 |Scroll of Dynasty |Old Seal of Avalon/Lyonesse/Annwn(3)
+|10 |Eastern Regalia |Old Seal of Avalon/Lyonesse/Annwn(3)
+|===
 
 === Followers
 
-* *_T7_* Aaru Cobra
-* *_T10_* Aaru Viper
-* *_T3_* Sphinx Cub
-* *_T10_* Sphinx Kit
+[options="header"]
+|===
+|★ |Name
+|3 |https://codex.fqegg.top/#/codex/followers/sphinx-cub/[Sphinx Cub]
+|7 |https://codex.fqegg.top/#/codex/followers/aaru-cobra/[Aaru Cobra]
+|10 |https://codex.fqegg.top/#/codex/followers/aaru-viper/[Aaru Viper]
+|10 |https://codex.fqegg.top/#/codex/followers/sphinx-kit/[Sphinx Kit]
+|===
 
-=== Summons
+=== Monsters
 
-* *_T10_* Summon Sphinx Kit
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|3 |W M RD BD |https://codex.fqegg.top/#/codex/monsters/sphinx-cub/[Sphinx Cub]
+|10 |W M RD BD |https://codex.fqegg.top/#/codex/monsters/sphinx-kit/[Sphinx Kit]
+|===
+[.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon, BD = Beast Den#
+
+=== Quests (WIP)
+
+WIP
+
+=== Raids
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|6 |K W |https://codex.fqegg.top/#/codex/raids/thronemaker-neith/[Thronemaker Neith]
+|7 |K W |https://codex.fqegg.top/#/codex/raids/thronemaker-sekhmet/[Thronemaker Sekhmet]
+|8 |K W |https://codex.fqegg.top/#/codex/raids/thronemaker-ptah/[Thronemaker Ptah]
+|10 |K W |https://codex.fqegg.top/#/codex/raids/arisen-thronemaker-neith/[Arisen Thronemaker Neith]
+|10 |K W |https://codex.fqegg.top/#/codex/raids/arisen-thronemaker-sekhmet/[Arisen Thronemaker Sekhmet]
+|10 |K W |https://codex.fqegg.top/#/codex/raids/arisen-thronemaker-ptah/[Arisen Thronemaker Ptah]
+|10 |D |https://codex.fqegg.top/#/codex/raids/great-sphinx/[Great Sphinx]
+|===
+[.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll), D = Scroll of Dynasty#
+
+=== Skills
+
+[options="header"]
+|===
+|★ |Name
+|4 |https://codex.fqegg.top/#/codex/spells/sands-of-aaru/[Sands of Aaru]
+|10 |https://codex.fqegg.top/#/codex/spells/summon-sphinx-kit/[Summon Sphinx Kit]
+|===

@@ -90,6 +90,7 @@ They all have longer names in game.
 
 === Crafting (WIP)
 
+[options="header"]
 |===
 |★ |Name |Cost
 | | |

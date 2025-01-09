@@ -23,7 +23,7 @@ ____
 * From ★5/9 boss Kin of Kerberos
 * For horde and endless
 . **★10 Torso - Beastfelled Garb**
-* Follower get Berserk skill
+* Grant your follower or summons Berserk skill
 * From ★10 raid Turned King Lyncus
 * For horde and Realmshifter in raid
 . **★10 Armor Adorn - Monoceros Essence**
@@ -54,6 +54,7 @@ ____
 
 === Crafting (WIP)
 
+[options="header"]
 |===
 |★ |Name |Cost
 |10 |Beastfelled Summoning Scroll |Monoceros Horn(7), Manticore Heart(7), Kerberos Fur(7)

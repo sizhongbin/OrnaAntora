@@ -79,6 +79,7 @@ The following bosses are summoned by Crest of Wintara.
 
 === Crafting (WIP)
 
+[options="header"]
 |===
 |★ |Name |Cost
 | | |

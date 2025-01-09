@@ -46,6 +46,7 @@ ____
 
 === Crafting
 
+[options="header"]
 |===
 |★ |Name |Cost
 |9 |Shrine of Asherah^*^ |Lost Ember(30)

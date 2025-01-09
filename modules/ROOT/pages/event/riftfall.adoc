@@ -59,6 +59,7 @@ The following bosses are unlocked by quests.
 
 === Crafting (WIP)
 
+[options="header"]
 |===
 |★ |Name |Cost
 | | |
