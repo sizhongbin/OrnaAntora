@@ -1,39 +1,76 @@
 = Balor Invades
 :page-role: -toc
 
+[quote]
+____
+WIP
+____
+
 == SzHb’s Notes
 
-[arabic]
-. Get 2 *_T7_* Lugus Gauntlets (any quality) from raid.
-. All Dagda gears can be dismantled for Twilightstone, which is hard to get normally.
+=== Goodies
+. **★7 Accessory - Lugus Gauntlets**
+* 3% T.Att+++, 3% T.Mag+++
+* From ★10 raid Grand Knight Lugus
+* For Raid / summon build
 
-== Event Checklist (mostly from community)
+=== Tips
+. All gears from (Arisen) Dagda can be dismantled for Twilightstone.
 
-=== Followers
-
-* *_T6_* Balor Flame
-* *_T6_* Balor Worm
-* *_T6_* Cruel Banshee
-
-=== Monsters
-
-Can be found in Underworld Portal and World. Some of them can be also found in Regular Dungeon or Mystic Cave.
-
-* *_T5_* Elite Balor Guardian
-* *_T9_* Elite Balor Assassin
-* *_T9_* Elite Balor Flame
-* *_T9_* Elite Balor Marauder
-* *_T9_* Elite Balor Warlock
+== Event Checklist
 
 === Bosses
 
-Can be found in Underworld Portal. T5 and T6 can be also found in Regular Dungeon.
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|5 |W M RD UP |https://codex.fqegg.top/#/codex/bosses/balor-dread-biter/[Balor Dread Biter]
+|6 |W M RD UP |https://codex.fqegg.top/#/codex/bosses/dagda/[Dagda]
+|10 |M UP |https://codex.fqegg.top/#/codex/bosses/arisen-balor-king/[Arisen Balor King] ^*GF^ ^Aura^
+|10 |W M UP |https://codex.fqegg.top/#/codex/bosses/arisen-dagda/[Arisen Dagda] ^*GF^ ^Aura^
+|===
+[.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon, UP = Underworld Portal#
 
-* *_T5_* Elite Balor Worm
-* *_T6_* Dagda
-* *_T10_* Arisen Balor King ^*GF^ ^Aura^
-* *_T10_* Arisen ^*GF^ ^Aura^
+=== Crafting
 
-=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+No.
 
-* *[K]* *_T7_* Grand Knight Lugus
+=== Followers
+
+[options="header"]
+|===
+|★ |Name
+|6 |https://codex.fqegg.top/#/codex/followers/balor-flame/[Balor Flame]
+|6 |https://codex.fqegg.top/#/codex/followers/balor-worm/[Balor Worm]
+|6 |https://codex.fqegg.top/#/codex/followers/cruel-banshee/[Cruel Banshee]
+|===
+
+=== Monsters
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|5 |W(N) M UP |https://codex.fqegg.top/#/codex/monsters/elite-balor-guardian/[Elite Balor Guardian]
+|9 |W(D) M RD UP |https://codex.fqegg.top/#/codex/monsters/elite-balor-assassin/[Elite Balor Assassin]
+|9 |W(S) M UP |https://codex.fqegg.top/#/codex/monsters/elite-balor-flame/[Elite Balor Flame]
+|9 |W M UP |https://codex.fqegg.top/#/codex/monsters/elite-balor-marauder/[Elite Balor Marauder]
+|9 |W M RD UP |https://codex.fqegg.top/#/codex/monsters/elite-balor-warlock/[Elite Balor Warlock]
+|===
+[.small]#*Spawn: W = World (N = Night Only, D = Day Only, S = Sun Only), M = Monument, RD = Regular Dungeon, UP = Underworld Portal#
+
+=== Quests (WIP)
+
+WIP
+
+=== Raids
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|7 |K |https://codex.fqegg.top/#/codex/raids/grand-knight-lugus/[Grand Knight Lugus]
+|===
+[.small]#*Spawn: K = Kingdom#
+
+=== Skills
+
+No.

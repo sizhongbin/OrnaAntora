@@ -1,7 +1,6 @@
 = Thronemakers
 :page-role: -toc
 
-
 [quote]
 ____
 WIP
