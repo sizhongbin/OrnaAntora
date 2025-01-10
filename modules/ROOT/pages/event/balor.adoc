@@ -11,7 +11,7 @@ ____
 === Goodies
 . **★7 Accessory - Lugus Gauntlets**
 * 3% T.Att+++, 3% T.Mag+++
-* From ★10 raid Grand Knight Lugus
+* From ★7 raid Grand Knight Lugus
 * For Raid / summon build
 
 === Tips
