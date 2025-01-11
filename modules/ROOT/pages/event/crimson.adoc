@@ -1,7 +1,12 @@
 = The Crimson Festival
+:page-role: -toc
+
+[quote]
+____
+WIP
+____
 
 == SzHb’s Notes
-:page-role: -toc
 
 === Goodies
 
@@ -22,7 +27,26 @@
 
 . All Perseus gears can be dismantled for ancient stone.
 
-== Event Checklist (mostly from community)
+== Event Checklist
+
+=== Boss
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|10 |M RD|https://codex.fqegg.top/#/codex/bosses/medusa/[Medusa] ^*GF^ ^Aura^
+|===
+[.small]#*Spawn: M = Monument, RD = Regular Dungeon#
+
+=== Crafting
+
+[options="header"]
+|===
+|★ |Name |Cost
+|7 |Crimson Summoning Scroll (Cerus) |Essence of Cerus(10), Summoning Scroll(1)
+|7 |Crimson Summoning Scroll (Aries) |Essence of Aries(10), Summoning Scroll(1)
+|7 |Crimson Summoning Scroll (Perseus) |Essence of Perseus(10), Summoning Scroll(1)
+|===
 
 === Followers
 
@@ -34,6 +58,27 @@
 |9 |https://codex.fqegg.top/#/codex/followers/untamed-cerus/[Untamed Cerus]
 |10 |https://codex.fqegg.top/#/codex/followers/medusa/[Medusa]
 |===
+
+=== Monsters
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|7 | W M RD |https://codex.fqegg.top/#/codex/monsters/aries-acolyte/[Aries Acolyte]
+|7 | W M RD |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte-73d59be2/[Cerus Acolyte]
+|7 | W M RD |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte-f1d8afb3/[Perseus Acolyte]
+|9 | W M RD |https://codex.fqegg.top/#/codex/monsters/aries-acolyte-a1881496/[Aries Acolyte]
+|9 | W M RD |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte-5965f9aa/[Cerus Acolyte]
+|9 | W M RD |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte/[Perseus Acolyte]
+|10 | W M RD |https://codex.fqegg.top/#/codex/monsters/aries-acolyte-738a517f/[Aries Acolyte]
+|10 | W M RD |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte/[Cerus Acolyte]
+|10 | W M RD |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte-ff80be87/[Perseus Acolyte]
+|===
+[.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon#
+
+=== Quests (WIP)
+
+WIP
 
 === Raids
 
@@ -52,34 +97,6 @@
 |===
 [.small]#*Spawn: K = Kingdom, C = Crimson Summoning Scroll (Cerus), A = Crimson Summoning Scroll (Aries), P = Crimson Summoning Scroll (Perseus)#
 
-=== Boss
+=== Skills
 
-[options="header"]
-|===
-|★ |Name
-|10 |https://codex.fqegg.top/#/codex/bosses/medusa/[Medusa] ^*GF^ ^Aura^
-|===
-
-=== Monsters
-
-Event monsters have the same name but 3 different tiers.
-
-[options="header"]
-|===
-|★ |Name
-|7 |https://codex.fqegg.top/#/codex/monsters/aries-acolyte/[Aries Acolyte]
-|7 |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte-73d59be2/[Cerus Acolyte]
-|7 |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte-f1d8afb3/[Perseus Acolyte]
-|9 |https://codex.fqegg.top/#/codex/monsters/aries-acolyte-a1881496/[Aries Acolyte]
-|9 |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte-5965f9aa/[Cerus Acolyte]
-|9 |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte/[Perseus Acolyte]
-|10 |https://codex.fqegg.top/#/codex/monsters/aries-acolyte-738a517f/[Aries Acolyte]
-|10 |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte/[Cerus Acolyte]
-|10 |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte-ff80be87/[Perseus Acolyte]
-|===
-
-'''''
-
-_Red is the most popular color in China. You can find it everywhere during festivals and weddings. It symbolizes fortune, happiness and prosperity._
-
-_by SzHb_
+No
