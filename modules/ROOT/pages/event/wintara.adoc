@@ -109,7 +109,7 @@ No.
 * Reward: 100k gold, 10k orns
 . Defeat Arisen Cursed Ogmios of Fomoria, Cursed Ogmios of Fomoria, or Ogmios of Fomoria (1)
 * Reward: 200k gold, 10k orns
-. • Defeat Imona of Fomoria, Arisen Cursed Imona of Fomoria, or Cursed Imona of Fomoria (1)
+. Defeat Imona of Fomoria, Arisen Cursed Imona of Fomoria, or Cursed Imona of Fomoria (1)
 * Reward: 300k gold, 10k orns
 . Defeat Arisen Cursed Esus of Fomoria, Esus of Fomoria, or Cursed Esus of Fomoria (1)
 * Reward: 400k gold, 10k orns
