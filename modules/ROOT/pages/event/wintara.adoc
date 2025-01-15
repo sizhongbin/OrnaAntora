@@ -13,11 +13,11 @@ ____
 . **★8 Skill - Summon Buggane**
 * High damage
 * From Arcanist and Monumental Guild
-* Good summon for PvE contents
+* For summon build
 . **★10 Head - Arisen Cursed Fomor's Crown / ★10 Leg - Arisen Cursed Fomoria Plated Boots / ★10 Torso - Arisen Cursed Fomoria Plated Robe / ★10 Off-hand - Arisen Cursed Wintara Crested Shield**
 * (Magic Users/Valhallan/Summoner) Multiple house effects. Especially 1.21x debuff application
 * From ★10 Boss Arisen Cursed King Fomor, Wintara
-* Too hard to obtain ornate ones. Try to buy them out for ur classline if they show up in monument
+* For control build. Too hard to obtain ornate ones. Try to buy them out for ur classline if they show up in monument
 . **★10 Torso - Arisen Cursed Ogmios’ Satin Robe**
 * (Magic User) Confused immune
 * From ★10 Boss Arisen Cursed Ogmios of Fomoria
@@ -77,14 +77,9 @@ The following bosses are summoned by Crest of Wintara.
 |10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-king-fomor-wintara/[Arisen Cursed King Fomor, Wintara] ^*GF^ ^Aura^
 |===
 
-=== Crafting (WIP)
+=== Crafting
 
-[options="header"]
-|===
-|★ |Name |Cost
-| | |
-|===
-[.small]#WIP#
+No.
 
 === Followers
 
@@ -108,13 +103,22 @@ The following bosses are summoned by Crest of Wintara.
 |===
 [.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon, BD = Beast Den#
 
-=== Quests (WIP)
+=== Quests
 
-WIP
+. Defeat Arisen Cursed Lero of Fomoria, Lero of Fomoria, or Cursed Lero of Fomoria (1)
+* Reward: 100k gold, 10k orns
+. Defeat Arisen Cursed Ogmios of Fomoria, Cursed Ogmios of Fomoria, or Ogmios of Fomoria (1)
+* Reward: 200k gold, 10k orns
+. • Defeat Imona of Fomoria, Arisen Cursed Imona of Fomoria, or Cursed Imona of Fomoria (1)
+* Reward: 300k gold, 10k orns
+. Defeat Arisen Cursed Esus of Fomoria, Esus of Fomoria, or Cursed Esus of Fomoria (1)
+* Reward: 400k gold, 10k orns
+. Defeat Arisen Cursed Caturix of Fomoria, Cursed Caturix of Fomoria, or Caturix of Fomoria (1)
+* Reward: 500k gold, 10k orns, Crest of Wintara
 
 === Raids
 
-No
+No.
 
 === Skills
 

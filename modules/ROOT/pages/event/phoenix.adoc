@@ -21,7 +21,7 @@ ____
 . **★5/9 Weapon adorn - (Ashen) Ruby**
 * 50% chance to recover 1%/2% of damage dealt per adorn
 * From ★5/9 boss Ascended Pledge / Fallen Ashen Phoenix
-* Good for horde
+* For horde build
 . **★8/10 Follower - (Ashen) phpenix**
 * Deific Channel without cast turns
 * From Bestiary and Monumental Guild
