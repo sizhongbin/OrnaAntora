@@ -25,7 +25,7 @@ ____
 . **★10 Leg - Fallen Sky Legging**
 * (Warrior) Infinite ward turns
 * From ★10 raid Arisen Quetzalcoatl
-* For summon raid build
+* For summon build
 . **★10 Head - Fallen Sky Cowl**
 * (Thief) 1.05x crit damage
 * From ★10 raid Arisen Quetzalcoatl
@@ -41,11 +41,11 @@ ____
 . **★10 Armor Adorn - Jewel of Creation**
 * 2% ward (superior+) and overall stat boost
 * From ★10 boss Ymir
-* Very good armor adorn
+* One of the best armor adorn
 . **★10 Torso - Ymir Cliffside Cuirass**
 * (Warrior) 25% protect you from hits that take 100% of your maximum HP
 * From ★10 boss Ymir
-* For pvp
+* For PvP build
 . **★10 Off-hand - Ymir Coiled Shield**
 * Defending in battle will reduce an additional 150% damage
 * From ★10 boss Ymir
@@ -62,7 +62,7 @@ ____
 === Tips
 
 . Time for Godforge.
-. You will need at lest 30 superior+ JoC.
+. You will need at least 30 superior+ JoC.
 
 == Event Checklist
 
@@ -88,14 +88,9 @@ They all have longer names in game.
 |===
 [.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon, DR = Dragon Roost, VG = Valley of the Gods#
 
-=== Crafting (WIP)
+=== Crafting
 
-[options="header"]
-|===
-|★ |Name |Cost
-| | |
-|===
-[.small]#WIP#
+No.
 
 === Followers
 
@@ -121,9 +116,28 @@ They all have longer names in game.
 
 No
 
-=== Quests (WIP)
+=== Quests
 
-WIP
+. Defeat Lotan(1), Complete Codex for Lotan(1)
+* Reward: 500k gold, 50k orns
+. Defeat Vritra(1), Complete Codex for Vritra(1)
+* Reward: 500k gold, 50k orns
+. Defeat Agathodaemon(1), Complete Codex for Agathodaemon(1)
+* Reward: 500k gold, 50k orns
+. Defeat Zaltys(1), Complete Codex for Zaltys(1)
+* Reward: 500k gold, 50k orns
+. Defeat Illuyanka(1), Complete Codex for Illuyanka(1)
+* Reward: 500k gold, 50k orns
+. Defeat Beithir(1), Complete Codex for Beithir(1)
+* Reward: 500k gold, 50k orns
+. Defeat Bashe(1), Complete Codex for Bashe(1)
+* Reward: 500k gold, 50k orns
+. Defeat Quetzalcoatl(1), Complete Codex for Quetzalcoatl(1)
+* Reward: 500k gold, 50k orns
+. Defeat Gorynych(1), Complete Codex for Gorynych(1)
+* Reward: 500k gold, 50k orns
+. Defeat Ymir(1), Complete Codex for Ymir(1)
+* Reward: 5m gold, 500k orns, Crest of the Dragon Slayer
 
 === Raids
 
