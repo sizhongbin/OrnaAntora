@@ -1,8 +1,8 @@
 * xref:index.adoc[Welcome]
-* Current Event (Jan 2025)
-** xref:event/wintara.adoc[Paths of Fomoria - House of Wintara]
-** xref:event/phoenix.adoc[Phoenixrise]
-** xref:event/wyrm.adoc[Wyrmhunt]
+* Current Event (Feb 2025)
+** xref:event/beastfelled.adoc[Beastfelled]
+** xref:event/distortion.adoc[Rift Distortion]
+** xref:event/riftfall.adoc[Riftfall]
 * Basic Info
 ** xref:basic/battle.adoc[Battle]
 ** xref:basic/class.adoc[Class]
@@ -10,7 +10,7 @@
 ** xref:basic/amity.adoc[Amity]
 * Event Summary
 ** xref:event/balor.adoc[Balor Invades]
-** xref:event/kerberos.adoc[Beastfelled]
+** xref:event/beastfelled.adoc[Beastfelled]
 ** xref:event/booo.adoc[BoooOOOOooooOOOooo]
 ** xref:event/avalon.adoc[Fallen Heroes of Avalon]
 ** Fool of April(todo)
