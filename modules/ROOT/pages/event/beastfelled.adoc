@@ -52,14 +52,13 @@ ____
 |===
 [.small]#*Spawn: M = Monument, RD = Regular Dungeon, BD = Beast Den#
 
-=== Crafting (WIP)
+=== Crafting
 
 [options="header"]
 |===
 |★ |Name |Cost
 |10 |Beastfelled Summoning Scroll |Monoceros Horn(7), Manticore Heart(7), Kerberos Fur(7)
 |===
-[.small]#WIP#
 
 === Followers
 
@@ -90,9 +89,24 @@ ____
 |===
 [.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon, BD = Beast Den#
 
-=== Quests (WIP)
+=== Quests
 
-WIP
+. Win a battle by exploiting an elemental weakness (5)
+* Reward: 5k gold, 1k orns
+. Win a battle against a boss of your tier while only exploiting elemental weaknesses (2)
+* Reward: 6.5k gold, 1.2k orns
+. Defeat enemies with a critical hit (5)
+* Reward: 10k gold, 2k orns
+. Win battle of six or more rounds against foes of your tier without taking damage (3)
+* 12k gold, 2.5k orns
+. Win a battle against a boss of your tier without an equipped weapon (5)
+* 50k gold, 5k orns
+. Finish a battle dungeon of your tier without wearing any armor (1)
+* Reward: 150k gold, 7k orns
+. Finish a World Raid of any tier alone in one battle (1)
+* Reward: 500k gold, 15k orns
+. Find: Manticore Heart (10)
+* Reward: 2.5m gold, 25k orns, Lyncus' Ring
 
 === Raids 
 
