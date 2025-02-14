@@ -10,11 +10,14 @@ ____
 
 === Goodies
 
-No.
+. **★10 Item - Heart of Change**
+* Reverse ascensions levels and return costs
+* From Monumental Guild
+* Broken Hearts are easy to get compared to proofs
 
 === Tips
 
-No.
+. Run Regular Dungeon horde for Broken Hearts.
 
 == Event Checklist
 
@@ -25,7 +28,7 @@ No.
 |★ |Spawn^*^ |Name
 |10 |M T |Anteros
 |===
-[.small]#*Spawn: M = Monument, T = Tower#
+[.small]#*Spawn: M = Monument, T = Tower
 
 === Crafting
 
