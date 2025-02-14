@@ -1,0 +1,68 @@
+= Menders of Hearts
+:page-role: -toc
+
+[quote]
+____
+Spread the love in this event featuring love and love lost.
+____
+
+== SzHb’s Notes
+
+=== Goodies
+
+No.
+
+=== Tips
+
+No.
+
+== Event Checklist
+
+=== Bosses
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|10 |M T |Anteros
+|===
+[.small]#*Spawn: M = Monument, T = Tower#
+
+=== Crafting
+
+[options="header"]
+|===
+|★ |Name |Cost
+|1 |Lover's Bonus |Broken Heart(30)
+|10 |Baguette de Clarent |Broken Heart(30)
+|10 |Heart of Change |Broken Heart(2500)
+|===
+
+=== Followers
+
+No.
+
+=== Monsters
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|3 |M RD T |Anteros Warrior
+|5 |M RD T |Anteros Brute
+|7 |M RD T |Anteros Ruffian
+|9 |M RD T |Anteros Knave
+|10 |M RD T |Anteros Guard
+|===
+[.small]#*Spawn: M = Monument, RD = Regular Dungeon, T = Tower#
+
+=== Quests
+
+. Find: Broken Heart (20)
+* Reward: 100k gold, 3k orns
+
+=== Raids 
+
+No.
+
+=== Skills
+
+No.

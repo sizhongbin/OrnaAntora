@@ -1,8 +1,8 @@
 * xref:index.adoc[Welcome]
 * Current Event (Feb 2025)
 ** xref:event/beastfelled.adoc[Beastfelled]
-** xref:event/distortion.adoc[Rift Distortion]
 ** xref:event/riftfall.adoc[Riftfall]
+** xref:event/love.adoc[Menders of Hearts]
 * Basic Info
 ** xref:basic/battle.adoc[Battle]
 ** xref:basic/class.adoc[Class]
