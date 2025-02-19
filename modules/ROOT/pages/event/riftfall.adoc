@@ -57,14 +57,9 @@ The following bosses are unlocked by quests.
 |===
 [.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon#
 
-=== Crafting (WIP)
+=== Crafting
 
-[options="header"]
-|===
-|★ |Name |Cost
-| | |
-|===
-[.small]#WIP#
+No.
 
 === Followers
 
@@ -96,9 +91,22 @@ The following monsters (except ★10) are unlocked by quests.
 |===
 [.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon, VG = Valley of the Gods#
 
-=== Quests (WIP)
+=== Quests
 
-WIP
+. Acquire Delta Achlys Riftlock Fragment (10)
+* Reward: 100k gold, 15k orns
+. Acquire Theta Achlys Riftlock (1)
+* Reward: 100k gold, 15k orns
+. Acquire Delta Rhada Riftlock Fragment (20)
+* Reward: 125k gold, 20k orns
+. Acquire Theta Rhada Riftlock (1)
+* Reward: 125k gold, 20k orns
+. Acquire Delta Charon Riftlock Fragment (30)
+* Reward: 150k gold, 25k orns
+. Acquire Theta Charon Riftlock (1)
+* Reward: 200k gold, 25k orns
+. Acquire Delta Achlys Riftlock (1), Acquire Theta Achlys Riftlock (1), Acquire Delta Rhada Riftlock (1), Acquire Theta Rhada Riftlock (1), Acquire Delta Charon Riftlock (1), Acquire Theta Charon Riftlock (1)
+* Reward: 250k gold, 30k orns, Omega Riftlock
 
 === Raids
 
@@ -114,6 +122,6 @@ WIP
 |===
 [.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll)#
 
-=== Skills (WIP)
+=== Skills
 
-WIP
+No.
