@@ -3,7 +3,7 @@
 
 [quote]
 ____
-WIP
+Explore the origins of the great Kingdoms in this unique questline.
 ____
 
 == SzHb’s Notes
@@ -78,7 +78,20 @@ No.
 
 === Quests (WIP)
 
-WIP
+. Finish a battle by using the "Sands of Aaru" spell (3)
+* Reward: 40k gold, 4k orns
+. Finish a battle against at least three beasts at once (animals or dragons) (3)
+* Reward: 44k gold, 4.4k orns
+. Acquire Greater Elixir (5), Acquire Bestial Potion (3), Acquire Greater Health Potion (3), Acquire Greater Mana Potion (3), Acquire EXP Potion (2)
+* Reward: 50k gold, 5k orns
+. Defeat Bandit (5), Defeat Bandit Lord (2)
+* Reward: 55k gold, 5.5k orns
+. Finish a battle against one who uses Arcane magic (10)
+* Reward: 65k gold, 6k orns
+. Encounter: Thronemaker Neith, Thronemaker Sekhmet, Thronemaker Ptah (3)
+* Reward: 75k gold, 7k orns
+. Receive an item of Ornate quality at the end of a battle (5)
+* Reward: 85k gold, 8k orns, Tail of a Sphinx
 
 === Raids
 

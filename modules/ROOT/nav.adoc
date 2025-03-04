@@ -1,8 +1,11 @@
 * xref:index.adoc[Welcome]
-* Current Event (Feb 2025)
-** xref:event/beastfelled.adoc[Beastfelled]
+* Current Event (Mar 2025)
 ** xref:event/riftfall.adoc[Riftfall]
-** xref:event/love.adoc[Menders of Hearts]
+** xref:event/thronemakers.adoc[Thronemakers]
+** xref:event/distortion.adoc[Rift Distortion]
+** xref:event/balor.adoc[Balor Invades]
+** xref:event/clurichauns.adoc[The Mischievous Clurichauns]
+** xref:event/ragnarok.adoc[Nothren Legends: Ragnarok]
 * Basic Info
 ** xref:basic/battle.adoc[Battle]
 ** xref:basic/class.adoc[Class]
@@ -17,6 +20,7 @@
 ** xref:event/friends.adoc[Friends & Family]
 ** xref:event/lyonesse.adoc[Lyonesse Legends]
 ** Merlin(todo)
+** xref:event/love.adoc[Menders of Hearts]
 ** xref:event/ragnarok.adoc[Nothren Legends: Ragnarok]
 ** xref:event/giants.adoc[Of Giants And Titans]
 ** Of Giants And Titans - Hyperion(todo)
