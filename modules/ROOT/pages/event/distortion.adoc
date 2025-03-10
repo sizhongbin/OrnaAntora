@@ -3,7 +3,7 @@
 
 [quote]
 ____
-WIP
+With our Riftlocks combined and a Monumental ready, we can distort the Rift.
 ____
 
 == SzHb’s Notes
@@ -30,7 +30,7 @@ ____
 
 No.
 
-=== Crafting (WIP)
+=== Crafting
 
 [options="header"]
 |===
@@ -47,9 +47,9 @@ No.
 
 No.
 
-=== Quests (WIP)
+=== Quests
 
-WIP
+No.
 
 === Raids
 
