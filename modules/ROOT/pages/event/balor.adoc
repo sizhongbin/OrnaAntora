@@ -3,7 +3,7 @@
 
 [quote]
 ____
-WIP
+The forces of Balor have invaded! Hold them back in this unique event.
 ____
 
 == SzHb’s Notes
@@ -58,9 +58,9 @@ No.
 |===
 [.small]#*Spawn: W = World (N = Night Only, D = Day Only, S = Sun Only), M = Monument, RD = Regular Dungeon, UP = Underworld Portal#
 
-=== Quests (WIP)
+=== Quests
 
-WIP
+No.
 
 === Raids
 

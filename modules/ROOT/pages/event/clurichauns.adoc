@@ -1,44 +1,93 @@
 = The Mischievous Clurichauns
 :page-role: -toc
 
+[quote]
+____
+The fairies of Naggeneen have shown themselves! End their mischief in raids and dungeons to earn unique rewards! Additionally,you will receive extra gold from defeating any enemy.
+____
+
 == SzHb’s Notes
 
-[arabic]
-. *_T5_* Naggeneen’s Brew from *_T9_* Arisen Naggeneen, an Item that can proc all single-up buffs in 1 turn.
-. *_T7_* Smelly Mushrooms from all event raids, an Item that can proc All↑↑.
-. *_T6_* Bricriu’s Bow from Bricriu, an Off-hand that give Arrowstorm Off-hand skill.
-. *_T8_* Amadan’s Staff from *_T8_* Amadan, an Off-hand that give Lacunus Off-hand skill.
-. *_T7_* Naggeneen’s Belt from all event raids, an Accessory that makes debuffs 15% easier to apply to opponents (stack additively).
+=== Goodies
+. **★5 Item - Naggeneen’s Brew**
+* Proc all single-up buffs in 1 turn
+* From ★9 raid Arisen Naggeneen
+* For quicker buff phase
+. **★7 Item - Smelly Mushroom**
+* Proc All↑↑
+* From ★7/9 raid (Arisen) Naggeneen
+* For quicker buff phase
+. **★6 Off-hand - Bricriu’s Bow**
+* Give Arrowstorm off-hand skill
+* From ★6 monster Bricriu
+* For horde build
+. **★8 Off-hand - Amadan’s Staff**
+* Give Lacunus off-hand skill
+* From ★8 boss Amadan
+* For horde / stasis build
+. **★7 Accessory - Naggeneen’s Belt**
+* Debuffs 15% easier to apply to opponent (stack additively)
+* From ★7/9 raid (Arisen) Naggeneen
+* For ultima / debuff build
 
-== Event Checklist (mostly from community)
+=== Tips
+. Stock up on the items.
 
-=== Monsters
+== Event Checklist
 
-T8 mobs can be found in Chaos Portals.
+=== Bosses
 
-* *_T4_* Aine
-* *_T4_* Conall
-* *_T4_* Finn
-* *_T6_* Amergin
-* *_T6_* Bricriu
-* *_T6_* Cormac
-* *_T8_* Beag
-* *_T8_* Fergus
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|8 |M CP |https://codex.fqegg.top/#/codex/bosses/amadan/[Amadan]
+|===
+[.small]#*Spawn: M = Monument, CP = Chaos Portal#
 
-=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+=== Crafting
 
-* *[K/W]* *_T7_* Naggeneen
-* *[K/W]* *_T9_* Arisen Naggeneen
+No.
 
 === Followers
 
-* *_T6_* Naggeneen
-* *_T8_* Amadan
-* *_T9_* Arisen Naggeneen
+[options="header"]
+|===
+|★ |Name
+|6 |https://codex.fqegg.top/#/codex/followers/naggeneen/[Naggeneen]
+|8 |https://codex.fqegg.top/#/codex/followers/amadan/[Amadan]
+|9 |https://codex.fqegg.top/#/codex/followers/arisen-naggeneen/[Arisen Naggeneen]
+|===
 
-=== Bossed
+=== Monsters
 
-Can be found in Chaos Portals.
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|4 |M RD |https://codex.fqegg.top/#/codex/monsters/aine/[Aine]
+|4 |M RD |https://codex.fqegg.top/#/codex/monsters/conall/[Conall]
+|4 |M RD |https://codex.fqegg.top/#/codex/monsters/finn/[Finn]
+|6 |M RD |https://codex.fqegg.top/#/codex/monsters/amergin/[Amergin]
+|6 |M RD |https://codex.fqegg.top/#/codex/monsters/bricriu/[Bricriu]
+|6 |M RD |https://codex.fqegg.top/#/codex/monsters/cormac/[Cormac]
+|8 |M CP |https://codex.fqegg.top/#/codex/monsters/beag/[Beag]
+|8 |M CP |https://codex.fqegg.top/#/codex/monsters/fergus/[Fergus]
+|===
+[.small]#*Spawn: M = Monument, RD = Regular Dungeon, CP = Chaos Portal#
 
-* *_T8_* Amadan
+=== Quests
 
+No.
+
+=== Raids
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|7 |K W|https://codex.fqegg.top/#/codex/raids/naggeneen/[Naggeneen]
+|9 |K W|https://codex.fqegg.top/#/codex/raids/arisen-naggeneen/[Arisen Naggeneen]
+|===
+[.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll)#
+
+=== Skills
+
+No.
