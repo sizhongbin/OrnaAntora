@@ -1,61 +1,133 @@
 = Nothren Legends: Ragnarok
 :page-role: -toc
 
-== What’s new in 2024
-
-Nothing
+[quote]
+____
+Stop Ragnarok by defeating the southern wanderers of Nothren.
+____
 
 == SzHb’s Notes
 
-. *[Except Thief]* Get Normal *_T10_* / *_T5_* (Fey / Arisen) Surtr’s Sword, the best view distance weapon in the game for anyone who can’t equip thief items.
-. *[Thief]* Get Normal *_T10_* (Fey / Arisen) Helhest, the best view distance weapon in the game for thieves.
-. *[SS/CS build]* Get Ornate *_T10_* Fey Surtr’s Cuirass, chest with very high ward.
-. *[Swash endless build]* Get Ornage *_T10_* Fey Hel’s Feathers, Volley III off-hand skill.
-. Get *_T10_* Arisen Stonewarg, good ward pet.
-. *[Beowulf]* Get *_T10_* Arisen Spiritgarm, good damage pet.
+=== Goodies
 
-== Event Checklist (mostly from community)
+. **★5/10 Weapon - (Arisen / Fey) Surtr's Sword**
+* 20% view distance
+* From ★5/10 raid (Arisen) Surtr / ★8/10 raid (Fey) Jormungandr
+* For VD build
+. **★10 Weapon - Arisen / Fey Helhest**
+* (Thief) 20% view distance, one more slot than Surtr's Sword
+* From ★10 raid Arisen Hel / Fey Jormungandr
+* For VD build
+. **★10 Torso - Fey Surtr's Cuirass**
+* Torso with highest ward in game
+* From ★10 Fey Jormungandr
+* For Chained / Spiked Shield build
+. **★10 Head - Fey Menja's Hood**
+* (Magic users) Head with mag & crit & ward & T.Mag-/-- immunities
+* From ★10 Fey Jormungandr
+* For most magic build
+. **★10 Off-hand - (Arisen / Fey) Spiritgarm Grimoire**
+* Summon ★10 Arisen Spiritgarm
+* From ★10 Arisen Fenja / Fey Jormungandr
+* One of the best damage summon for raid
+. **★10 Follower - Arisen Stonewarg**
+* High buff rate, high protect chance, ward skills 
+* From Bestiary and Monumental Guild
+* The best ward pet
+. **★10 Follower - Arisen Spiritgarm**
+* T.Mag+++, fey unstable magics
+* From Bestiary and Monumental Guild
+* One of the best damage pet for raid
 
-=== Monsters
+=== Tips
 
-* *_T8_* Bloodwarg
-* *_T8_* Stonewarg
-* *_T8_* Spiritgarm
-* *_T10_* Arisen Bloodwarg
-* *_T10_* Arisen Stonewarg
-* *_T10_* Arisen Spiritgarm
+. Bloodwarg drops Wolf's Blood, and Stonewarg drops Ancient Stone.
+. Farm runes from ★5 Surtr.
 
-=== Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+== Event Checklist
 
-(Arisen) Jormungandr can be summoned with crafted scrolls.
+=== Bosses
 
-* *[K]* *_T5_* Surtr
-* *[K]* *_T5_* Hel
-* *[W]* *_T7_* Menja
-* *[W]* *_T8_* Fenja
-* *[W]* *_T8_* Gerd
-* *[O]* *_T8_* Jormungandr
-* *[W]* *_T10_* Arisen Fenja
-* *[W]* *_T10_* Arisen Gerd
-* *[K]* *_T10_* Arisen Hel
-* *[W]* *_T10_* Arisen Menja
-* *[K]* *_T10_* Arisen Surtr
-* *[O]* *_T10_* Fey Jormungandr
+No.
+
+=== Crafting
+
+[options="header"]
+|===
+|★ |Name |Cost
+|5 |Rune of Huginn |Rune of Muninn(4)
+|5 |Rune of Muninn |Rune of Huginn(2)
+|8 |Scroll of Ragnarok |Rune of Huginn/Rune of Muninn(1)
+|10 |Fey Scroll of Ragnarok |Rune of Huginn/Rune of Muninn(5)
+|===
 
 === Followers
 
-* *_T4_* Surtr’s Flame
-* *_T7_* Gullinkambi
-* *_T7_* Surtr’s Mighty Flame
-* *_T8_* Bloodwarg
-* *_T8_* Stonewarg
-* *_T8_* Spiritgarm
-* *_T10_* Arisen Bloodwarg
-* *_T10_* Arisen Stonewarg
-* *_T10_* Arisen Spiritgarm
+[options="header"]
+|===
+|★ |Name
+|4 |https://codex.fqegg.top/#/codex/followers/surtrs-flame/[Surtr's Flame]
+|7 |https://codex.fqegg.top/#/codex/followers/gullinkambi/[Gullinkambi]
+|7 |https://codex.fqegg.top/#/codex/followers/surtrs-mighty-flame/[Surtr's Mighty Flame]
+|8 |https://codex.fqegg.top/#/codex/followers/bloodwarg/[Bloodwarg]
+|8 |https://codex.fqegg.top/#/codex/followers/stonewarg/[Stonewarg]
+|8 |https://codex.fqegg.top/#/codex/followers/spiritgarm/[Spiritgarm]
+|10 |https://codex.fqegg.top/#/codex/followers/arisen-bloodwarg/[Arisen Bloodwarg]
+|10 |https://codex.fqegg.top/#/codex/followers/arisen-stonewarg/[Arisen Stonewarg]
+|10 |https://codex.fqegg.top/#/codex/followers/arisen-spiritgarm/[Arisen Spiritgarm]
+|===
 
-'''''
+=== Monsters
 
-_Ragnarok Online is the game I love the most!_
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|8 |W M RD |https://codex.fqegg.top/#/codex/monsters/bloodwarg/[Bloodwarg]
+|8 |W M RD |https://codex.fqegg.top/#/codex/monsters/stonewarg-b4d838aa/[Stonewarg]
+|8 |W M RD |https://codex.fqegg.top/#/codex/monsters/spiritgarm/[Spiritgarm]
+|10 |W M RD |https://codex.fqegg.top/#/codex/monsters/bloodwarg-dfa97df9/[Arisen Bloodwarg]
+|10 |W M RD |https://codex.fqegg.top/#/codex/monsters/stonewarg/[Arisen Stonewarg]
+|10 |W M RD |https://codex.fqegg.top/#/codex/monsters/spiritgarm-732978de/[Arisen Spiritgarm]
+|===
+[.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon#
 
-_by SzHb_
+=== Quests
+
+. ★5: Encounter: Surtr (1)
+* Reward: 5m gold, 50k orns
+. ★5: Encounter: Hel(1)
+* Reward: 5m gold, 50k orns
+. ★7: Encounter: Menja(1)
+* Reward: 5m gold, 50k orns
+. ★8: Encounter: Gerd(1)
+* Reward: 5m gold, 50k orns
+. ★8: Encounter: Fenja(1)
+* Reward: 5m gold, 50k orns
+. ★8: Find: Scroll of Ragnarok(1)
+* Reward: 5m gold, 50k orns
+. ★10: Find: Fey Scroll of Ragnarok(1)
+* Reward: 500m gold, 5m orns
+
+=== Raids
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|5 |K |https://codex.fqegg.top/#/codex/raids/surtr/[Surtr]
+|5 |K |https://codex.fqegg.top/#/codex/raids/hel/[Hel]
+|7 |W |https://codex.fqegg.top/#/codex/raids/menja/[Menja]
+|8 |W |https://codex.fqegg.top/#/codex/raids/fenja/[Fenja]
+|8 |W |https://codex.fqegg.top/#/codex/raids/gerd/[Gerd]
+|8 |R |https://codex.fqegg.top/#/codex/raids/jormungandr/[Jormungandr]
+|10 |W |https://codex.fqegg.top/#/codex/raids/arisen-fenja/[Arisen Fenja]
+|10 |W |https://codex.fqegg.top/#/codex/raids/arisen-gerd/[Arisen Gerd]
+|10 |K |https://codex.fqegg.top/#/codex/raids/arisen-hel/[Arisen Hel]
+|10 |W |https://codex.fqegg.top/#/codex/raids/arisen-menja/[Arisen Menja]
+|10 |K |https://codex.fqegg.top/#/codex/raids/arisen-surtr/[Arisen Surtr]
+|10 |F |https://codex.fqegg.top/#/codex/raids/fey-jormungandr/[Fey Jormungandr]
+|===
+[.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll), R = Scroll of Ragnarok, F = Fey Scroll of Ragnarok#
+
+=== Skills
+
+No
