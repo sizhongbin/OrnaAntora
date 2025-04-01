@@ -2,7 +2,7 @@
 * Current Event (Apr 2025)
 ** xref:event/ragnarok.adoc[Nothren Legends: Ragnarok]
 ** xref:event/crimson.adoc[The Crimson Festival]
-** Fool of April(todo)
+** xref:event/fool.adoc[Fool of April]
 ** xref:event/nocturna.adoc[Paths of Fomoria - House of Nocturna]
 ** xref:event/mimic.adoc[The Mimics are Loose]
 ** xref:event/morrigan.adoc[Sisters of Morrigan]
@@ -17,7 +17,7 @@
 ** xref:event/beastfelled.adoc[Beastfelled]
 ** xref:event/booo.adoc[BoooOOOOooooOOOooo]
 ** xref:event/avalon.adoc[Fallen Heroes of Avalon]
-** Fool of April(todo)
+** xref:event/fool.adoc[Fool of April]
 ** xref:event/friends.adoc[Friends & Family]
 ** xref:event/lyonesse.adoc[Lyonesse Legends]
 ** Merlin(todo)

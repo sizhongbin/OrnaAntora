@@ -61,7 +61,7 @@ ____
 
 === Tips
 
-. You were fooled. The Fool will drop nothing. 😉
+.  April Fools! The Fool drops nothing! 😉
 
 == Event Checklist
 
@@ -81,7 +81,7 @@ No.
 
 No.
 
-=== Quests (WIP)
+=== Quests
 
 No.
 
@@ -91,7 +91,7 @@ No.
 |===
 |★ |Spawn^*^ |Name
 |6 |K W |https://codex.fqegg.top/#/codex/raids/the-fool/[The Fool]
-|6 |K W |https://codex.fqegg.top/#/codex/raids/the-fool-ef1c6cb2/[The Fool]
+|9 |K W |https://codex.fqegg.top/#/codex/raids/the-fool-ef1c6cb2/[The Fool]
 
 |===
 [.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll)#
