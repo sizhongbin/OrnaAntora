@@ -1,0 +1,101 @@
+= Fool of April
+:page-role: -toc
+
+[quote]
+____
+???
+____
+
+== SzHb’s Notes
+
+=== Goodies
+
+. **★9 Head - Mightiest Mimic Head**
+* 1.53x XP + 1.875x gold + 1.875x luck + 1.56x orns when godforged
+* From ★9 Raid The Fool
+* The best farming head. Quality doesn't matter
+. **★10 Weapon - Finesse’s Greatsword**
+* (Warrior) High attack, high ward, 12 slots
+* From ★6/9 Raid The Fool
+* For Ultimastrikes build
+. **★10 Weapon - Finesse’s Katana**
+* (Melee) 30% assassin, 15% crit damage, high ward
+* From ★6/9 Raid The Fool
+* For Ultimastrikes build
+. **★10 Head - Fallen Sky Hood / ★10 Head - Fallen Sky Helmet**
+* (Magic Users / Warrior) 1.1x view distance
+* From ★9 Raid The Fool
+* For VD build. Quality doesn't matter
+. **★10 Head - Fallen Sky Cowl**
+* (Thief) 1.05x crit damage
+* From ★9 Raid The Fool
+* For crit build
+. **★9 Head - Arisen King's Crown**
+* Low Defense, high ward, Foresight, 10 Slots
+* From ★6/9 Raid The Fool
+* For swash / bof build. Upgrade version of TKC
+. **★6 Item - Vulcan’s Brew**
+* 1.2x gold/orns/XP for an hour
+* From ★6/9 Raid The Fool
+* For farming
+. **★5 Off-hand - Bag of Tricks**
+* Cause 12 types of status effects
+* From ★6/9 Raid The Fool
+* For PvP / Codexing
+. **★5 Accessory - Presents!**
+* Luck accessory
+* From ★6/9 Raid The Fool
+* The best luck accessory before you get Unfelled Concord
+. **★5 Weapon - Surtr's Sword**
+* 1.2x view distance
+* From ★6/9 Raid The Fool
+* For VD build. Quality doesn't matter
+. **★7 Item - Summoning Scroll**
+* Summon world raid
+* From ★9 Raid The Fool
+* Easy to get
+. **★10 Off-hand - Arisen Cursed Autumna Crested Shield**
+* (Thief) Multiple house effects. Especially 1.21x debuff application
+* From ★9 Raid The Fool
+* For control build. Too hard to obtain ornate ones. Try to buy them out for ur classline if they show up in monument
+
+=== Tips
+
+. You were fooled. The Fool will drop nothing. 😉
+
+== Event Checklist
+
+=== Boss
+
+No.
+
+=== Crafting
+
+No.
+
+=== Followers
+
+No.
+
+=== Monsters
+
+No.
+
+=== Quests (WIP)
+
+No.
+
+=== Raids
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|6 |K W |https://codex.fqegg.top/#/codex/raids/the-fool/[The Fool]
+|6 |K W |https://codex.fqegg.top/#/codex/raids/the-fool-ef1c6cb2/[The Fool]
+
+|===
+[.small]#*Spawn: K = Kingdom, W = World (Summoning Scroll)#
+
+=== Skills
+
+No.

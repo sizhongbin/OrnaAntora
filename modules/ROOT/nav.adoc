@@ -1,11 +1,12 @@
 * xref:index.adoc[Welcome]
-* Current Event (Mar 2025)
-** xref:event/riftfall.adoc[Riftfall]
-** xref:event/thronemakers.adoc[Thronemakers]
-** xref:event/distortion.adoc[Rift Distortion]
-** xref:event/balor.adoc[Balor Invades]
-** xref:event/clurichauns.adoc[The Mischievous Clurichauns]
+* Current Event (Apr 2025)
 ** xref:event/ragnarok.adoc[Nothren Legends: Ragnarok]
+** xref:event/crimson.adoc[The Crimson Festival]
+** Fool of April(todo)
+** xref:event/nocturna.adoc[Paths of Fomoria - House of Nocturna]
+** xref:event/mimic.adoc[The Mimics are Loose]
+** xref:event/morrigan.adoc[Sisters of Morrigan]
+** Terra's Day(todo)
 * Basic Info
 ** xref:basic/battle.adoc[Battle]
 ** xref:basic/class.adoc[Class]

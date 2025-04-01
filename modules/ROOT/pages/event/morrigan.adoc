@@ -1,6 +1,11 @@
 = Sisters of Morrigan
 :page-role: -toc
 
+[quote]
+____
+The lesser sisters of Morrigan have shown themselves. Challenge them in this event for unique rewards!
+____
+
 == SzHb’s Notes
 
 === Goodies

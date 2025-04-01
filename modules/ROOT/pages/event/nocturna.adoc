@@ -1,6 +1,11 @@
 = Paths of Fomoria - House of Nocturna
 :page-role: -toc
 
+[quote]
+____
+In Paths of Fomoria, we meet the Lords of Fomoria's four houses. For players of classes that tame or summon beasts, an Epitaph will appear.
+____
+
 == SzHb’s Notes
 
 . Gears from different house have different specific effect.

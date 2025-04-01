@@ -1,6 +1,12 @@
 = The Mimics are Loose!
 :page-role: -toc
 
+[quote]
+____
+The mimics are here to spread their mischief and chaos! Fight them in both World Raids and Kingdom Raids in this event.
+____
+
+
 == SzHb’s Notes
 
 === Goodies

@@ -3,24 +3,24 @@
 
 [quote]
 ____
-WIP
+It is time for the Crimson Festival! Enchant your Summoning Scrolls at the Monumental Guild with the essences of Cerus, Aries, and Perseus.
 ____
 
 == SzHb’s Notes
 
 === Goodies
 
-. Ferocious Bull’s Eye
+. **★9 Weapon Adorn - Ferocious Bull’s Eye**
 * 4% crit weapon adorn with some stats
-* From Ferocious Cerus
+* From ★9 Raid Ferocious Cerus
 * Good adorn for non-celestial crit weapon
-. Gorgon’s Eye
+. **★9 Weapon Adorn - Gorgon’s Eye**
 * 4% crit weapon adorn with status protection
-* From Noble Perseus
+* From ★9 Raid Noble Perseus
 * Good adorn for non-celestial crit weapon
-. Goat’s Hood
+. **★9 Head - Goat’s Hood**
 * -600 foresight
-* From Tricky Aries
+* From ★9 Raid Tricky Aries
 * For summoner in party play
 
 === Tips
@@ -64,15 +64,15 @@ ____
 [options="header"]
 |===
 |★ |Spawn^*^ |Name
-|7 | W M RD |https://codex.fqegg.top/#/codex/monsters/aries-acolyte/[Aries Acolyte]
-|7 | W M RD |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte-73d59be2/[Cerus Acolyte]
-|7 | W M RD |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte-f1d8afb3/[Perseus Acolyte]
-|9 | W M RD |https://codex.fqegg.top/#/codex/monsters/aries-acolyte-a1881496/[Aries Acolyte]
-|9 | W M RD |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte-5965f9aa/[Cerus Acolyte]
-|9 | W M RD |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte/[Perseus Acolyte]
-|10 | W M RD |https://codex.fqegg.top/#/codex/monsters/aries-acolyte-738a517f/[Aries Acolyte]
-|10 | W M RD |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte/[Cerus Acolyte]
-|10 | W M RD |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte-ff80be87/[Perseus Acolyte]
+|7 |W M RD |https://codex.fqegg.top/#/codex/monsters/aries-acolyte/[Aries Acolyte]
+|7 |W M RD |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte-73d59be2/[Cerus Acolyte]
+|7 |W M RD |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte-f1d8afb3/[Perseus Acolyte]
+|9 |W M RD |https://codex.fqegg.top/#/codex/monsters/aries-acolyte-a1881496/[Aries Acolyte]
+|9 |W M RD |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte-5965f9aa/[Cerus Acolyte]
+|9 |W M RD |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte/[Perseus Acolyte]
+|10 |W M RD |https://codex.fqegg.top/#/codex/monsters/aries-acolyte-738a517f/[Aries Acolyte]
+|10 |W M RD |https://codex.fqegg.top/#/codex/monsters/cerus-acolyte/[Cerus Acolyte]
+|10 |W M RD |https://codex.fqegg.top/#/codex/monsters/perseus-acolyte-ff80be87/[Perseus Acolyte]
 |===
 [.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon#
 
