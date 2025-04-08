@@ -76,9 +76,10 @@ ____
 |===
 [.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon#
 
-=== Quests (WIP)
+=== Quests
 
-WIP
+. Find: Crimson Summoning Scroll (Aries) (1), Find: Crimson Summoning Scroll (Cerus)(1), Find: Crimson Summoning Scroll (Perseus)(1)
+* Reward: 1m gold, 60k orns
 
 === Raids
 
