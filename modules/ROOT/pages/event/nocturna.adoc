@@ -8,71 +8,131 @@ ____
 
 == SzHb’s Notes
 
-. Gears from different house have different specific effect.
+=== Goodies
+
+. **★8 Skill - Summon Buggane**
+* High damage
+* From Arcanist and Monumental Guild
+* For summon build
+. **★10 Head - Arisen Cursed Fomor's Crown / ★10 Leg - Arisen Cursed Fomoria Plated Boots / ★10 Torso - Arisen Cursed Fomoria Plated Robe / ★10 Off-hand - Arisen Cursed Nocturna Crested Shield**
+* (Magic Users/Valhallan/Summoner) Multiple house effects. Especially 1.21x debuff application
+* From ★10 Boss Arisen Cursed King Fomor, Nocturna
+* For control build. Too hard to obtain ornate ones. Try to buy them out for ur classline if they show up in monument
+. **★10 Head - Arisen Cursed Mullo’s Blinders**
+* (Valhallan/Summoner) Blind immune
+* From ★10 Boss Arisen Cursed Mullo of Fomoria
+* In case you often die from Blind
+. **★10 Leg - Arisen Cursed Belenus’s Boots**
+* (Valhallan/Summoner) Bleeding and Blight immune
+* From ★10 Boss Arisen Cursed Belenus of Fomoria
+* In case you often die from Bleeding or Blight
+. **★10 Torso - Arisen Cursed Atepomarus’s Mail**
+* (Valhallan/Summoner) Doom and Confused immune
+* From ★10 Boss Arisen Cursed Atepomarus of Fomoria
+* In case you often die from Doom or Confused
+. **★10 Off-hand - Arisen Cursed Aengus Og’s Lute**
+* (Valhallan/Summoner) Lulled and Asleep immune
+* From ★10 Boss Arisen Cursed Aengus Og of Fomoria
+* In case you often die from Lulled or Asleep
+
+=== Tips
+. Gears from different house have different house effect.
 * Nocturna: Less damage from opponents’ followers/summons.
 * Autumna: Better debuff application. More debuff damage on opponents.
 * Sumner: More AoE damage. Sometimes single target skills will hit a second target.
 * Wintara: Buffs sometimes also apply to party mates. Positive status effects last longer.
-. All gears from House of Nocturna event bosses except the ones summoned by crest have Nocturna effect. All gears from Paths of Fomoria event bosses summoned by crest have all weakened house effects.
-. *[Summoner]* Get Summon Buggane skill, one of the best summon skill.
-. Get the following immune gears if you need. Useable by Valhallan / Summoner only.
-* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Mullo’s Blinders: Blind
-* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Artio’s Hide: Paralyzed
-* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Aengus Og’s Lute: Lulled and Asleep
-* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Belenus’s Boots: Bleeding and Blight
-* *_T4_* / *_T8_* / *_T10_* (Arisen) (Cursed) Atepomarus’s Mail: Doom and Confused
+. All gears from House of Nocturna/Autumna/Sumner/Wintara event bosses except King Fomor have Nocturna/Autumna/Sumner/Wintara house effect.
+. All gears from King Fomor in all Paths of Fomoria events have all weakened house effects except a better debuff application.
 
-== Event Checklist (mostly from community)
+== Event Checklist
 
 === Bosses
 
-The following bosses will spawn in world at night (or during scroll of chaos), as well as in Chaos Portal. They can be only damaged by Summons / Pets.
+The following bosses can be only damaged by follower/summon.
 
-* *_T4_* Aengus Og of Fomoria
-* *_T4_* Artio of Fomoria
-* *_T4_* Atepomarus of Fomoria ^*GF^ ^Aura^
-* *_T4_* Belenus of Fomoria
-* *_T4_* Mullo of Fomoria
-* *_T8_* Cursed Aengus Og of Fomoria
-* *_T8_* Cursed Artio of Fomoria
-* *_T8_* Cursed Atepomarus of Fomoria ^*GF^ ^Aura^
-* *_T8_* Cursed Belenus of Fomoria
-* *_T8_* Cursed Mullo of Fomoria
-* *_T10_* Arisen Cursed Aengus Og of Fomoria
-* *_T10_* Arisen Cursed Artio of Fomoria
-* *_T10_* Arisen Cursed Atepomarus of Fomoria ^*GF^ ^Aura^
-* *_T10_* Arisen Cursed Belenus of Fomoria
-* *_T10_* Arisen Cursed Mullo of Fomoria
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|4 |W M CP |https://codex.fqegg.top/#/codex/bosses/aengus-og-of-fomoria/[Aengus Og of Fomoria]
+|4 |W M CP |https://codex.fqegg.top/#/codex/bosses/belenus-of-fomoria/[Belenus of Fomoria]
+|4 |W M CP |https://codex.fqegg.top/#/codex/bosses/artio-of-fomoria/[Artio of Fomoria]
+|4 |W M CP |https://codex.fqegg.top/#/codex/bosses/mullo-of-fomoria/[Mullo of Fomoria]
+|4 |W M CP |https://codex.fqegg.top/#/codex/bosses/atepomarus-of-fomoria/[Atepomarus of Fomoria] ^*GF^ ^Aura^
+|8 |W M CP |https://codex.fqegg.top/#/codex/bosses/cursed-aengus-og-of-fomoria/[Cursed Aengus Og of Fomoria]
+|8 |W M CP |https://codex.fqegg.top/#/codex/bosses/cursed-belenus-of-fomoria/[Cursed Belenus of Fomoria]
+|8 |W M CP |https://codex.fqegg.top/#/codex/bosses/cursed-artio-of-fomoria/[Cursed Artio of Fomoria]
+|8 |W M CP |https://codex.fqegg.top/#/codex/bosses/cursed-mullo-of-fomoria/[Cursed Mullo of Fomoria]
+|8 |W M CP |https://codex.fqegg.top/#/codex/bosses/cursed-atepomarus-of-fomoria/[Cursed Atepomarus of Fomoria] ^*GF^ ^Aura^
+|10 |W M CP |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-aengus-og-of-fomoria/[Arisen Cursed Aengus Og of Fomoria]
+|10 |W M CP |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-belenus-of-fomoria/[Arisen Cursed Belenus of Fomoria]
+|10 |W M CP |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-artio-of-fomoria/[Arisen Cursed Artio of Fomoria]
+|10 |W M CP |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-mullo-of-fomoria/[Arisen Cursed Mullo of Fomoria]
+|10 |W M CP |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-atepomarus-of-fomoria/[Arisen Cursed Atepomarus of Fomoria] ^*GF^ ^Aura^
+|===
+[.small]#*Spawn: W = World (night or chaos scroll), M = Monument, CP = Chaos Portal#
 
 The following bosses are summoned by Crest of Nocturna.
 
-* *_T4_* King Fomor, Nocturna ^*GF^ ^Aura^
-* *_T8_* Cursed King Fomor, Nocturna ^*GF^ ^Aura^
-* *_T10_* Arisen Cursed King Fomor, Nocturna ^*GF^ ^Aura^
+[options="header"]
+|===
+|★ |Name
+|4 |https://codex.fqegg.top/#/codex/bosses/king-fomor-nocturna/[King Fomor, Nocturna] ^*GF^ ^Aura^
+|8 |https://codex.fqegg.top/#/codex/bosses/cursed-king-fomor-nocturna/[Cursed King Fomor, Nocturna] ^*GF^ ^Aura^
+|10 |https://codex.fqegg.top/#/codex/bosses/arisen-cursed-king-fomor-nocturna/[Arisen Cursed King Fomor, Nocturna] ^*GF^ ^Aura^
+|===
 
-=== Monsters
+=== Crafting
 
-The following mobs will spawn in Regular Dungeon and Beast Den.
-
-* *_T7_* Cernunnos
-* *_T8_* Buggane
-* *_T10_* Glashtyn
+No.
 
 === Followers
 
-* *_T7_* Cernunnos
-* *_T7_* Glashtyn
-* *_T10_* Arisen Cernunnos
-* *_T10_* Arisen Glashtyn
+[options="header"]
+|===
+|★ |Name
+|7 |https://codex.fqegg.top/#/codex/followers/cernunnos/[Cernunnos]
+|7 |https://codex.fqegg.top/#/codex/followers/glashtyn/[Glashtyn]
+|10 |https://codex.fqegg.top/#/codex/followers/arisen-cernunnos/[Arisen Cernunnos]
+|10 |https://codex.fqegg.top/#/codex/followers/arisen-glashtyn/[Arisen Glashtyn]
+|===
 
-=== Summons
+=== Monsters
 
-* *_T7_* Summon Cernunnos
-* *_T8_* Summon Buggane
-* *_T10_* Summon Glashtyn
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|7 |W M RD BD |https://codex.fqegg.top/#/codex/monsters/cernunnos/[Cernunnos]
+|8 |W M RD BD |https://codex.fqegg.top/#/codex/monsters/buggane/[Buggane]
+|10 |W M RD BD |https://codex.fqegg.top/#/codex/monsters/glashtyn/[Glashtyn]
+|===
+[.small]#*Spawn: W = World, M = Monument, RD = Regular Dungeon, BD = Beast Den#
 
-'''''
+=== Quests
 
-_All Nocturna gears have Summon / Pet stats, but maybe only useful for Summon / Pet deep endless build._
+Only Valhallan and Summoner can see the NPC.
 
-_by SzHb_
+. Defeat Cursed Artio of Fomoria, Artio of Fomoria, or Arisen Cursed Artio of Fomoria (1)
+* Reward: 100k gold, 10k orns
+. Defeat Arisen Cursed Mullo of Fomoria, Cursed Mullo of Fomoria, or Mullo of Fomoria (1)
+* Reward: 200k gold, 10k orns
+. Defeat Belenus of Fomoria, Arisen Cursed Belenus of Fomoria, or Cursed Belenus of Fomoria (1)
+* Reward: 300k gold, 10k orns
+. Defeat Arisen Cursed Aengus Og of Fomoria, Cursed Aengus Og of Fomoria, or Aengus Og of
+Fomoria (1)
+* Reward: 400k gold, 10k orns
+. Defeat Arisen Cursed Atepomarus of Fomoria, Cursed Atepomarus of Fomoria, or Atepomarus of Fomoria (1)
+* Reward: 500k gold, 10k orns, Crest of Nocturna
+
+=== Raids
+
+No.
+
+=== Skills
+
+[options="header"]
+|===
+|★ |Name
+|7 |https://codex.fqegg.top/#/codex/spells/summon-cernunnos/[Summon Cernunnos]
+|8 |https://codex.fqegg.top/#/codex/spells/summon-buggane/[Summon Buggane]
+|10 |https://codex.fqegg.top/#/codex/spells/summon-glashtyn/[Summon Glashtyn]
+|===

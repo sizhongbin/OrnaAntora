@@ -105,6 +105,8 @@ No.
 
 === Quests
 
+Only Magic Users can see the NPC.
+
 . Defeat Arisen Cursed Lero of Fomoria, Lero of Fomoria, or Cursed Lero of Fomoria (1)
 * Reward: 100k gold, 10k orns
 . Defeat Arisen Cursed Ogmios of Fomoria, Cursed Ogmios of Fomoria, or Ogmios of Fomoria (1)
