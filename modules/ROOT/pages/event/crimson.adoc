@@ -34,9 +34,9 @@ ____
 [options="header"]
 |===
 |★ |Spawn^*^ |Name
-|10 |M RD|https://codex.fqegg.top/#/codex/bosses/medusa/[Medusa] ^*GF^ ^Aura^
+|10 |M RD VG|https://codex.fqegg.top/#/codex/bosses/medusa/[Medusa] ^*GF^ ^Aura^
 |===
-[.small]#*Spawn: M = Monument, RD = Regular Dungeon#
+[.small]#*Spawn: M = Monument, RD = Regular Dungeon, VG = Valley of the Gods#
 
 === Crafting
 
