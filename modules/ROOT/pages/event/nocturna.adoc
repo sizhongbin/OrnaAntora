@@ -111,16 +111,16 @@ No.
 
 Only Valhallan and Summoner can see the NPC.
 
-. Defeat Cursed Artio of Fomoria, Artio of Fomoria, or Arisen Cursed Artio of Fomoria (1)
+. ★4: Defeat Cursed Artio of Fomoria, Artio of Fomoria, or Arisen Cursed Artio of Fomoria (1)
 * Reward: 100k gold, 10k orns
-. Defeat Arisen Cursed Mullo of Fomoria, Cursed Mullo of Fomoria, or Mullo of Fomoria (1)
+. ★4: Defeat Arisen Cursed Mullo of Fomoria, Cursed Mullo of Fomoria, or Mullo of Fomoria (1)
 * Reward: 200k gold, 10k orns
-. Defeat Belenus of Fomoria, Arisen Cursed Belenus of Fomoria, or Cursed Belenus of Fomoria (1)
+. ★4: Defeat Belenus of Fomoria, Arisen Cursed Belenus of Fomoria, or Cursed Belenus of Fomoria (1)
 * Reward: 300k gold, 10k orns
-. Defeat Arisen Cursed Aengus Og of Fomoria, Cursed Aengus Og of Fomoria, or Aengus Og of
+. ★4: Defeat Arisen Cursed Aengus Og of Fomoria, Cursed Aengus Og of Fomoria, or Aengus Og of
 Fomoria (1)
 * Reward: 400k gold, 10k orns
-. Defeat Arisen Cursed Atepomarus of Fomoria, Cursed Atepomarus of Fomoria, or Atepomarus of Fomoria (1)
+. ★4: Defeat Arisen Cursed Atepomarus of Fomoria, Cursed Atepomarus of Fomoria, or Atepomarus of Fomoria (1)
 * Reward: 500k gold, 10k orns, Crest of Nocturna
 
 === Raids
