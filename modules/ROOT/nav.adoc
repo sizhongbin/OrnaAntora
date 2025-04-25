@@ -6,7 +6,7 @@
 ** xref:event/nocturna.adoc[Paths of Fomoria - House of Nocturna]
 ** xref:event/mimic.adoc[The Mimics are Loose]
 ** xref:event/morrigan.adoc[Sisters of Morrigan]
-** Terra's Day(todo)
+** xref:event/terra.adoc[Terra's Day]
 * Basic Info
 ** xref:basic/battle.adoc[Battle]
 ** xref:basic/class.adoc[Class]
@@ -36,6 +36,7 @@
 ** xref:event/morrigan.adoc[Sisters of Morrigan]
 ** xref:event/solstice.adoc[Summer Solstice]
 ** Sumner Games(todo)
+** xref:event/terra.adoc[Terra's Day]
 ** xref:event/crimson.adoc[The Crimson Festival]
 ** xref:event/dioscuri.adoc[The Dioscuri]
 ** xref:event/hallowed.adoc[The Hallowed]

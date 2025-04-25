@@ -5,3 +5,63 @@
 ____
 Join us this Earth Week as we meet Gi and learn of the fate of Terra.
 ____
+
+== SzHb’s Notes
+
+=== Goodies
+
+. **★2 Item - Great Monster Aspect**
+* Can produce current event boss monster manifests
+* 300 gaia apples from Rewards 
+* Save them for fomoria events
+. **★1 Item - Fleshy Monster Aspect**
+* Can produce Finesse monster manifests
+* 200 gaia apples from Rewards 
+* Save them until Finesse monsters codexed
+
+=== Tips
+
+. Use Scroll of Chaos before farming Murk.
+
+== Event Checklist
+
+=== Bosses
+
+No.
+
+=== Crafting
+
+No.
+
+=== Followers
+
+No.
+
+=== Monsters
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|3 |G |https://codex.fqegg.top/#/codex/monsters/murk/[Murk]
+|===
+[.small]#*Spawn: G = Gloomsite#
+
+=== Quests
+
+. ★3: Find: Elm Essence (50)
+* Reward: 10m gold, 15k orns
+. ★3: Find: Gaia Apple (50)
+* Reward: 25m gold, 20k orns, Terra's Bracer
+
+=== Raids
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|8 |G |https://codex.fqegg.top/#/codex/raids/great-murk/[Great Murk]
+|===
+[.small]#*Spawn: G = Gloomsite#
+
+=== Skills
+
+No
