@@ -1,12 +1,10 @@
 * xref:index.adoc[Welcome]
-* Current Event (Apr 2025)
-** xref:event/ragnarok.adoc[Nothren Legends: Ragnarok]
-** xref:event/crimson.adoc[The Crimson Festival]
-** xref:event/fool.adoc[Fool of April]
-** xref:event/nocturna.adoc[Paths of Fomoria - House of Nocturna]
+* Current Event (May 2025)
+** xref:event/apollyon.adoc[The Plight of Apollyon]
+** xref:event/giants.adoc[Of Giants And Titans]
 ** xref:event/mimic.adoc[The Mimics are Loose]
 ** xref:event/morrigan.adoc[Sisters of Morrigan]
-** xref:event/terra.adoc[Terra's Day]
+** Ornaversary(todo)
 * Basic Info
 ** xref:basic/battle.adoc[Battle]
 ** xref:basic/class.adoc[Class]
