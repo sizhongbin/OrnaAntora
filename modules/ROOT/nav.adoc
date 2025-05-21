@@ -4,7 +4,7 @@
 ** xref:event/giants.adoc[Of Giants And Titans]
 ** xref:event/mimic.adoc[The Mimics are Loose]
 ** xref:event/morrigan.adoc[Sisters of Morrigan]
-** Ornaversary(todo)
+** xref:event/ornaversary.adoc[Ornaversary]
 * Basic Info
 ** xref:basic/battle.adoc[Battle]
 ** xref:basic/class.adoc[Class]
@@ -23,7 +23,7 @@
 ** xref:event/ragnarok.adoc[Nothren Legends: Ragnarok]
 ** xref:event/giants.adoc[Of Giants And Titans]
 ** Of Giants And Titans - Hyperion(todo)
-** Ornaversary(todo)
+** xref:event/ornaversary.adoc[Ornaversary]
 ** xref:event/autumna.adoc[Paths of Fomoria - House of Autumna]
 ** xref:event/nocturna.adoc[Paths of Fomoria - House of Nocturna]
 ** xref:event/sumner.adoc[Paths of Fomoria - House of Sumner]

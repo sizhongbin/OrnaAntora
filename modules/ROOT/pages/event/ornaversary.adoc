@@ -1,0 +1,206 @@
+= Ornaversary
+:page-role: -toc
+
+[quote]
+____
+It's Orna's birthday! Enjoy extra experience, orns, gold, and double the dungeon rewards.
+____
+
+== SzHb’s Notes
+
+=== Goodies
+
+. **★6 Off-hand - Pizza (Resprite of Bricriu’s Bow)**
+* Give Arrowstorm off-hand skill
+* From ★6 Raid MmmPizza
+* For horde
+. **★9 Torso - Dangy's Fancy T-shirt (Resprite of Fey Yeti Coat)**
+* Ward + HP + Mana
+* From ★7 Raid Dangy
+* Good generic chest
+. **★10 Accessory - Dangy's House Key (Resprite of Carl’s Ring)**
+* Overall stat boosting accessory
+* From ★7 Raid Dangy
+* Good for Spiked/Chained Shield build
+. **★10 Weapon - Banhammer (Resprite of Finesse’s Greatsword)**
+* (Warrior) High attack, high ward, 12 slots
+* From ★7 Raid Dangy
+* For Ultimastrikes build
+. **★10 Off-hand - Dangy's Laptop (Resprite of Spiked Greatshield)**
+* 1.2x ward power
+* From ★7 Raid Dangy
+* Good for SS/CS build
+. **★10 Torso - Covyn's Dark Armor (Resprite of Arisen Pumpkinless Armor)**
+* Low def, high HP, 2H bonus
+* From ★10 Raid Arisen Covyn
+* Good BoF gear
+. **★10 Leg - Covyn's Dark Leggings (Resprite of Arisen Pumpkinless Leggings)**
+* Low def, high HP, 2H bonus
+* From ★10 Raid Arisen Covyn
+* Good BoF gear
+. **★10 Head - Argos**
+* Resprite of Arisen Cursed Fomor's Crown for all classes, with 20% VD and Defend Power
+* From ★10 Raid The Creator
+* Good VD gear
+
+=== Tips
+
+. Most items from event raids are resprite of another items.
+[discrete]
+* ★5 - ob
+[options="header"]
+|===
+|★ |Item |Resprite of
+|5 |Marketing Plans |Jewel of Growth
+|5 |Ski Boots |Zeta Olympia Shoes
+|5 |Ski Helmet |Top Hat
+|5 |Ski Pole |Hel's Feathers
+|5 |Ski Stick |Menja's Warstaff
+|5 |Ski Suit |Menja's Battlerobe
+|===
+
+* ★5 - Mochi
+[options="header"]
+|===
+|★ |Item |Resprite of
+|5 |Mochi's Boots of Mercy |Ember-Plumed Boots
+|5 |Mochi's Bracer of Mercy |Terra's Bracer 
+|5 |Mochi's Claws |Feral Claws (with lower Att)
+|5 |Mochi's Cowl of Mercy |Zeta Olympia Cowl
+|5 |Mochi's Garb of Mercy |Hel's Garb
+|5 |Mochi's Tome |Hallowed Monster Tome
+|===
+
+* ★6 - MmmPizza
+[options="header"]
+|===
+|★ |Item |Resprite of
+|6 |Chef Pants |Aaru Leggings
+|6 |Pizza |Bricriu's Bow
+|6 |Pizza Peel |Raging Bull
+|6 |Pizza Slice |Untamed Bull's Eye
+|6 |Pizza Stained Apron |Aaru Armor
+|6 |Toque Blanche |Nu Olympia Helmet
+|===
+
+* ★6 - Havel
+[options="header"]
+|===
+|★ |Item |Resprite of
+|6 |Havel's Old Cuirass |Surtr's Cuirass (with higher Def and Res)
+|6 |Havel's Old Helmet |Horned Helmet
+|6 |Havel's Old Leggings |Perseus' Legwear
+|6 |Havel's Old Shield |Aegis of Athena
+|6 |Havel's Old Sword |Sleighblade
+|9 |Havel's Helmet |Furious Helmet
+|9 |Havel's Leggings |Arisen Avalon Leggings
+|9 |Havel's Shield |True Aegis of Athena
+|9 |Havel's Sword |Ebon Sleighblade
+|10 |Havel's Cuirass |Arisen Surtr's Cuirass
+|===
+
+* ★7 - Dangy
+[options="header"]
+|===
+|★ |Item |Resprite of
+|7 |Dangy's Chinos |Riftguard Leggings
+|7 |Dangy's Glasses |Riftguard Helmet
+|7 |Dangy's T-shirt |Riftguard Armor
+|9 |Dangy's Fancy T-shirt |Fey Yeti Coat
+|10 |Banhammer |Finesse's Greatsword
+|10 |Dangy's Arisen Glasses |Omega Olympia Helmet
+|10 |Dangy's House Key |Carl's Ring [mimic]
+|10 |Dangy's Laptop |Spiked Greatshield
+|10 |Dangy's Tan Chinos |Arisen Riftguard Leggings
+|===
+
+* ★8 - Purrly
+[options="header"]
+|===
+|★ |Item |Resprite of
+|8 |Purrly's Old Hat |Cursed Fomor's Crown (Nocturna)
+|8 |Purrly's Old Robe |Old Olympia Mantle
+|8 |Purrly's Old Staff |Cursed Aengus Og's Lute
+|9 |Purrly's Favourite Staff |Forest Goat Staff
+|10 |Purrly's Hood |Arisen Cursed Fomor's Crown (Nocturna)
+|10 |Purrly's Legguards |Arisen Rift Summoner Plate
+|10 |Purrly's Less Favourite Staff |Arisen Cursed Aengus Og's Lute
+|10 |Purrly's Robe |Arisen Olympia Mantle
+|===
+
+* ★9 - Flax44
+[options="header"]
+|===
+|★ |Item |Resprite of
+|9 |Flax44's Monocle |Zeta Myrddin Hood
+|9 |Flax44's Robe |Incarnate Robe
+|9 |Flax44's Shoes |Psi Olympia Shoes
+|9 |Flax44's Staff |Zeta Myrddin
+|===
+
+* ★10 - Arisen Covyn
+[options="header"]
+|===
+|★ |Item |Resprite of
+|8 |Covyn's Dark Mask |Avalon Crown
+|10 |Covyn's Dark Armor |Arisen Pumpkinless Armor
+|10 |Covyn's Dark Leggings |Arisen Pumpkinless Leggings
+|10 |Covyn's Soul Hunt Scythe |Arisen Nagamaki
+|===
+
+* ★10 - The Creator
+[options="header"]
+|===
+|★ |Item |Resprite of
+|9 |Del Chliss |Arisen Witch's Staff
+|9 |Pale Beard |Abyssal Helmet
+|10 |Argos |Arisen Cursed Fomor's Crown (Sumner) (with 20% VD and Defend Power)
+|10 |Beard Bristle |Lyncus' Bristle
+|10 |Magh Meall |Arisen Surtr's Cuirass
+|10 |Ogma |Arisen Cursed Esus's Pillar
+|10 |Tethra |--
+|10 |Trenfher |Arisen Askr Boots (without Stun Immune)
+|===
+
+== Event Checklist
+
+=== Boss
+
+No.
+
+=== Crafting
+
+No.
+
+=== Followers
+
+No.
+
+=== Monsters
+
+No.
+
+=== Quests
+
+No.
+
+=== Raids
+
+[options="header"]
+|===
+|★ |Spawn^*^ |Name
+|5 |A |https://codex.fqegg.top/#/codex/raids/ob/[ob]
+|5 |A |https://codex.fqegg.top/#/codex/raids/mochi/[Mochi]
+|6 |A |https://codex.fqegg.top/#/codex/raids/mmmpizza/[MmmPizza]
+|6 |A |https://codex.fqegg.top/#/codex/raids/havel/[Havel]
+|7 |A |https://codex.fqegg.top/#/codex/raids/dangy/[Dangy]
+|8 |A |https://codex.fqegg.top/#/codex/raids/purrly/[Purrly]
+|9 |A |https://codex.fqegg.top/#/codex/raids/flax44/[Flax44]
+|10 |A |https://codex.fqegg.top/#/codex/raids/arisen-covyn/[Arisen Covyn]
+|10 |A |https://codex.fqegg.top/#/codex/raids/the-creator/[The Creator]
+|===
+[.small]#*Spawn: A = Arisen Waygates#
+
+=== Skills
+
+No.
