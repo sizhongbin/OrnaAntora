@@ -1,0 +1,43 @@
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+}
+
+tr:nth-child(even) {
+  background-color: #F7F7F7;
+}
+
+td {
+  white-space: nowrap;
+}
+
+code {
+  background: inherit !important
+}
+
+.navbar {
+  background-color: #fafafa !important;
+}
+
+.navbar-brand .navbar-item {
+  color: #191919 !important;
+}
+
+.codex {
+  display: block;
+  background: url(../img/book.svg) no-repeat 50%;
+  height: 2.5rem;
+  width: 2.5rem;
+  margin: -.25rem;
+  padding-right: .5rem;
+  background-size: 49%;
+  border: none;
+  outline: none;
+  line-height: inherit;
+}
+
+@media screen and (max-width: 768.5px) {
+  .navbar-item.search {
+      padding-right: 1rem !important;
+  }
+}
